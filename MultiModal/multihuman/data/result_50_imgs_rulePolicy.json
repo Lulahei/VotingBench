@@ -1,0 +1,1186 @@
+{
+    "Qwen2": [
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_5_72dpi.png",
+            "description": "音乐家",
+            "selected_img": {
+                "GLM4V": "data/images/new_Dixit_9_CARD_1_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_3_CARD_1_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_7_72dpi.png",
+                "LLama": "data/images/new_DIXIT_CARD_5_72dpi.png",
+                "Step": "data/images/new_DIXIT_3_CARD_4_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_13_72dpi.png",
+            "description": "被囚禁的自由",
+            "selected_img": {
+                "GLM4V": "data/images/new_DIXIT_8_CARD_3_72dpi.png",
+                "InternVL2": "data/images/new_Dixit_9_CARD_11_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_10_72dpi.png",
+                "LLama": "data/images/new_DIXIT_6_CARD_3_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_12_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_10_72dpi.png",
+            "description": "神秘的夜晚，两个身影在篝火旁交谈。",
+            "selected_img": {
+                "GLM4V": "data/images/new_DIXIT_10_CARD_11_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_CARD_3_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_9_72dpi.png",
+                "LLama": "data/images/new_Dixit_9_CARD_8_72dpi.png",
+                "Step": "data/images/new_DIXIT_8_CARD_5_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_Dixit_9_CARD_3_72dpi.png",
+            "description": "英国国旗的飞虫",
+            "selected_img": {
+                "GLM4V": "data/images/new_DIXIT_QUEST_ELEMENT_13_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_1_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_CARD_6_72dpi.png",
+                "LLama": "data/images/new_DIXIT_10_CARD_6_72dpi.png",
+                "Step": "data/images/new_DIXIT_6_CARD_1_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_2_72dpi.png",
+            "description": "父爱如牛",
+            "selected_img": {
+                "GLM4V": "data/images/new_DIXIT_10_CARD_8_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_3_CARD_1_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_8_72dpi.png",
+                "LLama": "data/images/new_DIXIT_10_CARD_11_72dpi.png",
+                "Step": "data/images/new_DIXIT_6_CARD_6_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_4_72dpi.png",
+            "description": "神秘的红衣女子，手持苹果，背景模糊。",
+            "selected_img": {
+                "GLM4V": "data/images/new_Dixit_9_CARD_1_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_6_CARD_6_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_1_72dpi.png",
+                "LLama": "data/images/new_DIXIT_QUEST_ELEMENT_12_72dpi.png",
+                "Step": "data/images/new_DIXIT_10_CARD_4_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_CARD_5_72dpi.png",
+            "description": "彩虹桥",
+            "selected_img": {
+                "GLM4V": "data/images/new_Dixit_9_CARD_9_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_12_72dpi.png",
+                "DeepSeekVL": "data/images/new_Dixit_9_CARD_11_72dpi.png",
+                "LLama": "data/images/new_DIXIT_6_CARD_3_72dpi.png",
+                "Step": "data/images/new_DIXIT_CARD_1_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_CARD_4_72dpi.png",
+            "description": "梦幻水下床",
+            "selected_img": {
+                "GLM4V": "data/images/new_DIXIT_5_CARD_1_72dpi.png",
+                "InternVL2": "data/images/new_Dixit_9_CARD_7_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_2_72dpi.png",
+                "LLama": "data/images/new_DIXIT_10_CARD_10_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_15_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_3_CARD_1_72dpi.png",
+            "description": "智慧与梦想的交织",
+            "selected_img": {
+                "GLM4V": "data/images/new_DIXIT_CARD_1_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_1_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_CARD_2_72dpi.png",
+                "LLama": "data/images/new_DIXIT_8_CARD_4_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_1_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_6_CARD_3_72dpi.png",
+            "description": "孤独的岛屿",
+            "selected_img": {
+                "GLM4V": "data/images/new_DIXIT_QUEST_ELEMENT_7_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_10_CARD_8_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_2_72dpi.png",
+                "LLama": "data/images/new_DIXIT_QUEST_ELEMENT_13_72dpi.png",
+                "Step": "data/images/new_DIXIT_8_CARD_3_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_3_CARD_5_72dpi.png",
+            "description": "老人与鸟",
+            "selected_img": {
+                "GLM4V": "data/images/new_DIXIT_8_CARD_1_72dpi.png",
+                "InternVL2": "data/images/new_Dixit_9_CARD_1_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_8_72dpi.png",
+                "LLama": "data/images/new_Dixit_9_CARD_2_72dpi.png",
+                "Step": "data/images/new_DIXIT_QUEST_ELEMENT_10_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_10_CARD_2_72dpi.png",
+            "description": "优雅的下午茶",
+            "selected_img": {
+                "GLM4V": "data/images/new_DIXIT_5_CARD_4_72dpi.png",
+                "InternVL2": "data/images/new_Dixit_9_CARD_8_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_3_CARD_6_72dpi.png",
+                "LLama": "data/images/new_DIXIT_6_CARD_4_72dpi.png",
+                "Step": "data/images/new_DIXIT_3_CARD_2_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_8_CARD_3_72dpi.png",
+            "description": "孤独的天使",
+            "selected_img": {
+                "GLM4V": "data/images/new_DIXIT_6_CARD_4_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_3_72dpi.png",
+                "DeepSeekVL": "data/images/new_Dixit_9_CARD_5_72dpi.png",
+                "LLama": "data/images/new_Dixit_9_CARD_6_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_1_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_10_CARD_5_72dpi.png",
+            "description": "月光下的奇幻梦境",
+            "selected_img": {
+                "GLM4V": "data/images/new_DIXIT_8_CARD_6_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_10_CARD_6_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_12_72dpi.png",
+                "LLama": "data/images/new_DIXIT_10_CARD_8_72dpi.png",
+                "Step": "data/images/new_DIXIT_5_CARD_1_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_1_72dpi.png",
+            "description": "神秘的伪装者",
+            "selected_img": {
+                "GLM4V": "data/images/new_DIXIT_5_CARD_6_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_6_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_10_CARD_5_72dpi.png",
+                "LLama": "data/images/new_DIXIT_CARD_6_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_12_72dpi.png"
+            }
+        }
+    ],
+    "GLM4V": [
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_5_72dpi.png",
+            "description": "吹奏乐者",
+            "selected_img": {
+                "Qwen2": "data/images/new_Dixit_9_CARD_9_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_3_72dpi.png",
+                "DeepSeekVL": "data/images/new_Dixit_9_CARD_14_72dpi.png",
+                "LLama": "data/images/new_DIXIT_QUEST_CARD_2_72dpi.png",
+                "Step": "data/images/new_DIXIT_10_CARD_6_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_13_72dpi.png",
+            "description": "透明帐篷内的人",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_8_CARD_3_72dpi.png",
+                "InternVL2": "data/images/new_Dixit_9_CARD_11_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_CARD_6_72dpi.png",
+                "LLama": "data/images/new_DIXIT_6_CARD_3_72dpi.png",
+                "Step": "data/images/new_DIXIT_QUEST_ELEMENT_3_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_10_72dpi.png",
+            "description": "在帐篷里讲故事。",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_10_CARD_11_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_10_CARD_10_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_CARD_6_72dpi.png",
+                "LLama": "data/images/new_Dixit_9_CARD_8_72dpi.png",
+                "Step": "data/images/new_DIXIT_QUEST_ELEMENT_8_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_Dixit_9_CARD_3_72dpi.png",
+            "description": "雪中城堡上的神秘生物。",
+            "selected_img": {
+                "Qwen2": "data/images/new_Dixit_9_CARD_10_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_1_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_8_CARD_3_72dpi.png",
+                "LLama": "data/images/new_DIXIT_10_CARD_6_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_1_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_2_72dpi.png",
+            "description": "神秘生物温柔抱婴儿",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_10_CARD_6_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_3_CARD_1_72dpi.png",
+                "DeepSeekVL": "data/images/new_Dixit_9_CARD_5_72dpi.png",
+                "LLama": "data/images/new_DIXIT_10_CARD_11_72dpi.png",
+                "Step": "data/images/new_DIXIT_5_CARD_5_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_4_72dpi.png",
+            "description": "身着红裙的女子，手持红色果实，头发随风飘扬。",
+            "selected_img": {
+                "Qwen2": "data/images/new_Dixit_9_CARD_1_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_6_CARD_6_72dpi.png",
+                "DeepSeekVL": "data/images/new_Dixit_9_CARD_2_72dpi.png",
+                "LLama": "data/images/new_DIXIT_QUEST_ELEMENT_12_72dpi.png",
+                "Step": "data/images/new_DIXIT_6_CARD_5_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_CARD_5_72dpi.png",
+            "description": "彩虹之桥",
+            "selected_img": {
+                "Qwen2": "data/images/new_Dixit_9_CARD_9_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_12_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_10_CARD_11_72dpi.png",
+                "LLama": "data/images/new_DIXIT_6_CARD_3_72dpi.png",
+                "Step": "data/images/new_DIXIT_CARD_1_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_CARD_4_72dpi.png",
+            "description": "海底床帐",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_5_CARD_1_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_CARD_5_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_CARD_5_72dpi.png",
+                "LLama": "data/images/new_DIXIT_3_CARD_1_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_15_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_3_CARD_1_72dpi.png",
+            "description": "地毯上的故事",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_QUEST_ELEMENT_11_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_6_CARD_4_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_5_CARD_4_72dpi.png",
+                "LLama": "data/images/new_DIXIT_QUEST_ELEMENT_6_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_1_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_6_CARD_3_72dpi.png",
+            "description": "孤岛上的生活。",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_QUEST_ELEMENT_7_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_10_CARD_6_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_3_CARD_4_72dpi.png",
+                "LLama": "data/images/new_DIXIT_QUEST_ELEMENT_13_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_15_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_3_CARD_5_72dpi.png",
+            "description": "戴墨镜的老爷爷在喂鸟。",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_8_CARD_1_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_6_CARD_4_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_8_72dpi.png",
+                "LLama": "data/images/new_DIXIT_QUEST_ELEMENT_6_72dpi.png",
+                "Step": "data/images/new_DIXIT_QUEST_ELEMENT_5_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_10_CARD_2_72dpi.png",
+            "description": "绿意盎然，咖啡飘香。",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_3_CARD_1_72dpi.png",
+                "InternVL2": "data/images/new_Dixit_9_CARD_8_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_3_CARD_6_72dpi.png",
+                "LLama": "data/images/new_DIXIT_10_CARD_6_72dpi.png",
+                "Step": "data/images/new_DIXIT_3_CARD_2_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_8_CARD_3_72dpi.png",
+            "description": "天使坐在山顶上沉思。",
+            "selected_img": {
+                "Qwen2": "data/images/new_Dixit_9_CARD_4_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_3_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_6_CARD_3_72dpi.png",
+                "LLama": "data/images/new_Dixit_9_CARD_6_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_1_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_10_CARD_5_72dpi.png",
+            "description": "星夜下的音乐",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_QUEST_CARD_1_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_1_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_5_CARD_5_72dpi.png",
+                "LLama": "data/images/new_DIXIT_QUEST_ELEMENT_5_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_11_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_1_72dpi.png",
+            "description": "神秘的白衣驴子",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_QUEST_ELEMENT_3_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_4_72dpi.png",
+                "DeepSeekVL": "data/images/new_Dixit_9_CARD_1_72dpi.png",
+                "LLama": "data/images/new_DIXIT_10_CARD_6_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_12_72dpi.png"
+            }
+        }
+    ],
+    "InternVL2": [
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_5_72dpi.png",
+            "description": "音乐家在演奏",
+            "selected_img": {
+                "Qwen2": "data/images/new_Dixit_9_CARD_9_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_2_72dpi.png",
+                "DeepSeekVL": "data/images/new_Dixit_9_CARD_14_72dpi.png",
+                "LLama": "data/images/new_DIXIT_CARD_5_72dpi.png",
+                "Step": "data/images/new_DIXIT_3_CARD_4_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_13_72dpi.png",
+            "description": "透明伞下的人",
+            "selected_img": {
+                "Qwen2": "data/images/new_Dixit_9_CARD_3_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_10_CARD_9_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_CARD_6_72dpi.png",
+                "LLama": "data/images/new_DIXIT_6_CARD_3_72dpi.png",
+                "Step": "data/images/new_DIXIT_QUEST_ELEMENT_3_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_10_72dpi.png",
+            "description": "三个印第安人，篝火，夜晚",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_10_CARD_11_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_5_CARD_1_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_9_72dpi.png",
+                "LLama": "data/images/new_DIXIT_QUEST_ELEMENT_15_72dpi.png",
+                "Step": "data/images/new_DIXIT_8_CARD_5_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_Dixit_9_CARD_3_72dpi.png",
+            "description": "英国国旗，昆虫，城堡",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_CARD_5_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_6_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_CARD_6_72dpi.png",
+                "LLama": "data/images/new_DIXIT_10_CARD_6_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_1_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_2_72dpi.png",
+            "description": "力量与温柔",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_6_CARD_5_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_8_CARD_4_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_8_72dpi.png",
+                "LLama": "data/images/new_DIXIT_10_CARD_11_72dpi.png",
+                "Step": "data/images/new_DIXIT_5_CARD_5_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_4_72dpi.png",
+            "description": "神秘森林",
+            "selected_img": {
+                "Qwen2": "data/images/new_Dixit_9_CARD_1_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_8_CARD_4_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_CARD_1_72dpi.png",
+                "LLama": "data/images/new_DIXIT_QUEST_CARD_1_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_10_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_CARD_5_72dpi.png",
+            "description": "白马过彩虹",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_6_CARD_5_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_15_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_10_CARD_11_72dpi.png",
+                "LLama": "data/images/new_DIXIT_6_CARD_3_72dpi.png",
+                "Step": "data/images/new_DIXIT_CARD_1_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_CARD_4_72dpi.png",
+            "description": "一个漂浮的吊床，周围有鱼和气泡",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_5_CARD_3_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_13_72dpi.png",
+                "DeepSeekVL": "data/images/new_Dixit_9_CARD_6_72dpi.png",
+                "LLama": "data/images/new_DIXIT_8_CARD_4_72dpi.png",
+                "Step": "data/images/new_DIXIT_QUEST_ELEMENT_13_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_3_CARD_1_72dpi.png",
+            "description": "蓝色精灵与书",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_6_CARD_5_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_3_CARD_6_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_3_CARD_4_72dpi.png",
+                "LLama": "data/images/new_DIXIT_QUEST_ELEMENT_16_72dpi.png",
+                "Step": "data/images/new_DIXIT_QUEST_CARD_5_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_6_CARD_3_72dpi.png",
+            "description": "一个人坐在小岛上，周围是城市倒影，天空中有飞鸟",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_CARD_6_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_8_CARD_6_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_CARD_1_72dpi.png",
+                "LLama": "data/images/new_DIXIT_QUEST_ELEMENT_13_72dpi.png",
+                "Step": "data/images/new_DIXIT_8_CARD_3_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_3_CARD_5_72dpi.png",
+            "description": "一位老人与一只鸟在公园长椅上交谈。",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_5_CARD_3_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_QUEST_ELEMENT_4_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_8_72dpi.png",
+                "LLama": "data/images/new_Dixit_9_CARD_2_72dpi.png",
+                "Step": "data/images/new_DIXIT_6_CARD_3_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_10_CARD_2_72dpi.png",
+            "description": "两个企鹅在咖啡馆",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_QUEST_CARD_2_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_7_72dpi.png",
+                "DeepSeekVL": "data/images/new_Dixit_9_CARD_3_72dpi.png",
+                "LLama": "data/images/new_Dixit_9_CARD_12_72dpi.png",
+                "Step": "data/images/new_DIXIT_3_CARD_2_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_8_CARD_3_72dpi.png",
+            "description": "天使沉思",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_3_CARD_6_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_QUEST_ELEMENT_9_72dpi.png",
+                "DeepSeekVL": "data/images/new_Dixit_9_CARD_2_72dpi.png",
+                "LLama": "data/images/new_Dixit_9_CARD_6_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_1_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_10_CARD_5_72dpi.png",
+            "description": "夜晚，月光下，神秘符号",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_QUEST_CARD_1_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_QUEST_CARD_5_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_3_72dpi.png",
+                "LLama": "data/images/new_DIXIT_10_CARD_8_72dpi.png",
+                "Step": "data/images/new_DIXIT_3_CARD_1_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_1_72dpi.png",
+            "description": "戴面具的兔子",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_10_CARD_1_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_3_CARD_3_72dpi.png",
+                "DeepSeekVL": "data/images/new_Dixit_9_CARD_1_72dpi.png",
+                "LLama": "data/images/new_DIXIT_10_CARD_6_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_12_72dpi.png"
+            }
+        }
+    ],
+    "DeepSeekVL": [
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_5_72dpi.png",
+            "description": "一个戴着草帽、吹着长笛的女孩在彩色背景中行走。",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_5_CARD_4_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_QUEST_ELEMENT_4_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_7_72dpi.png",
+                "LLama": "data/images/new_DIXIT_6_CARD_3_72dpi.png",
+                "Step": "data/images/new_DIXIT_QUEST_CARD_6_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_13_72dpi.png",
+            "description": "梦幻泡影，一触即破",
+            "selected_img": {
+                "Qwen2": "data/images/new_Dixit_9_CARD_3_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_10_CARD_8_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_5_CARD_1_72dpi.png",
+                "LLama": "data/images/new_DIXIT_6_CARD_3_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_12_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_10_72dpi.png",
+            "description": "温暖夜空，闪烁星辰。",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_10_CARD_11_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_10_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_3_CARD_1_72dpi.png",
+                "LLama": "data/images/new_Dixit_9_CARD_8_72dpi.png",
+                "Step": "data/images/new_DIXIT_8_CARD_5_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_Dixit_9_CARD_3_72dpi.png",
+            "description": "双塔间飞舞着衣物，讲述者的心声难以捉摸。",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_3_CARD_4_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_6_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_10_CARD_5_72dpi.png",
+                "LLama": "data/images/new_DIXIT_3_CARD_2_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_1_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_2_72dpi.png",
+            "description": "温柔的守护",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_6_CARD_5_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_8_CARD_4_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_8_72dpi.png",
+                "LLama": "data/images/new_DIXIT_10_CARD_11_72dpi.png",
+                "Step": "data/images/new_DIXIT_6_CARD_6_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_4_72dpi.png",
+            "description": "色彩交错的梦境",
+            "selected_img": {
+                "Qwen2": "data/images/new_Dixit_9_CARD_1_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_8_CARD_4_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_1_72dpi.png",
+                "LLama": "data/images/new_DIXIT_8_CARD_3_72dpi.png",
+                "Step": "data/images/new_DIXIT_3_CARD_6_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_CARD_5_72dpi.png",
+            "description": "白马与彩虹",
+            "selected_img": {
+                "Qwen2": "data/images/new_Dixit_9_CARD_9_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_15_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_10_CARD_7_72dpi.png",
+                "LLama": "data/images/new_DIXIT_CARD_4_72dpi.png",
+                "Step": "data/images/new_DIXIT_CARD_1_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_CARD_4_72dpi.png",
+            "description": "海底梦境，漂浮的床，海洋生物环绕。",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_5_CARD_1_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_13_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_2_72dpi.png",
+                "LLama": "data/images/new_DIXIT_8_CARD_4_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_15_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_3_CARD_1_72dpi.png",
+            "description": "梦幻之境，奇幻之夜。",
+            "selected_img": {
+                "Qwen2": "data/images/new_Dixit_9_CARD_2_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_6_CARD_3_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_7_72dpi.png",
+                "LLama": "data/images/new_DIXIT_QUEST_ELEMENT_16_72dpi.png",
+                "Step": "data/images/new_DIXIT_QUEST_CARD_5_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_6_CARD_3_72dpi.png",
+            "description": "宁静的海面下，城市隐现，椰树轻摇。",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_QUEST_ELEMENT_7_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_8_CARD_6_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_3_72dpi.png",
+                "LLama": "data/images/new_DIXIT_QUEST_ELEMENT_13_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_15_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_3_CARD_5_72dpi.png",
+            "description": "一位老人与一只大鸟在公园长椅上共享宁静时刻。",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_5_CARD_3_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_CARD_4_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_8_72dpi.png",
+                "LLama": "data/images/new_Dixit_9_CARD_2_72dpi.png",
+                "Step": "data/images/new_DIXIT_6_CARD_3_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_10_CARD_2_72dpi.png",
+            "description": "两个讲述者坐在一张铺着白色桌布的圆桌旁，周围是郁郁葱葱的植物和飞舞的蝴蝶。",
+            "selected_img": {
+                "Qwen2": "data/images/new_Dixit_9_CARD_14_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_6_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_2_72dpi.png",
+                "LLama": "data/images/new_Dixit_9_CARD_12_72dpi.png",
+                "Step": "data/images/new_DIXIT_3_CARD_2_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_8_CARD_3_72dpi.png",
+            "description": "城市之巅，天使沉思。",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_10_CARD_4_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_3_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_5_CARD_1_72dpi.png",
+                "LLama": "data/images/new_DIXIT_CARD_4_72dpi.png",
+                "Step": "data/images/new_DIXIT_3_CARD_2_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_10_CARD_5_72dpi.png",
+            "description": "月亮下的舞者，影子拉长，星空作伴。",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_QUEST_ELEMENT_10_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_14_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_12_72dpi.png",
+                "LLama": "data/images/new_DIXIT_10_CARD_8_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_11_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_1_72dpi.png",
+            "description": "都市丛林中的神秘生物",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_5_CARD_6_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_15_72dpi.png",
+                "InternVL2": "data/images/new_Dixit_9_CARD_1_72dpi.png",
+                "LLama": "data/images/new_DIXIT_QUEST_ELEMENT_13_72dpi.png",
+                "Step": "data/images/new_DIXIT_6_CARD_4_72dpi.png"
+            }
+        }
+    ],
+    "LLama": [
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_5_72dpi.png",
+            "description": "一位舞蹈的艺术家",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_5_CARD_4_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_2_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_7_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_6_CARD_5_72dpi.png",
+                "Step": "data/images/new_DIXIT_QUEST_CARD_6_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_13_72dpi.png",
+            "description": "身陷透明盒",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_10_CARD_1_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_QUEST_ELEMENT_7_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_CARD_3_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_6_CARD_3_72dpi.png",
+                "Step": "data/images/new_DIXIT_5_CARD_2_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_10_72dpi.png",
+            "description": "人与火",
+            "selected_img": {
+                "Qwen2": "data/images/new_Dixit_9_CARD_13_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_3_CARD_5_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_3_CARD_1_72dpi.png",
+                "DeepSeekVL": "data/images/new_Dixit_9_CARD_8_72dpi.png",
+                "Step": "data/images/new_DIXIT_8_CARD_5_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_Dixit_9_CARD_3_72dpi.png",
+            "description": "飞行的温暖",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_3_CARD_4_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_10_CARD_10_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_10_CARD_5_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_2_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_1_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_2_72dpi.png",
+            "description": "温暖的母爱",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_10_CARD_6_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_3_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_8_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_CARD_1_72dpi.png",
+                "Step": "data/images/new_DIXIT_QUEST_ELEMENT_10_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_4_72dpi.png",
+            "description": "落叶舞影",
+            "selected_img": {
+                "Qwen2": "data/images/new_Dixit_9_CARD_1_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_8_CARD_4_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_1_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_CARD_1_72dpi.png",
+                "Step": "data/images/new_DIXIT_3_CARD_6_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_CARD_5_72dpi.png",
+            "description": "幻想的绿色世界",
+            "selected_img": {
+                "Qwen2": "data/images/new_Dixit_9_CARD_9_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_10_CARD_2_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_10_CARD_7_72dpi.png",
+                "DeepSeekVL": "data/images/new_Dixit_9_CARD_8_72dpi.png",
+                "Step": "data/images/new_DIXIT_CARD_3_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_CARD_4_72dpi.png",
+            "description": "海底的奇幻宝盒",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_5_CARD_1_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_8_72dpi.png",
+                "InternVL2": "data/images/new_Dixit_9_CARD_6_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_CARD_1_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_15_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_3_CARD_1_72dpi.png",
+            "description": "古老的故事",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_CARD_1_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_8_CARD_6_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_7_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_12_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_8_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_6_CARD_3_72dpi.png",
+            "description": "岛上小屋",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_10_CARD_11_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_6_CARD_6_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_3_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_13_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_15_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_3_CARD_5_72dpi.png",
+            "description": "生灵相遇",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_5_CARD_3_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_8_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_8_72dpi.png",
+                "DeepSeekVL": "data/images/new_Dixit_9_CARD_12_72dpi.png",
+                "Step": "data/images/new_DIXIT_QUEST_ELEMENT_10_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_10_CARD_2_72dpi.png",
+            "description": "都市风景",
+            "selected_img": {
+                "Qwen2": "data/images/new_Dixit_9_CARD_14_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_6_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_6_CARD_2_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_10_72dpi.png",
+                "Step": "data/images/new_DIXIT_3_CARD_2_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_8_CARD_3_72dpi.png",
+            "description": "幻想的天空",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_3_CARD_6_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_3_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_10_CARD_10_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_1_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_1_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_10_CARD_5_72dpi.png",
+            "description": "静夜无人",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_QUEST_CARD_1_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_QUEST_CARD_5_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_12_72dpi.png",
+                "DeepSeekVL": "data/images/new_Dixit_9_CARD_13_72dpi.png",
+                "Step": "data/images/new_DIXIT_3_CARD_1_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_1_72dpi.png",
+            "description": "半面人半面兽",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_QUEST_ELEMENT_2_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_3_CARD_3_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_10_CARD_5_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_CARD_6_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_12_72dpi.png"
+            }
+        }
+    ],
+    "Step": [
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_5_72dpi.png",
+            "description": "旋律在风中",
+            "selected_img": {
+                "Qwen2": "data/images/new_Dixit_9_CARD_1_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_2_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_7_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_CARD_5_72dpi.png",
+                "LLama": "data/images/new_DIXIT_QUEST_CARD_6_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_13_72dpi.png",
+            "description": "困在网中的人",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_10_CARD_4_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_10_CARD_8_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_CARD_3_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_8_CARD_2_72dpi.png",
+                "LLama": "data/images/new_DIXIT_QUEST_ELEMENT_12_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_10_72dpi.png",
+            "description": "篝火夜谈",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_6_CARD_5_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_3_CARD_5_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_3_CARD_1_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_3_CARD_2_72dpi.png",
+                "LLama": "data/images/new_DIXIT_CARD_5_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_Dixit_9_CARD_3_72dpi.png",
+            "description": "飞翔的梦境",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_CARD_5_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_6_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_10_CARD_5_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_2_72dpi.png",
+                "LLama": "data/images/new_DIXIT_6_CARD_1_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_2_72dpi.png",
+            "description": "温柔的守护者",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_QUEST_ELEMENT_4_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_8_CARD_4_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_12_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_CARD_1_72dpi.png",
+                "LLama": "data/images/new_DIXIT_6_CARD_6_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_4_72dpi.png",
+            "description": "树女献宝",
+            "selected_img": {
+                "Qwen2": "data/images/new_Dixit_9_CARD_1_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_8_CARD_4_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_1_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_12_72dpi.png",
+                "LLama": "data/images/new_DIXIT_6_CARD_5_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_CARD_5_72dpi.png",
+            "description": "彩虹桥之旅",
+            "selected_img": {
+                "Qwen2": "data/images/new_Dixit_9_CARD_9_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_15_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_10_CARD_7_72dpi.png",
+                "DeepSeekVL": "data/images/new_Dixit_9_CARD_14_72dpi.png",
+                "LLama": "data/images/new_DIXIT_6_CARD_6_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_CARD_4_72dpi.png",
+            "description": "深海之床",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_5_CARD_1_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_13_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_2_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_3_CARD_1_72dpi.png",
+                "LLama": "data/images/new_DIXIT_QUEST_CARD_6_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_3_CARD_1_72dpi.png",
+            "description": "梦中奇遇",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_CARD_1_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_6_CARD_3_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_7_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_12_72dpi.png",
+                "LLama": "data/images/new_Dixit_9_CARD_8_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_6_CARD_3_72dpi.png",
+            "description": "孤岛与城市",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_10_CARD_3_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_8_CARD_6_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_3_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_3_CARD_6_72dpi.png",
+                "LLama": "data/images/new_DIXIT_8_CARD_3_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_3_CARD_5_72dpi.png",
+            "description": "老人与鸟",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_8_CARD_2_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_CARD_4_72dpi.png",
+                "InternVL2": "data/images/new_Dixit_9_CARD_11_72dpi.png",
+                "DeepSeekVL": "data/images/new_Dixit_9_CARD_2_72dpi.png",
+                "LLama": "data/images/new_DIXIT_6_CARD_3_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_10_CARD_2_72dpi.png",
+            "description": "优雅的鸭子咖啡",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_QUEST_CARD_2_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_QUEST_ELEMENT_13_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_6_CARD_2_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_10_CARD_6_72dpi.png",
+                "LLama": "data/images/new_DIXIT_6_CARD_6_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_8_CARD_3_72dpi.png",
+            "description": "沉思的天使",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_3_CARD_6_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_3_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_5_CARD_1_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_1_72dpi.png",
+                "LLama": "data/images/new_DIXIT_10_CARD_9_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_10_CARD_5_72dpi.png",
+            "description": "星光下的舞",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_QUEST_CARD_1_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_14_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_12_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_8_CARD_5_72dpi.png",
+                "LLama": "data/images/new_Dixit_9_CARD_11_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_1_72dpi.png",
+            "description": "伪装的兔人",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_QUEST_ELEMENT_3_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_7_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_10_CARD_5_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_CARD_6_72dpi.png",
+                "LLama": "data/images/new_Dixit_9_CARD_12_72dpi.png"
+            }
+        }
+    ],
+    "human": [
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_5_72dpi.png",
+            "description": "",
+            "selected_img": {
+                "Qwen2": "data/images/new_Dixit_9_CARD_9_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_2_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_7_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_8_CARD_5_72dpi.png",
+                "LLama": "data/images/new_DIXIT_CARD_5_72dpi.png",
+                "Step": "data/images/new_DIXIT_3_CARD_4_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_13_72dpi.png",
+            "description": "",
+            "selected_img": {
+                "Qwen2": "data/images/new_Dixit_9_CARD_3_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_QUEST_ELEMENT_8_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_CARD_3_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_10_CARD_11_72dpi.png",
+                "LLama": "data/images/new_DIXIT_6_CARD_3_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_12_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_10_72dpi.png",
+            "description": "",
+            "selected_img": {
+                "Qwen2": "data/images/new_Dixit_9_CARD_13_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_5_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_3_CARD_1_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_CARD_3_72dpi.png",
+                "LLama": "data/images/new_Dixit_9_CARD_8_72dpi.png",
+                "Step": "data/images/new_DIXIT_8_CARD_5_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_Dixit_9_CARD_3_72dpi.png",
+            "description": "",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_CARD_5_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_6_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_10_CARD_5_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_5_72dpi.png",
+                "LLama": "data/images/new_DIXIT_10_CARD_6_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_1_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_2_72dpi.png",
+            "description": "",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_10_CARD_8_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_8_CARD_4_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_8_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_CARD_1_72dpi.png",
+                "LLama": "data/images/new_DIXIT_10_CARD_11_72dpi.png",
+                "Step": "data/images/new_DIXIT_QUEST_ELEMENT_10_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_4_72dpi.png",
+            "description": "",
+            "selected_img": {
+                "Qwen2": "data/images/new_Dixit_9_CARD_1_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_QUEST_CARD_2_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_1_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_8_CARD_5_72dpi.png",
+                "LLama": "data/images/new_DIXIT_3_CARD_2_72dpi.png",
+                "Step": "data/images/new_DIXIT_6_CARD_5_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_CARD_5_72dpi.png",
+            "description": "",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_6_CARD_5_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_5_CARD_1_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_10_CARD_7_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_3_CARD_2_72dpi.png",
+                "LLama": "data/images/new_Dixit_9_CARD_14_72dpi.png",
+                "Step": "data/images/new_DIXIT_6_CARD_6_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_CARD_4_72dpi.png",
+            "description": "",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_5_CARD_1_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_13_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_2_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_8_CARD_6_72dpi.png",
+                "LLama": "data/images/new_DIXIT_CARD_1_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_15_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_3_CARD_1_72dpi.png",
+            "description": "",
+            "selected_img": {
+                "Qwen2": "data/images/new_Dixit_9_CARD_2_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_3_CARD_6_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_7_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_13_72dpi.png",
+                "LLama": "data/images/new_DIXIT_10_CARD_10_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_8_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_6_CARD_3_72dpi.png",
+            "description": "",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_CARD_5_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_8_CARD_6_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_2_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_4_72dpi.png",
+                "LLama": "data/images/new_DIXIT_QUEST_ELEMENT_14_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_15_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_3_CARD_5_72dpi.png",
+            "description": "",
+            "selected_img": {
+                "Qwen2": "data/images/new_Dixit_9_CARD_6_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_10_CARD_7_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_8_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_8_CARD_6_72dpi.png",
+                "LLama": "data/images/new_DIXIT_CARD_2_72dpi.png",
+                "Step": "data/images/new_DIXIT_6_CARD_2_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_10_CARD_2_72dpi.png",
+            "description": "",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_QUEST_CARD_2_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_QUEST_ELEMENT_13_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_2_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_5_CARD_2_72dpi.png",
+                "LLama": "data/images/new_DIXIT_10_CARD_6_72dpi.png",
+                "Step": "data/images/new_DIXIT_3_CARD_2_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_8_CARD_3_72dpi.png",
+            "description": "",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_10_CARD_4_72dpi.png",
+                "GLM4V": "data/images/new_DIXIT_10_CARD_6_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_5_CARD_1_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_3_72dpi.png",
+                "LLama": "data/images/new_Dixit_9_CARD_6_72dpi.png",
+                "Step": "data/images/new_DIXIT_10_CARD_9_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_10_CARD_5_72dpi.png",
+            "description": "",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_QUEST_ELEMENT_10_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_14_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_QUEST_ELEMENT_12_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_QUEST_ELEMENT_1_72dpi.png",
+                "LLama": "data/images/new_DIXIT_10_CARD_8_72dpi.png",
+                "Step": "data/images/new_DIXIT_6_CARD_3_72dpi.png"
+            }
+        },
+        {
+            "ori_img": "data/images/new_DIXIT_QUEST_ELEMENT_1_72dpi.png",
+            "description": "",
+            "selected_img": {
+                "Qwen2": "data/images/new_DIXIT_QUEST_ELEMENT_3_72dpi.png",
+                "GLM4V": "data/images/new_Dixit_9_CARD_4_72dpi.png",
+                "InternVL2": "data/images/new_DIXIT_10_CARD_5_72dpi.png",
+                "DeepSeekVL": "data/images/new_DIXIT_3_CARD_4_72dpi.png",
+                "LLama": "data/images/new_DIXIT_10_CARD_6_72dpi.png",
+                "Step": "data/images/new_Dixit_9_CARD_12_72dpi.png"
+            }
+        }
+    ]
+}
