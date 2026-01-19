@@ -10,5 +10,7 @@ export Qwen_modelpath=qwen-plus
 export glm_apikey=
 export glm_modelpath=glm-4-plus
 export ds_apikey=
+export QIANFAN_ACCESS_KEY=
+export QIANFAN_SECRET_KEY=
 nohup python game_one_word.py > log1.txt 2>&1 &
 #nohup python Aihumanv.py > log2.txt 2>&1 &

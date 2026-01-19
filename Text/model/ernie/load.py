@@ -5,8 +5,7 @@ import re
 from tools.judge import is_legal_output,calculate_rouge2
 from tools.utils import log_with_timestamp
 
-os.environ["QIANFAN_ACCESS_KEY"] = "ALTAKWkLQI0tjmjZgC69YkaiKX"
-os.environ["QIANFAN_SECRET_KEY"] = "bf2cf6caafcf4cc782c37038ed2f47c0"
+
 
 chat_comp = qianfan.ChatCompletion()
 __name__ = "ernie"
