@@ -4,8 +4,6 @@ from openai import OpenAI
 from tools.judge import is_legal_output,calculate_rouge2
 from tools.utils import log_with_timestamp
 import os
-#腾讯云
-# client = OpenAI(api_key="sk-w9PTvA5yAjHoiH8jqZDh4sd63FMZW9pPfVnNLAT4BCgnQZbk", base_url="https://api.lkeap.cloud.tencent.com/v1")
 #dp官网
 client = OpenAI(
     api_key=os.getenv("ds_apikey"),
