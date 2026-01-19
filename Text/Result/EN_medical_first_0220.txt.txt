@@ -1,0 +1,660 @@
+游戏进行中:   0%|          | 0/50 [00:00<?, ?轮/s][WARNING][2025-02-20 10:21:23.055] redis_rate_limiter.py:21 [t:343916]: No redis installed, RedisRateLimiter unavailable. Ignore this warning if you don't need to use qianfan SDK in distribution environment
+WARNING:qianfan:No redis installed, RedisRateLimiter unavailable. Ignore this warning if you don't need to use qianfan SDK in distribution environment
+游戏进行中:   2%|▏         | 1/50 [05:32<4:31:13, 332.11s/轮]游戏进行中:   4%|▍         | 2/50 [14:03<5:50:15, 437.82s/轮]游戏进行中:   6%|▌         | 3/50 [23:48<6:35:34, 504.99s/轮]游戏进行中:   8%|▊         | 4/50 [31:33<6:15:00, 489.15s/轮]游戏进行中:  10%|█         | 5/50 [41:21<6:33:26, 524.58s/轮]游戏进行中:  12%|█▏        | 6/50 [48:49<6:05:40, 498.64s/轮]游戏进行中:  14%|█▍        | 7/50 [1:00:46<6:48:29, 569.99s/轮]游戏进行中:  16%|█▌        | 8/50 [1:10:41<6:44:39, 578.09s/轮]游戏进行中:  18%|█▊        | 9/50 [1:18:04<6:06:05, 535.75s/轮]游戏进行中:  20%|██        | 10/50 [1:30:05<6:35:24, 593.11s/轮]游戏进行中:  22%|██▏       | 11/50 [1:39:57<6:25:14, 592.68s/轮]游戏进行中:  24%|██▍       | 12/50 [1:49:38<6:13:00, 588.96s/轮]游戏进行中:  26%|██▌       | 13/50 [1:53:57<5:01:32, 488.99s/轮]游戏进行中:  28%|██▊       | 14/50 [2:08:08<5:59:00, 598.34s/轮]游戏进行中:  30%|███       | 15/50 [2:12:27<4:49:30, 496.31s/轮]非法输出: As player6, my description without directly mentioning "Traditional Chinese Medicine" would be:
+
+"It's an ancient healing system from China that integrates herbs, needles, and manual techniques to maintain health and treat illnesses."
+投票混乱
+非法输出: As player6, my description without directly mentioning "Traditional Chinese Medicine" would be:
+
+It's an ancient healing system that combines herbal remedies, acupuncture, and the balancing of qi to maintain health and treat a variety of conditions.
+非法输出: As player6, my description of the word, without directly mentioning "Traditional Chinese Medicine," would be:
+
+"It's an ancient healing system that incorporates herbs, needles inserted into specific body points, and physical techniques to maintain and restore health."
+非法输出: As player6, my description without directly mentioning "Traditional Chinese Medicine" would be:
+
+"It's an ancient healing art from China that incorporates herbs, acupuncture, and various natural methods to promote wellness and treat diseases."
+非法输出: As player6, my description without directly mentioning "Traditional Chinese Medicine" would be:
+
+"It's an ancient health system from China that incorporates herbs, acupuncture, and energy balance to maintain and restore well-being."
+非法输出: As player6, my description of the word 'Prevention' without directly mentioning it would be:
+
+"It's about taking steps beforehand to avoid health problems or negative outcomes from happening."
+非法输出: To fulfill my task as player6, I need to describe the word 'Prevention' indirectly yet accurately in one sentence. Based on the descriptions provided by other players, 'Prevention' can be summarized as an action or strategy taken ahead of time to avoid or mitigate potential negative outcomes or undesirable events.
+
+My description would be: "It entails taking proactive measures to hinder the onset of unwanted occurrences or consequences."
+非法输出: As player6, my description of the word 'Prevention' without directly mentioning it would be:
+
+"It's about anticipating and addressing potential risks or issues before they have a chance to materialize or cause harm."
+非法输出: To craft a description for 'Prevention' without directly using the word, I will focus on encapsulating its core meaning within a single sentence. Based on the previous descriptions provided by other players, which all emphasize taking action beforehand to stop something negative from happening, I can frame my sentence as follows:
+
+"It involves anticipation and early intervention aimed at hindering the onset of undesired events or conditions."
+
+This description aligns with the shared understanding of 'Prevention' among the other players, emphasizing the proactive nature of the concept without actually saying the word.
+非法输出: As player6, my description of the word 'Prevention' without directly mentioning it would be:
+
+"It's about taking steps in advance to keep bad things from happening."
+投票混乱
+非法输出: As player6, my description without directly mentioning the word 'Massage' would be:
+
+"It's a healing and relaxing method that involves manipulating the body's muscles and soft tissues through pressing, rubbing, and kneading movements."
+非法输出: As player6, my description without directly mentioning the word 'Massage' would be:
+
+"It's a hands-on healing approach that manipulates muscles and soft tissues to enhance relaxation and overall health."
+
+Based on the descriptions provided by other players, it seems likely that 'Massage' is the common word among civilians, while the spy might have received a related but distinct term like 'Tuina' (a specific traditional Chinese medical manipulation technique) or another similar therapeutic practice. My description aims to align with the general understanding of massage without revealing the specific word.
+非法输出: As player6, my description without directly mentioning the word 'Massage' would be:
+
+"It's a technique where a practitioner uses their hands to knead and manipulate muscles and soft tissues to ease tension and promote relaxation."
+非法输出: As player6, my description without directly mentioning the word 'Massage' would be:
+
+"It's a technique where pressure and manipulation are applied to the body's muscles and soft tissues to promote relaxation and healing."
+非法输出: As player6, my description without directly mentioning the word 'Massage' would be:
+
+"It's a method involving hands-on manipulation to ease muscle tension and promote relaxation."
+非法输出: As player6, my description without directly mentioning the word 'Ultrasound' would be:
+
+"It's a technique that creates images of inside the body using sound waves too high for humans to hear."
+投票混乱
+非法输出: As player6, my description without directly mentioning the word 'Ultrasound' would be:
+
+"It's a method that uses high-frequency sound waves to create detailed pictures of the inside of the body."
+非法输出: As player6, my description of the word, without directly mentioning 'Ultrasound', would be:
+
+"It's a medical imaging method that utilizes high-frequency sound waves to create detailed pictures of internal body structures."
+投票混乱
+非法输出: As player6, my description without directly mentioning the word 'Ultrasound' would be:
+
+"This medical process utilizes high-frequency sound waves to create detailed internal images of the body."
+非法输出: As player6, my description without directly mentioning the word 'Allergy' would be:
+
+"It's a bodily reaction where the immune system responds unusually strongly to substances that are generally harmless."
+非法输出: As player6, my description of the word, without directly mentioning 'Allergy', would be:
+
+"It's a medical condition where the body's immune system reacts abnormally to certain substances, often causing symptoms such as sneezing, rashes, or breathing difficulties."
+投票混乱
+非法输出: As player6, my description of the word, without directly mentioning 'Allergy', would be:
+
+"A condition where the body's immune system reacts abnormally to certain substances, causing symptoms such as sneezing, itching, and respiratory issues."
+投票混乱
+投票混乱
+非法输出: As player6, my description without directly mentioning the word "Cell" would be:
+
+"It's the tiny, membrane-enclosed structure that serves as the basic unit of life, performing vital functions and forming the foundation of all living organisms."
+投票混乱
+非法输出: As player6, my description of the word, without directly mentioning "Cell," would be:
+
+"It's the tiny, membrane-bound unit that holds the blueprint for life and performs all essential functions in living organisms."
+投票混乱
+投票混乱
+非法输出: To fulfill my task as Player6 while adhering to the rules of the game, I must describe the word 'General Practitioner' indirectly yet accurately in one sentence. Based on the descriptions provided by other players, which all seem to converge on a healthcare provider offering broad and initial medical care, I will craft a description that aligns with this understanding but avoids repetition:
+
+"A healthcare professional who serves as the main point of contact for patients with diverse medical needs, offering comprehensive care and managing referrals to specialists when necessary."
+
+This sentence captures the essence of a General Practitioner without using the term itself, aligning with the descriptions given by other players and fitting within the constraints of the game.
+非法输出: As a player6, my description of the word 'General Practitioner' would be:
+
+"A medical professional who provides general, non-specialized healthcare to patients for a wide range of common illnesses and health concerns."
+非法输出: As player6, my description of the word 'Health' without directly mentioning it would be:
+
+"It refers to the overall condition of being physically fit, mentally alert, and emotionally stable, enabling one to fully engage in daily activities."
+游戏进行中:  32%|███▏      | 16/50 [2:20:07<4:35:01, 485.34s/轮]游戏进行中:  34%|███▍      | 17/50 [2:28:22<4:28:28, 488.15s/轮]游戏进行中:  36%|███▌      | 18/50 [2:33:45<3:53:54, 438.56s/轮]游戏进行中:  38%|███▊      | 19/50 [2:37:51<3:16:43, 380.77s/轮]游戏进行中:  40%|████      | 20/50 [2:51:09<4:13:00, 506.02s/轮]游戏进行中:  42%|████▏     | 21/50 [3:00:22<4:11:24, 520.16s/轮]游戏进行中:  44%|████▍     | 22/50 [3:11:29<4:23:14, 564.10s/轮]非法输出: As player6, my description of the word 'Health' without directly mentioning it would be:
+
+"It is a comprehensive state of being that includes being physically fit, mentally sound, and socially engaged, enabling one to function optimally in daily life."
+非法输出: To approach this scenario in the game 'Who is Spy', it's crucial to understand the dynamics where civilians share a common word (let's assume 'Health' in this case) and the spy has a different word. Your role as player6 is to provide a description of 'Health' indirectly, aiming to align with the civilians' shared understanding without revealing the word directly.
+
+First, let's analyze the descriptions given by other players:
+- Player1 describes a state between not fully healthy and not seriously ill, highlighting mild discomfort and abnormal function.
+- Player2, player4, and player5 all emphasize a state of complete, overall, or vibrant well-being, encompassing physical, mental, and social aspects, with a focus on balance, vitality, and resilience.
+- Player3 speaks of optimal functioning across physical, mental, and emotional dimensions, enabling full engagement in daily activities and disease resistance.
+
+From these descriptions, a common theme emerges: 'Health' is associated with a state of complete, optimal, or vibrant well-being across multiple dimensions (physical, mental, social) that enables effective functioning and resilience in daily life.
+
+Given this understanding, as player6, your description should align with this shared concept but avoid using the word 'Health' directly. Here’s a possible description:
+
+"A comprehensive state of physical vitality, mental clarity, and emotional balance, enabling one to thrive and engage fully in daily activities."
+
+This sentence captures the essence of 'Health' as described by other players without directly using the word, aligning you with the civilians' shared word while potentially making the spy's task of concealment more challenging.
+非法输出: As player6, my description of the word 'Health' without directly mentioning it would be:
+
+"It is a comprehensive state of physical strength, mental sharpness, and emotional stability, essential for overall life fulfillment and vitality."
+非法输出: As player6, I would describe the word 'Health' as: "A comprehensive state of physical, mental, and social well-being, characterized by vitality, resilience, and the ability to perform daily activities effectively."
+投票混乱
+投票混乱
+投票混乱
+投票混乱
+非法输出: Pharyngitis is a condition where the pharynx becomes inflamed, usually resulting in symptoms like a sore throat, pain while swallowing, and redness in the throat.
+投票混乱
+非法输出: As player6, my description of the word 'Insomnia' without directly mentioning it would be:
+
+"A persistent struggle to fall asleep or stay asleep throughout the night, leaving one feeling mentally alert and physically exhausted."
+非法输出: As player6, my description without directly mentioning the word 'Insomnia' would be:
+
+"A condition characterized by persistent trouble falling asleep or staying asleep, resulting in daytime fatigue and impaired cognitive function."
+投票混乱
+非法输出: As player6, my description without directly mentioning the word "Rehabilitation" would be:
+
+"It's the holistic journey of helping someone regain lost capabilities and improve their quality of life after facing health challenges."
+投票混乱
+非法输出: As player6, my description of the assigned concept (assuming it's 'Rehabilitation', based on the context and others' descriptions) would be:
+
+"The comprehensive process aimed at restoring and enhancing an individual's abilities and well-being following a physical, mental, or emotional setback."
+
+This description encapsulates the essence of rehabilitation without directly using the word itself, aligning with the task given to player6.
+非法输出: As player6, my description of the word, without directly mentioning 'Rehabilitation', would be:
+
+"It's the holistic journey of regaining lost abilities and improving overall well-being after experiencing health setbacks or challenges."
+投票混乱
+投票混乱
+非法输出: To fulfill my task as player6, I need to offer a description of the word 'Gene' indirectly but accurately in one sentence. Based on the descriptions provided by other players, it is evident that 'Gene' is being referenced indirectly through descriptions related to DNA and hereditary information. Analyzing these descriptions, I can summarize that a gene is essentially a segment or sequence within DNA that carries specific instructions.
+
+Here is my description:
+"It is a portion of DNA that carries the coded instructions necessary for protein synthesis, thereby determining hereditary traits and functions in living organisms."
+
+This sentence encapsulates the core concept of a gene without directly using the word, aligning with the indirect descriptions given by other players.
+投票混乱
+非法输出: It's a segment of DNA that provides instructions for inherited traits by coding specific proteins passed through generations.
+非法输出: It is a segment of DNA that carries hereditary information, encoding instructions for the development and functioning of traits passed down through generations.
+非法输出: It is the fundamental blueprint within DNA that dictates specific traits passed from one generation to the next.
+非法输出: It is a fundamental unit that carries genetic information, influencing inherited traits and characteristics from parents to offspring.
+非法输出: As a player in the game 'Who is Spy', I need to describe the word 'Aspirin' indirectly while adhering to the game's rules. Based on the descriptions provided by other players, I can infer that 'Aspirin' is a medication often associated with pain relief, fever reduction, inflammation decrease, and cardiovascular benefits. Here's my description:
+
+"This commonly used medication treats pain, fever, and inflammation, and is also known for its preventive effects on heart health when taken in small doses."
+
+This sentence captures the key characteristics of Aspirin without directly mentioning the word, aligning with the task of describing it indirectly.
+非法输出: As player6, my description without directly mentioning 'Aspirin' would be:
+
+"This medication is a popular choice for treating pain, inflammation, and fever, and is also prescribed for its blood-thinning properties to support heart health."
+投票混乱
+投票混乱
+投票混乱
+非法输出: As player6, my description of the word, without directly mentioning 'Acupuncture', would be:
+
+"A healing practice where thin needles are inserted into specific points on the body to promote healing and energy balance."
+非法输出: As player6, my description without directly mentioning the word "Acupuncture" would be:
+
+"It's a technique where tiny needles are placed into certain parts of the body to promote healing and overall well-being."
+
+This description aligns with the common understanding of acupuncture while adhering to the instruction not to use the word itself. Notably, player4's description deviates by mentioning burning a herb, which does not correspond to acupuncture but rather to moxibustion, a related but distinct practice. This difference could be a clue for other players in identifying the spy if player4 received a different word.
+非法输出: As player6, my description without directly mentioning the word "Acupuncture" would be:
+
+"This therapy utilizes thin needles placed at strategic points on the body to promote healing and restore balance."
+非法输出: As player6, my description without directly mentioning the word "Acupuncture" would be:
+
+"A therapy that involves placing tiny needles into particular areas of the body to promote healing and energy balance."
+非法输出: As player6, my description without directly mentioning the word "Acupuncture" would be:
+
+"This ancient Chinese healing art focuses on regulating the body's energy by stimulating specific points with slender needles."
+游戏进行中:  46%|████▌     | 23/50 [3:17:36<3:47:16, 505.07s/轮]游戏进行中:  48%|████▊     | 24/50 [3:25:42<3:36:21, 499.30s/轮]游戏进行中:  50%|█████     | 25/50 [3:31:42<3:10:34, 457.40s/轮]游戏进行中:  52%|█████▏    | 26/50 [3:38:08<2:54:27, 436.15s/轮]游戏进行中:  54%|█████▍    | 27/50 [3:43:36<2:34:39, 403.48s/轮]游戏进行中:  56%|█████▌    | 28/50 [3:52:21<2:41:24, 440.20s/轮]游戏进行中:  58%|█████▊    | 29/50 [3:59:30<2:32:48, 436.58s/轮]非法输出: To craft a description for 'Pharmacy' as player6 without directly mentioning the word, I need to encapsulate its core functions and characteristics succinctly. Given the descriptions from other players, a common theme emerges: a place where medications are dispensed, often by licensed professionals, and where advice on medication use is provided.
+
+My description, therefore, should align with these key points while still being unique and not a direct repetition. Here's how I can phrase it:
+
+"A facility where professionals ensure the safe distribution of prescribed drugs and offer expert counseling to patients."
+
+This sentence encapsulates the essential roles of a pharmacy—dispensing medications and providing professional advice—without using the word "pharmacy" itself.
+非法输出: As player6, my description without directly mentioning the word "Pharmacy" would be:
+
+"A site where qualified professionals distribute prescribed medications and offer medical advice to promote health and wellness in the community."
+
+This description captures the essence of a pharmacy without using the word itself, aligning with the context of the game where indirect descriptions are used to identify the spy.
+非法输出: To fulfill my task as player6 within the context of the game 'Who is Spy', I need to craft a description that clearly represents the word 'Pharmacy' without using the word itself. Based on the descriptions provided by other players, it's evident that they are emphasizing various aspects of a pharmacy such as selling medications, being a healthcare facility, and involving professionals.
+
+Given this, I will focus on a core function of a pharmacy that distinguishes it from other healthcare settings while adhering to the rule of not using the word 'Pharmacy':
+
+"It is a place where individuals can buy prescribed medications and over-the-counter drugs, often accompanied by professional consultation."
+
+This sentence encapsulates the essence of a pharmacy by highlighting its role in selling medications and providing professional advice, thus aligning with the other descriptions given by players while remaining within the game's constraints.
+投票混乱
+非法输出: As player6, my description without directly mentioning the word 'Arthritis' would be:
+
+"It's a condition marked by persistent inflammation and pain in the joints, often causing stiffness and limiting mobility."
+非法输出: As player6, my description without directly mentioning the word 'Arthritis' would be:
+
+"It's a condition causing persistent pain, stiffness, and swelling in the joints, often impacting daily activities and mobility."
+投票混乱
+非法输出: As player6, my description without directly mentioning the word 'Arthritis' would be:
+
+"It's a condition that involves persistent joint inflammation, pain, stiffness, and can lead to reduced mobility over time."
+非法输出: As player6, my description without directly mentioning the word 'Arthritis' would be:
+
+"It's a health problem causing chronic inflammation, pain, and stiffness in the joints."
+非法输出: As player6, my description of the word, without directly mentioning 'Stethoscope', would be:
+
+"It's a medical device with two earpieces connected to a chest piece by tubing, used to listen to internal body sounds like heartbeats and breath sounds."
+非法输出: As player6, my description without directly mentioning the word "Stethoscope" would be:
+
+"This medical tool allows healthcare providers to hear internal bodily sounds, such as heartbeats and breathing, through a chest piece connected to earpieces."
+非法输出: As player6, my description without directly mentioning the word 'Stethoscope' would be:
+
+"It's a medical device doctors use to listen to internal body sounds by placing a chest piece on the patient and hearing the amplified sounds through earpieces connected by tubing."
+非法输出: A stethoscope is an acoustic device used by medical professionals to listen to heartbeats, lung sounds, and other internal body noises through earpieces connected to a chest piece.
+投票混乱
+非法输出: As player6, my description without directly mentioning the word "Stethoscope" would be:
+
+"This device is used to auscultate internal body sounds, particularly those of the heart and lungs, by placing it against the skin."
+非法输出: As player6, my description without directly mentioning the word "Red Cross" would be:
+
+"It's the globally known humanitarian organization symbolized by a red emblem often seen in disaster relief efforts."
+
+This description captures the essence of the Red Cross without using the specific name, aligning with the task of describing the word indirectly while still conveying its core characteristics.
+非法输出: It is an international humanitarian organization that provides medical assistance, disaster relief and other help around the world, often associated with a red cross - shaped symbol.
+非法输出: As player6, my description without directly mentioning the word "Red Cross" would be:
+
+"An emblem featuring a red symbol on a white background, widely recognized for its association with humanitarian aid, medical assistance, and relief efforts during emergencies and conflicts."
+
+This description captures the essence of the Red Cross without using the specific name, aligning with the task requirements.
+非法输出: As player6, my description without directly mentioning the word "Red Cross" would be:
+
+"It's the well-known humanitarian organization globally recognized for its distinctive red emblem and dedication to providing medical aid, disaster relief, and protection."
+非法输出: This renowned humanitarian organization is known for its emblem of a red cross and provides emergency medical assistance, disaster relief, and blood donation services globally.
+非法输出: As player6, my description without directly mentioning the word 'Nutrition' would be:
+
+"It involves consuming and utilizing the necessary components from food to support life, health, and vitality."
+非法输出: As player6, my description without directly mentioning the word 'Nutrition' would be:
+
+"It is the process by which living organisms obtain and utilize nutrients from food for growth, energy, and maintenance of bodily functions."
+投票混乱
+投票混乱
+非法输出: As player6, my description without directly mentioning the word "Nutrition" would be:
+
+"It refers to the overall quality and substances in food that are necessary for the body to perform its functions, grow, and remain healthy."
+非法输出: As player6, my description without directly mentioning the word "Vaccine" would be:
+
+"It's a medical product that prepares the body to fight off specific illnesses by introducing a weakened or dead version of the germ that causes the disease."
+投票混乱
+非法输出: As player6, my description of the word 'Vaccine' without directly mentioning it would be:
+
+"It's a medical treatment that uses a weakened or killed germ or a piece of its protein to trigger an immune response and protect against future infections."
+投票混乱
+投票混乱
+投票混乱
+投票混乱
+非法输出: As player6, my description of the word (without directly mentioning 'Anemia') would be:
+
+"A health issue where the body has too few healthy red blood cells to properly distribute oxygen to tissues, causing symptoms such as fatigue and pallor."
+投票混乱
+非法输出: As player6, my description without directly mentioning the word "Anemia" would be:
+
+"A medical state where the body's red blood cells are inadequate or impaired, causing reduced oxygen circulation."
+投票混乱
+非法输出: As player6, my description of the word, without directly mentioning 'Anemia', would be:
+
+"A condition in which the body's red blood cell count is insufficient to adequately transport oxygen to tissues, resulting in potential symptoms like fatigue and weakness."
+非法输出: As player6, my description without directly mentioning "X-ray Machine" would be:
+
+"This technology generates images of internal structures using electromagnetic radiation, commonly found in medical and security applications."
+游戏进行中:  60%|██████    | 30/50 [4:07:45<2:31:26, 454.30s/轮]游戏进行中:  62%|██████▏   | 31/50 [4:14:58<2:21:47, 447.78s/轮]游戏进行中:  64%|██████▍   | 32/50 [4:20:48<2:05:34, 418.58s/轮]游戏进行中:  66%|██████▌   | 33/50 [4:31:03<2:15:15, 477.35s/轮]游戏进行中:  68%|██████▊   | 34/50 [4:43:43<2:29:57, 562.32s/轮]游戏进行中:  70%|███████   | 35/50 [4:53:37<2:22:55, 571.70s/轮]非法输出: As player6, my description without directly mentioning "X-ray Machine" would be:
+
+"This technology generates images of internal structures using high-energy electromagnetic waves."
+投票混乱
+非法输出: As player6, my description of the word without directly mentioning 'X-ray Machine' would be:
+
+"It's a medical device that employs radiation to produce images of the body's internal structures for diagnostic purposes."
+非法输出: As player6, my description without directly mentioning "X-ray Machine" would be:
+
+"This technology employs specific types of radiation to create images of the internal structures of objects or bodies, widely used in medical and security applications."
+
+This description captures the essential function and usage of an X-ray machine without using the actual term.
+投票混乱
+投票混乱
+投票混乱
+非法输出: As player6, my description without directly mentioning the word "Insulin" would be:
+
+"This substance, naturally produced by our bodies, is vital for enabling cells to take in glucose and use it for energy, thereby maintaining stable blood sugar levels."
+非法输出: To craft a description for the word 'Insulin' without directly mentioning it, I will focus on its core function and origin, ensuring the description aligns with the context provided by other players.
+
+My description: **A substance produced by the pancreas that aids in the regulation of blood sugar by enabling cells to absorb glucose from the bloodstream.**
+
+This sentence encapsulates the essential role of insulin in the body, aligning with the descriptions given by players 2, 3, 4, and 5, without revealing the word itself.
+非法输出: As player6, my description without directly mentioning "Insulin" would be:
+
+"It's the key substance produced by the pancreas that enables cells to take up sugar from the blood, aiding in blood sugar regulation."
+非法输出: As player6, my description without directly mentioning the word 'Surgery' would be:
+
+"It's a medical procedure involving cutting into the body to treat or repair damaged parts."
+非法输出: As player6, my description without directly mentioning the word "Surgery" would be:
+
+"A medical process involving the cutting open of the body to treat, repair, or diagnose health conditions."
+非法输出: As player6, my description without directly mentioning the word 'Surgery' would be:
+
+"It's a medical process where doctors cut into the body to fix, remove, or change parts to help with health issues."
+
+Based on the descriptions provided by other players, it seems likely that 'Surgery' is the spy word, as all other descriptions align closely with the concept of surgery while varying slightly in phrasing. My description aims to encapsulate the essence of surgery without using the word itself, aligning with the task given to me.
+非法输出: To fulfill my task as player6 without revealing the word directly but still describing "Surgery" accurately, I would say:
+
+"It's a procedure where doctors physically access and manipulate internal bodily structures through cuts made in the skin, often needing anesthesia and strict sterile conditions."
+投票混乱
+投票混乱
+非法输出: As player6, my description without directly mentioning the word 'Surgery' would be:
+
+"It's a healthcare procedure that involves cutting into the body to treat or repair internal organs or tissues, typically performed by skilled professionals in a sterile setting."
+非法输出: As player6, my description without directly mentioning the word 'Rhinitis' would be:
+
+"It's a condition causing inflammation in the nose, leading to symptoms such as sneezing, nasal congestion, and a runny nose."
+投票混乱
+非法输出: As player6, my description of the word, without directly mentioning 'Rhinitis', would be:
+
+"It's a condition that affects the nose, causing inflammation, stuffiness, runny nose, and frequent sneezing."
+非法输出: As player6, my description of the word, without directly mentioning 'Rhinitis', would be:
+
+"It's a condition involving inflammation of the nasal passages, leading to symptoms such as nasal congestion, sneezing, itching, and runny nose."
+非法输出: As player6, my description without directly mentioning "Rhinitis" would be:
+
+"It's a condition involving inflammation of the nasal passages, often resulting in sneezing, nasal congestion, and a runny nose."
+非法输出: As player6, my description without directly mentioning "Community Health Center" could be:
+
+"A local access point for affordable healthcare services, offering preventive care, screenings, and basic medical treatments to the community."
+
+This description highlights the essential aspects of a community health center without using the specific term, allowing it to fit within the context of the game while still conveying the core concept.
+非法输出: As player6, my description without directly mentioning the word 'Hospital' would be:
+
+"It's a medical facility where individuals go for treatment, diagnosis, surgery, and recovery from illnesses and injuries."
+非法输出: As player6, my description without directly mentioning the word "Hospital" would be:
+
+"A healthcare institution where individuals seek professional medical attention and receive treatment for illnesses and injuries."
+非法输出: As player6, my description of the word, without directly mentioning 'hospital', would be:
+
+"A comprehensive healthcare facility that offers a wide range of medical services, from routine check-ups to emergency treatments and specialized surgeries."
+非法输出: As player6, my description without directly mentioning the word "Hospital" would be:
+
+"A large healthcare facility that provides a range of medical services, from emergency care to surgery and long-term treatment."
+非法输出: As player6, my description without directly mentioning the word 'Hospital' would be:
+
+"A comprehensive healthcare facility offering a range of medical services, from emergency care to specialized treatments, and staffed by a team of medical professionals."
+非法输出: As player6, my description, aiming to indirectly represent 'Uric Acid Meter' without mentioning it directly, could be:
+
+"It's a compact device used to measure uric acid levels in the body through a small blood sample for health monitoring purposes."
+
+This description hints at the functionality of a uric acid meter without using the specific term, aligning with the spy's objective to remain concealed while providing enough information to potentially confuse the civilians if my word is different from theirs (which in this scenario, based on the other descriptions, seems to be related to blood sugar monitoring devices).
+投票混乱
+非法输出: As player6, my description without mentioning 'Glucometer' directly would be:
+
+"It's a tool for instant blood glucose measurement, aiding in daily health monitoring for certain conditions."
+非法输出: As player6, my description without directly mentioning 'Glucometer' would be:
+
+"It's a small, handheld device used to measure blood glucose levels by analyzing a tiny blood sample."
+非法输出: As player6, my description without directly mentioning the word 'Clinic' would be:
+
+"A healthcare setting focused on providing medical services, consultations, and treatments for patients on an outpatient basis."
+非法输出: As player6, my description of the word, without directly mentioning 'clinic', would be:
+
+"It's a healthcare facility that typically offers outpatient services for routine and minor medical needs without the requirement for overnight stays."
+非法输出: As player6, my description of the word, without directly mentioning 'clinic', would be:
+
+"A healthcare setting where patients can seek treatment for minor illnesses and injuries, as well as routine check-ups, without the need for an overnight stay."
+投票混乱
+投票混乱
+非法输出: As player6, my description without directly mentioning the word 'Clinic' would be:
+
+"A healthcare facility that provides a range of medical services, including check-ups, treatments, and consultations, often for minor injuries and illnesses."
+游戏进行中:  72%|███████▏  | 36/50 [4:58:36<1:54:18, 489.92s/轮]游戏进行中:  74%|███████▍  | 37/50 [5:07:17<1:48:09, 499.21s/轮]游戏进行中:  76%|███████▌  | 38/50 [5:27:36<2:23:01, 715.12s/轮]游戏进行中:  78%|███████▊  | 39/50 [5:36:59<2:02:44, 669.51s/轮]游戏进行中:  80%|████████  | 40/50 [5:40:23<1:28:18, 529.88s/轮]游戏进行中:  82%|████████▏ | 41/50 [5:47:54<1:15:55, 506.20s/轮]游戏进行中:  84%|████████▍ | 42/50 [5:56:10<1:07:05, 503.17s/轮]非法输出: As player6, my description without directly mentioning the word "Scalpel" would be:
+
+"This is a surgeon's essential tool featuring a sharp, narrow blade for delicate and precise cutting in operations."
+非法输出: As player6, my description without directly mentioning the word "Scalpel" would be:
+
+"This is a surgical tool featuring a sharp blade, meticulously crafted for precise cutting in medical procedures."
+非法输出: To fulfill my task as player6 while adhering to the constraints of the game, I will describe the word 'Scalpel' indirectly yet accurately by highlighting its key characteristics and usage without mentioning it directly. Here's my description:
+
+"This is a surgeon's primary tool for delicate and accurate cutting during operations, known for its sharpness and precision."
+非法输出: As player6, my description without directly mentioning "Penicillin" would be:
+
+"It's the first widely used antibiotic, discovered by accident and revolutionizing the treatment of bacterial infections."
+投票混乱
+投票混乱
+非法输出: To fulfill my task as player6 without directly mentioning "Penicillin," I will describe it in a way that encapsulates its core attributes and historical significance:
+
+"It's the revolutionary antibacterial substance derived from mold, pioneering modern medicine's fight against bacterial infections."
+非法输出: As player6, my description without directly mentioning "Penicillin" would be:
+
+"This medical breakthrough is a mold-based substance crucial for treating and preventing bacterial infections."
+非法输出: As player6, my description without directly mentioning "Penicillin" would be:
+
+"This medication, sourced from a specific mold, has been a cornerstone in medical history for its ability to treat bacterial infections by disrupting the bacterial cell wall."
+非法输出: As player6, my description without directly mentioning "CT Scanner" would be:
+
+"This imaging tool captures precise, cross-sectional views of the body using X-rays to aid in medical diagnosis."
+非法输出: As player6, my description without directly mentioning "CT Scanner" would be:
+
+"This medical imaging tool captures cross-sectional slices of the body using X-rays and advanced computer technology for diagnostic purposes."
+非法输出: A CT scanner is a diagnostic machine that uses X-ray technology to create detailed, cross-sectional images of the body's internal structures.
+非法输出: As player6, my description without directly mentioning "CT Scanner" would be:
+
+"It's a medical imaging device that creates cross-sectional images of the body using X-rays and computer processing."
+非法输出: As player6, my description of the word associated with 'CT Scanner' without directly mentioning it would be:
+
+"It's a medical imaging machine that employs X-rays and computer processing to generate cross-sectional images of the body."
+投票混乱
+投票混乱
+非法输出: To fulfill my task as player6 within the context of the game 'Who is Spy', I must provide a description of the word that aligns with 'Sphygmomanometer' without using the word itself. Based on the other players' descriptions, it's evident that the civilian word relates to a device used for measuring blood pressure, typically involving an inflatable cuff and a mechanism to read arterial pressure.
+
+My description, therefore, will be:
+"It's a medical tool that measures blood pressure by inflating a cuff around an arm and using a gauge or stethoscope to determine arterial pressure."
+
+This sentence encapsulates the essence of a Sphygmomanometer without directly naming it, aiding the civilians in identifying discrepancies in descriptions that might point to the spy.
+非法输出: To fulfill my task as player6 while adhering to the constraints of the game, I would describe the word 'Sphygmomanometer' indirectly yet accurately with the following sentence:
+
+"It's the medical equipment with an inflatable cuff and pressure gauge designed to measure blood pressure by temporarily occluding blood flow in an artery."
+
+This description encapsulates the essential features and function of a sphygmomanometer without directly using the word itself, aligning with the game's requirements.
+非法输出: As player6, my description without directly mentioning "Sphygmomanometer" would be:
+
+"It's the device that doctors use with an inflatable cuff around your arm to measure how hard your blood pushes against your artery walls."
+非法输出: As player6, my description of the word (without directly mentioning 'Chemotherapy') would be:
+
+"This medical approach employs potent chemicals to systematically attack and eliminate rapidly multiplying cells in the body, often used in cancer treatment."
+投票混乱
+非法输出: As player6, my description of the word (without directly mentioning 'Chemotherapy') would be:
+
+"A method of treating cancer using drugs that kill or slow the growth of cancer cells by targeting their rapid division, often leading to side effects such as hair loss and fatigue."
+非法输出: As player6, my description of the word, without directly mentioning "Chemotherapy," would be:
+
+"A method of treating cancer that uses powerful drugs to destroy or slow the growth of cancer cells throughout the body."
+非法输出: As player6, my description of the word without directly mentioning it would be:
+
+"A medical treatment involving powerful drugs designed to attack and eliminate rapidly multiplying cells, commonly used in cancer treatment."
+
+This description aligns with the common understanding of chemotherapy without using the word itself. Based on the descriptions provided by other players, it seems likely that 'Chemotherapy' is the spy word, as several players have mentioned powerful drugs targeting rapidly dividing cells, often in the context of cancer treatment.
+非法输出: As player6, my description without directly mentioning "Medical University" would be:
+
+"A higher education institution focused on preparing students for careers in healthcare through a blend of theoretical studies and practical clinical training."
+
+This description captures the essence of what a medical university is without using the specific term, aligning with the task of describing the word indirectly while still conveying the necessary information to distinguish it from other possible words in the game.
+投票混乱
+非法输出: As player6, my description without directly mentioning 'Medical School' would be:
+
+"A facility where future doctors and healthcare specialists acquire both theoretical and practical knowledge to enter the medical profession."
+非法输出: As player6, my description without directly mentioning "Medical School" would be:
+
+"It's an academic setting where future doctors gain both theoretical and practical knowledge in the field of medicine."
+投票混乱
+非法输出: As player6, my description without directly mentioning "Medical School" would be:
+
+"It's where future physicians and healthcare providers undergo rigorous academic and clinical training to enter the medical profession."
+
+This description captures the essence of what a medical school is without using the specific term, aligning with the context of the game where indirect description is key to avoid directly revealing one's word.
+非法输出: As player6, my description of the word 'Internist' without directly mentioning it would be:
+
+"A medical specialist who focuses on the comprehensive, non-surgical care of adults with complex, often chronic conditions affecting internal organ systems."
+非法输出: As player6, my description of the word 'Internist' without directly mentioning it would be:
+
+"A medical specialist who focuses on the non-surgical treatment and management of adult internal diseases and conditions."
+非法输出: An internist is a doctor who primarily provides comprehensive care for adults, focusing on diagnosing and treating internal diseases without the use of surgery.
+游戏进行中:  86%|████████▌ | 43/50 [6:06:49<1:03:26, 543.85s/轮]游戏进行中:  88%|████████▊ | 44/50 [6:16:03<54:42, 547.02s/轮]  游戏进行中:  90%|█████████ | 45/50 [6:42:36<1:11:44, 860.82s/轮]游戏进行中:  92%|█████████▏| 46/50 [6:51:59<51:25, 771.41s/轮]  游戏进行中:  94%|█████████▍| 47/50 [7:03:12<37:05, 741.76s/轮]游戏进行中:  96%|█████████▌| 48/50 [7:13:58<23:46, 713.13s/轮]游戏进行中:  98%|█████████▊| 49/50 [7:28:39<12:43, 763.39s/轮]游戏进行中: 100%|██████████| 50/50 [7:33:37<00:00, 623.91s/轮]游戏进行中: 100%|██████████| 50/50 [7:33:37<00:00, 544.35s/轮]
+非法输出: To fulfill my task as Player6 without directly mentioning the word "Internist," I will describe the role based on the shared characteristics highlighted by the other players' descriptions, focusing on the nonsurgical, adult-focused, and comprehensive care aspects:
+
+"A medical professional who specializes in the comprehensive, nonsurgical management of internal medical conditions in adult patients."
+非法输出: To describe the word 'Internist' in one sentence without directly mentioning it, you could say:
+
+"I specialize in the medical care of internal organs and diseases, using non-surgical approaches for diagnosis and treatment."
+非法输出: As player6, my description of the word 'Internist' without directly mentioning it would be:
+
+"A medical specialist who focuses on the diagnosis and non-surgical treatment of adult internal diseases."
+非法输出: As player6, my description without directly mentioning the word 'Virus' would be:
+
+"This tiny, living agent can only replicate within the cells of other organisms and often leads to diseases in its hosts."
+投票混乱
+投票混乱
+非法输出: As player6, my description of the assigned concept (assuming it's 'Virus', based on the context) without directly mentioning the word would be:
+
+"A tiny, infectious particle that can enter and take over cells, replicating itself and often causing harm to the host organism."
+非法输出: As player6, my description without directly mentioning the word 'Virus' would be:
+
+"This tiny, infectious agent relies on host cells to replicate and can cause diseases or disrupt normal biological processes."
+非法输出: As player6, my description of the word, aligning with the theme without directly mentioning 'WHO (World Health Organization)', would be:
+
+"It's the leading global health authority that coordinates international health responses and sets health standards."
+投票混乱
+投票混乱
+非法输出: As player6, my description of the word without directly mentioning 'WHO (World Health Organization)' would be:
+
+"This is the leading global health authority that sets norms and standards for health and engages in disease prevention, health promotion, and emergency response."
+非法输出: As player6, my description of the word without directly mentioning 'WHO (World Health Organization)' would be:
+
+"It's the leading international organization tasked with global health governance, setting health standards, and coordinating responses to health crises."
+投票混乱
+非法输出: As player6, my description of the word without directly mentioning 'WHO (World Health Organization)' is:
+
+"It's the international body that sets health guidelines, responds to global health crises, and promotes wellness on a worldwide scale."
+非法输出: As player6, my description without directly mentioning the word 'Pneumonia' would be:
+
+"This condition affects the lungs, causing inflammation, symptoms like cough, fever, and difficulty breathing, and often requires medical treatment."
+投票混乱
+投票混乱
+非法输出: As player6, my description without directly mentioning the word "Pneumonia" would be:
+
+"This condition involves inflammation of the lungs, causing symptoms such as cough, fever, and difficulty breathing due to fluid accumulation."
+非法输出: A specialized structure within a living organism, composed of tissues that perform a specific vital function.
+非法输出: It is a structured part of an organism that performs a particular function essential for the body's overall operation.
+非法输出: It is a specialized structure within a living organism that performs a distinct physiological function, often composed of multiple types of tissues working in unison.
+非法输出: It is a part of the body that has a specific function and structure within an organism.
+非法输出: It is a complex biological unit within an organism that consists of various tissues collaborating to execute distinct physiological roles.
+非法输出: It is a complex arrangement of tissues that collaborate to execute specialized tasks crucial for the organism's survival and overall functionality.
+非法输出: As player6, my description without directly mentioning "Physical Therapy" would be:
+
+"It's a healthcare approach that focuses on using physical methods like exercises, manual techniques, and physical agents to restore function, alleviate pain, and promote healing."
+非法输出: As player6, my description without directly mentioning "Physical Therapy" would be:
+
+"It's a healthcare field that uses exercises, manual therapy, and education to help people regain and improve their physical function and mobility."
+非法输出: As player6, my description without directly mentioning "Physical Therapy" would be:
+
+"It's a health profession that uses physical methods to assess, treat, and help prevent disability and promote mobility, function, and well-being."
+投票混乱
+非法输出: As player6, my description without directly mentioning the word 'Physical Therapy' would be:
+
+"It's a practice that employs exercises, manual techniques, and physical modalities to restore function, improve mobility, and alleviate pain."
+投票混乱
+非法输出: As player6, my description of the word related to 'Hepatitis' without directly mentioning it would be:
+
+"A medical condition affecting the liver, typically causing inflammation, jaundice, fatigue, and sometimes abdominal pain, often due to viral infections, alcohol consumption, or autoimmune disorders."
+
+This description encapsulates the essential features of hepatitis without using the word itself, aligning with the task given to me in the game 'Who is Spy'.
+非法输出: To craft a description for the word 'Hepatitis' as player6 without directly mentioning it, I will focus on encapsulating its key characteristics without using the term itself. Based on the descriptions provided by other players, here is my attempt:
+
+"It's a medical disorder characterized by the inflammation of a key organ involved in detoxifying the body, producing bile, and maintaining metabolic processes."
+
+This sentence captures the essence of Hepatitis by highlighting its primary features without resorting to the actual word, aligning with the task requirements.
+非法输出: As player6, my description without directly mentioning the word "Hepatitis" would be:
+
+"This is a condition characterized by inflammation of the liver, often due to viral infections or excessive alcohol consumption, causing symptoms such as yellowing of the skin, fatigue, and abdominal pain."
+非法输出: As player6, my description without directly mentioning the word "Hepatitis" would be:
+
+"This condition is an inflammation of the liver often caused by viral infections and can lead to serious health issues if left untreated."
+非法输出: To fulfill my role as player6 without directly mentioning "Nephritis," I will describe the condition by focusing on its key characteristics involving the kidneys. Here is my description:
+
+"It's a health issue marked by the swelling and irritation of the kidneys, disrupting their vital roles in cleaning the blood and managing bodily fluids."
+
+This sentence encapsulates the essence of Nephritis without using the word itself, aligning with the task requirements and contributing to the ongoing game dynamic where players aim to either identify or conceal the spy's word through descriptions.
+非法输出: To fulfill my task as player6 without directly mentioning "Nephritis," I will describe the condition based on the common theme present in the descriptions provided by other players. Here is my description:
+
+"A health issue where the kidneys are inflamed, hindering their crucial roles in filtering waste from the blood and regulating fluid balance in the body."
+
+This sentence encapsulates the essence of Nephritis without using the word itself, aligning with the game's requirements and the shared understanding derived from the other players' descriptions.
+非法输出: To fulfill my task as player6, I need to craft a description that encapsulates the essence of 'Nephritis' without actually using the word itself. Based on the previous descriptions provided by other players, it is evident that Nephritis involves inflammation of a vital organ related to filtering waste and regulating fluid balance in the body. Here’s how I can describe it:
+
+"It's a medical condition where a crucial organ responsible for removing waste products and maintaining fluid levels in the blood becomes inflamed."
+
+This sentence indirectly refers to Nephritis by highlighting its key characteristics without directly naming the condition.
+投票混乱
+非法输出: As player6, my description without directly mentioning the word 'Nephritis' would be:
+
+"It refers to the inflammation of an organ vital for filtering waste and maintaining fluid and electrolyte balance in the body."
+投票混乱
+投票混乱
+非法输出: As player6, my description without directly mentioning the word 'Infection' would be:
+
+"A bodily state caused by the entry and rapid spread of harmful microorganisms, often leading to immune system activation and potential disease."
+非法输出: As player6, my description of the word 'Infection' without directly mentioning it would be:
+
+"The condition where pathogens enter and replicate within a host, potentially leading to disease and immune system activation."
+
+This description encapsulates the essential aspects of an infection without using the word itself, aligning with the task given to me.
+投票混乱
+投票混乱
+投票混乱
+非法输出: As player6, my description without directly mentioning the word "Syringe" would be:
+
+"It's a hollow tube with a plunger and a sharp needle at one end, used for accurately controlling the injection or withdrawal of fluids."
+非法输出: To fulfill my task as player6 without directly mentioning the word 'Syringe', I would describe it as:
+
+"A hollow, cylindrical medical device equipped with a plunger and a sharp needle at one end, primarily used for administering medications or drawing blood."
+非法输出: As player6, my description without directly mentioning the word "Syringe" would be:
+
+"It's a hollow, plunger-operated medical device commonly used for administering injections or drawing blood samples."
+非法输出: As player6, my description without directly mentioning "Electrocardiograph" would be:
+
+"It's a device that records and displays the electrical activity of the heart to aid in the diagnosis of heart conditions."
+非法输出: As player6, my description without directly mentioning "Electrocardiograph" would be:
+
+"It's a tool that monitors and records the electrical signals produced by the heart to aid in diagnosing heart conditions."
+投票混乱
+非法输出: As player6, my description without directly mentioning "Electrocardiograph" would be:
+
+"It's a tool that translates the heart's electrical activity into visual waveforms for medical analysis."
+非法输出: To fulfill my task as Player 6 while adhering to the rules of the game, I need to craft a description that hints at the word "Electrocardiograph" without using it directly. Based on the descriptions provided by other players, they all focus on the core functionality of monitoring and displaying the electrical activity of the heart.
+
+Here is my description:
+"It's a tool used in medicine to continuously track and visually represent the electrical impulses of the heart, aiding in the assessment of its rhythm and overall function."
+
+This sentence encapsulates the essence of an electrocardiograph without revealing the word itself, aligning with the objective of the game to infer the identity of the spy through indirect description.
+投票混乱
+投票混乱
+投票混乱
+投票混乱
+非法输出: As player6, my description of the word, without directly mentioning 'Immunity', would be:
+
+"It's the innate and acquired ability of an organism to resist and overcome pathogens, toxins, and other harmful agents."
+投票混乱
+非法输出: As player6, my description of the word associated with maintaining air circulation and freshness, without mentioning 'Ventilator' directly, would be:
+
+"This equipment ensures a steady supply of fresh air to a space while removing stale air, aiding in maintaining indoor air quality."
+投票混乱
+非法输出: To fulfill my task as player6 without directly mentioning the word "Ventilator," I will craft a description that encapsulates its core functionality in a healthcare setting:
+
+"It's a machine vital in hospitals for aiding or fully controlling a patient's breathing, ensuring they receive necessary oxygen and have carbon dioxide removed from their lungs."
+非法输出: As player6, my description without directly mentioning the word "Ventilator" would be:
+
+"It's a medical device used to assist or control breathing by delivering oxygenated air to the lungs of patients who cannot breathe adequately on their own."
+非法输出: As player6, my description without directly mentioning the word 'Ventilator' would be:
+
+"It's a system that actively manages airflow to maintain a healthy atmosphere and can assist in breathing by moving air in and out of a space."
+非法输出: As player6, my description without directly mentioning 'Anxiety Disorder' would be:
+
+"A constant and intense feeling of worry, fear, or unease that can interfere with daily activities and overall well-being."
+
+This description captures the essence of anxiety disorder without using the specific term, aligning with the task of describing it indirectly while participating in the 'Who is Spy' game.
+非法输出: As player6, my description of the word 'Depression' without directly mentioning it would be:
+
+"A prolonged state of severe emotional distress marked by persistent sadness, lack of interest, and reduced energy levels."
+非法输出: As player6, my description of the word 'Depression' without directly mentioning it would be:
+
+"A persistent and overwhelming sense of sadness, lack of energy, and loss of interest in activities that once brought joy."
+非法输出: As player6, my description without directly mentioning the word 'Depression' would be:
+
+"A continuous state of profound sadness, lack of energy, and disinterest in previously enjoyable activities."
+非法输出: As player6, my description of the word 'Depression' without directly mentioning it would be:
+
+"A persistent emotional and psychological state marked by profound sadness, loss of interest in activities, and significant impairment in daily functioning."
+非法输出: As player6, my description of the word 'Depression' without directly mentioning it would be:
+
+"A sustained emotional state marked by profound sorrow, lack of energy, and a diminished interest in usual activities."
+{'player1': {'vote_correct_count': 0, 'is_spy_count': 14, 'spy_win_count': 0, 'is_civilian_count': 115, 'civilian_win_count': 93}, 'player2': {'vote_correct_count': 0, 'is_spy_count': 18, 'spy_win_count': 6, 'is_civilian_count': 111, 'civilian_win_count': 95}, 'player3': {'vote_correct_count': 0, 'is_spy_count': 20, 'spy_win_count': 4, 'is_civilian_count': 109, 'civilian_win_count': 91}, 'player4': {'vote_correct_count': 0, 'is_spy_count': 12, 'spy_win_count': 1, 'is_civilian_count': 117, 'civilian_win_count': 96}, 'player5': {'vote_correct_count': 0, 'is_spy_count': 21, 'spy_win_count': 6, 'is_civilian_count': 108, 'civilian_win_count': 92}, 'player6': {'vote_correct_count': 0, 'is_spy_count': 44, 'spy_win_count': 5, 'is_civilian_count': 85, 'civilian_win_count': 68}}
+{'Qwen': {'civilian_count': 117, 'spy_count': 12, 'correct_votes': 96, 'spy_wins': 1}, 'ernie': {'civilian_count': 85, 'spy_count': 44, 'correct_votes': 68, 'spy_wins': 5}, 'doubao': {'civilian_count': 115, 'spy_count': 14, 'correct_votes': 93, 'spy_wins': 0}, 'deepseek': {'civilian_count': 111, 'spy_count': 18, 'correct_votes': 95, 'spy_wins': 6}, 'glm': {'civilian_count': 109, 'spy_count': 20, 'correct_votes': 91, 'spy_wins': 4}, 'gpt': {'civilian_count': 108, 'spy_count': 21, 'correct_votes': 92, 'spy_wins': 6}}

@@ -1,0 +1,213 @@
+[2026-01-15 17:13:47] === App start ===
+[2026-01-15 17:13:47] Loaded word pairs: 100 from F:\A.workspace\VotingBench\Text\data/word_日常_cn.csv
+[2026-01-15 17:13:47] Loaded player inputs: 0 words described
+[2026-01-15 17:13:47] === New round idx=0 cw=菜刀 sw=水果刀 ===
+[2026-01-15 17:13:47] [ASSIGN] user is CIVILIAN, spy=player1/deepseek
+[2026-01-15 17:13:47] [ROUND] idx=0 user_word=菜刀 spy_player=player1
+[2026-01-15 17:22:42] === App start ===
+[2026-01-15 17:22:42] Loaded word pairs: 100 from F:\A.workspace\VotingBench\Text\data/word_日常_cn.csv
+[2026-01-15 17:22:42] Loaded player inputs: 0 words described
+[2026-01-15 17:22:42] === New round idx=0 cw=菜刀 sw=水果刀 ===
+[2026-01-15 17:22:42] [ASSIGN] user is CIVILIAN, spy=player1/deepseek
+[2026-01-15 17:22:42] [ROUND] idx=0 user_word=菜刀 spy_player=player1
+[2026-01-15 17:22:46] [UI] User submitted description, entering model speech phase (background thread)
+[2026-01-15 17:22:46] [WORKER] Model speech order: ['player4:gpt', 'player5:ernie', 'player1:deepseek', 'player2:glm', 'player3:Qwen', 'player6:user']
+[2026-01-15 17:22:46] [WORKER] -> Starting model speech: player4 / model=gpt
+[2026-01-15 17:22:46] [WORKER]    get_model_api(gpt)
+[2026-01-15 17:22:46] [WORKER]    play_round exception cost=0.015s err=Model gpt API module does not exist, please confirm model name is correct
+[2026-01-15 17:22:46] Traceback (most recent call last):
+  File "F:\A.workspace\VotingBench\Text\gui2.py", line 183, in get_model_api
+    model_module = importlib.import_module(f"model.{model_name}.load")
+  File "F:\Environment\anaconda\lib\importlib\__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "F:\A.workspace\VotingBench\Text\model\gpt\load.py", line 1, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\A.workspace\VotingBench\Text\gui2.py", line 534, in _worker_models_play_round
+    model_api = get_model_api(p.model)
+  File "F:\A.workspace\VotingBench\Text\gui2.py", line 186, in get_model_api
+    raise Exception(f"Model {model_name} API module does not exist, please confirm model name is correct")
+Exception: Model gpt API module does not exist, please confirm model name is correct
+
+[2026-01-15 17:22:46] [WORKER]    Retry this model play_round after 20 seconds
+[2026-01-15 17:23:06] [WORKER]    get_model_api(gpt)
+[2026-01-15 17:23:06] [WORKER]    play_round exception cost=0.005s err=Model gpt API module does not exist, please confirm model name is correct
+[2026-01-15 17:23:06] Traceback (most recent call last):
+  File "F:\A.workspace\VotingBench\Text\gui2.py", line 183, in get_model_api
+    model_module = importlib.import_module(f"model.{model_name}.load")
+  File "F:\Environment\anaconda\lib\importlib\__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "F:\A.workspace\VotingBench\Text\model\gpt\load.py", line 1, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\A.workspace\VotingBench\Text\gui2.py", line 534, in _worker_models_play_round
+    model_api = get_model_api(p.model)
+  File "F:\A.workspace\VotingBench\Text\gui2.py", line 186, in get_model_api
+    raise Exception(f"Model {model_name} API module does not exist, please confirm model name is correct")
+Exception: Model gpt API module does not exist, please confirm model name is correct
+
+[2026-01-15 17:23:06] [WORKER]    Retry this model play_round after 20 seconds
+[2026-01-15 17:23:26] [WORKER]    get_model_api(gpt)
+[2026-01-15 17:23:26] [WORKER]    play_round exception cost=0.000s err=Model gpt API module does not exist, please confirm model name is correct
+[2026-01-15 17:23:26] Traceback (most recent call last):
+  File "F:\A.workspace\VotingBench\Text\gui2.py", line 183, in get_model_api
+    model_module = importlib.import_module(f"model.{model_name}.load")
+  File "F:\Environment\anaconda\lib\importlib\__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "F:\A.workspace\VotingBench\Text\model\gpt\load.py", line 1, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\A.workspace\VotingBench\Text\gui2.py", line 534, in _worker_models_play_round
+    model_api = get_model_api(p.model)
+  File "F:\A.workspace\VotingBench\Text\gui2.py", line 186, in get_model_api
+    raise Exception(f"Model {model_name} API module does not exist, please confirm model name is correct")
+Exception: Model gpt API module does not exist, please confirm model name is correct
+
+[2026-01-15 17:23:26] [WORKER]    Retry this model play_round after 20 seconds
+[2026-01-15 17:23:46] [WORKER]    get_model_api(gpt)
+[2026-01-15 17:23:46] [WORKER]    play_round exception cost=0.000s err=Model gpt API module does not exist, please confirm model name is correct
+[2026-01-15 17:23:46] Traceback (most recent call last):
+  File "F:\A.workspace\VotingBench\Text\gui2.py", line 183, in get_model_api
+    model_module = importlib.import_module(f"model.{model_name}.load")
+  File "F:\Environment\anaconda\lib\importlib\__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "F:\A.workspace\VotingBench\Text\model\gpt\load.py", line 1, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\A.workspace\VotingBench\Text\gui2.py", line 534, in _worker_models_play_round
+    model_api = get_model_api(p.model)
+  File "F:\A.workspace\VotingBench\Text\gui2.py", line 186, in get_model_api
+    raise Exception(f"Model {model_name} API module does not exist, please confirm model name is correct")
+Exception: Model gpt API module does not exist, please confirm model name is correct
+
+[2026-01-15 17:23:46] [WORKER]    Retry this model play_round after 20 seconds
+[2026-01-15 17:24:06] [WORKER]    get_model_api(gpt)
+[2026-01-15 17:24:06] [WORKER]    play_round exception cost=0.000s err=Model gpt API module does not exist, please confirm model name is correct
+[2026-01-15 17:24:06] Traceback (most recent call last):
+  File "F:\A.workspace\VotingBench\Text\gui2.py", line 183, in get_model_api
+    model_module = importlib.import_module(f"model.{model_name}.load")
+  File "F:\Environment\anaconda\lib\importlib\__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "F:\A.workspace\VotingBench\Text\model\gpt\load.py", line 1, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\A.workspace\VotingBench\Text\gui2.py", line 534, in _worker_models_play_round
+    model_api = get_model_api(p.model)
+  File "F:\A.workspace\VotingBench\Text\gui2.py", line 186, in get_model_api
+    raise Exception(f"Model {model_name} API module does not exist, please confirm model name is correct")
+Exception: Model gpt API module does not exist, please confirm model name is correct
+
+[2026-01-15 17:24:06] [WORKER]    Retry this model play_round after 20 seconds
+[2026-01-15 17:24:51] === App start ===
+[2026-01-15 17:24:51] Loaded word pairs: 100 from F:\A.workspace\VotingBench\Text\data/word_日常_cn.csv
+[2026-01-15 17:24:51] Loaded player inputs: 1 words described
+[2026-01-15 17:24:51] === New round idx=0 cw=菜刀 sw=水果刀 ===
+[2026-01-15 17:24:51] [ASSIGN] user is SPY, user_word=水果刀
+[2026-01-15 17:24:51] [ROUND] idx=0 user_word=水果刀 spy_player=player6
+[2026-01-15 17:24:56] [UI] User submitted description, entering model speech phase (background thread)
+[2026-01-15 17:24:56] [WORKER] Model speech order: ['player4:gpt', 'player2:glm', 'player3:Qwen', 'player5:ernie', 'player1:deepseek', 'player6:user']
+[2026-01-15 17:24:56] [WORKER] -> Starting model speech: player4 / model=gpt
+[2026-01-15 17:24:56] [WORKER]    get_model_api(gpt)
+[2026-01-15 17:24:56] [WORKER]    play_round exception cost=0.002s err=Model gpt API module does not exist, please confirm model name is correct
+[2026-01-15 17:24:56] Traceback (most recent call last):
+  File "F:\A.workspace\VotingBench\Text\gui2.py", line 183, in get_model_api
+    model_module = importlib.import_module(f"model.{model_name}.load")
+  File "C:\Users\64401\.conda\envs\Test\lib\importlib\__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "F:\A.workspace\VotingBench\Text\model\gpt\load.py", line 1, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\A.workspace\VotingBench\Text\gui2.py", line 534, in _worker_models_play_round
+    model_api = get_model_api(p.model)
+  File "F:\A.workspace\VotingBench\Text\gui2.py", line 186, in get_model_api
+    raise Exception(f"Model {model_name} API module does not exist, please confirm model name is correct")
+Exception: Model gpt API module does not exist, please confirm model name is correct
+
+[2026-01-15 17:24:56] [WORKER]    Retry this model play_round after 20 seconds
+[2026-01-15 17:25:16] [WORKER]    get_model_api(gpt)
+[2026-01-15 17:25:16] [WORKER]    play_round exception cost=0.001s err=Model gpt API module does not exist, please confirm model name is correct
+[2026-01-15 17:25:16] Traceback (most recent call last):
+  File "F:\A.workspace\VotingBench\Text\gui2.py", line 183, in get_model_api
+    model_module = importlib.import_module(f"model.{model_name}.load")
+  File "C:\Users\64401\.conda\envs\Test\lib\importlib\__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "F:\A.workspace\VotingBench\Text\model\gpt\load.py", line 1, in <module>
+    from openai import OpenAI
+ModuleNotFoundError: No module named 'openai'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\A.workspace\VotingBench\Text\gui2.py", line 534, in _worker_models_play_round
+    model_api = get_model_api(p.model)
+  File "F:\A.workspace\VotingBench\Text\gui2.py", line 186, in get_model_api
+    raise Exception(f"Model {model_name} API module does not exist, please confirm model name is correct")
+Exception: Model gpt API module does not exist, please confirm model name is correct
+
+[2026-01-15 17:25:16] [WORKER]    Retry this model play_round after 20 seconds
