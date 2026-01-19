@@ -1,0 +1,15 @@
+{
+    "Qwen2.5": {
+      "model_path": "/data/mjl/model_zoo/Qwen2.5-7B-Instruct",
+      "tokenizer_path": "/data/mjl/model_zoo/Qwen2.5-7B-Instruct"
+    },
+    "glm4": {
+      "model_path": "/data/mjl/model_zoo/glm-4-9b-chat",
+      "tokenizer_path": "/data/mjl/model_zoo/glm-4-9b-chat"
+    },
+    "llama3Chinese": {
+        "model_path": "/data/mjl/model_zoo/Llama3-8B-Chinese",
+      "tokenizer_path": "/data/mjl/model_zoo/Llama3-8B-Chinese"
+    }
+  }
+  

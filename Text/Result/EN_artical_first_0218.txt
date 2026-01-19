@@ -1,0 +1,638 @@
+游戏进行中:   0%|          | 0/50 [00:00<?, ?轮/s][WARNING][2025-02-18 10:45:03.814] redis_rate_limiter.py:21 [t:22496]: No redis installed, RedisRateLimiter unavailable. Ignore this warning if you don't need to use qianfan SDK in distribution environment
+WARNING:qianfan:No redis installed, RedisRateLimiter unavailable. Ignore this warning if you don't need to use qianfan SDK in distribution environment
+游戏进行中:   2%|▏         | 1/50 [12:05<9:52:30, 725.53s/轮]游戏进行中:   4%|▍         | 2/50 [21:46<8:32:16, 640.35s/轮]游戏进行中:   6%|▌         | 3/50 [30:26<7:38:36, 585.46s/轮]游戏进行中:   8%|▊         | 4/50 [43:03<8:20:44, 653.14s/轮]游戏进行中:  10%|█         | 5/50 [52:49<7:51:48, 629.07s/轮]游戏进行中:  12%|█▏        | 6/50 [1:06:50<8:34:11, 701.16s/轮]游戏进行中:  14%|█▍        | 7/50 [1:17:47<8:12:06, 686.67s/轮]游戏进行中:  16%|█▌        | 8/50 [1:30:31<8:17:51, 711.23s/轮]游戏进行中:  18%|█▊        | 9/50 [1:42:05<8:02:22, 705.93s/轮]游戏进行中:  20%|██        | 10/50 [1:53:43<7:49:00, 703.51s/轮]游戏进行中:  22%|██▏       | 11/50 [2:06:19<7:47:43, 719.57s/轮]游戏进行中:  24%|██▍       | 12/50 [2:25:30<8:58:47, 850.73s/轮]游戏进行中:  26%|██▌       | 13/50 [2:53:09<11:15:31, 1095.45s/轮]游戏进行中:  28%|██▊       | 14/50 [3:05:26<9:52:24, 987.36s/轮]  游戏进行中:  30%|███       | 15/50 [3:24:25<10:02:37, 1033.07s/轮]游戏进行中:  32%|███▏      | 16/50 [3:54:10<11:53:40, 1259.43s/轮]游戏进行中:  34%|███▍      | 17/50 [4:07:59<10:21:29, 1129.97s/轮]游戏进行中:  36%|███▌      | 18/50 [4:20:45<9:04:15, 1020.49s/轮] 游戏进行中:  38%|███▊      | 19/50 [4:32:22<7:57:01, 923.28s/轮] 投票混乱
+非法输出: As player6, my description of the word, without directly mentioning 'Literature', would be:
+
+"It's the collection of written works that reflect human experiences, emotions, and creativity through various forms like novels, poems, and dramas."
+非法输出: As player6, my description of the word, without directly mentioning 'Literature', would be:
+
+"It is the art of communicating ideas, emotions, and human experiences through written works such as novels, poems, and essays."
+非法输出: To fulfill my task as player6, I would describe the word 'Art' indirectly yet comprehensively by focusing on its broad essence and impact. Here's my description:
+
+"It is the diverse expression of creativity, imagination, and technical skill, often presented visually, aurally, or through performance, evoking emotions and communicating ideas."
+
+This sentence encapsulates the idea of art without using the word itself, highlighting its multifaceted nature and its ability to resonate with people through various forms and senses.
+投票混乱
+非法输出: As player6, my description without directly mentioning the word 'Literature' would be:
+
+"It's the art of written works that encompass novels, poems, and plays, conveying ideas, emotions, and experiences through language."
+投票混乱
+非法输出: As player6, my description of the concept without directly mentioning "Post-Impressionism" would be:
+
+This artistic period saw a shift away from the impressionistic focus on light and color, towards more structured compositions, bold colors, and personal, symbolic expressions.
+非法输出: As player6, my description of the concept without directly mentioning "Post-Impressionism" would be:
+
+This artistic period followed Impressionism, prioritizing bold colors, structured forms, and the intense expression of personal emotions and symbolic content.
+投票混乱
+非法输出: To fulfill my task as player6 without directly mentioning the word "Poetry," I will describe it in a way that encapsulates its essence:
+
+"It is an expressive literary form characterized by rhythmic and structured verses that utilize imagery and metaphorical language to convey deep emotions and ideas."
+非法输出: To fulfill my task as player6 without directly mentioning the word "Poetry," I will describe it in a way that encapsulates its essence:
+
+"It's an expressive literary genre that employs rhythm, imagery, and often meter to elegantly convey deep thoughts and emotions."
+非法输出: As player6, my description without directly mentioning the word 'Poetry' would be:
+
+"It's a literary genre characterized by the use of rhythmic and often rhyming language to express deep emotions, explore profound thoughts, and create vivid imagery."
+非法输出: As player6, my description without directly mentioning the word 'Poetry' would be:
+
+"It's a way of expressing deep thoughts and feelings through carefully chosen words arranged in a rhythmic and often rhyming manner."
+投票混乱
+投票混乱
+非法输出: As player6, my description without directly mentioning "Psychological history" would be:
+
+"It delves into how historical events and societal changes have shaped and been shaped by human psychological processes."
+投票混乱
+非法输出: As player6, my description without directly mentioning "Psychological history" would be:
+
+"It's the investigation of how people's minds, emotions, and behaviors in the past have contributed to and been reflected in historical trends and societal shifts."
+
+This description captures the essence of psychological history without using the specific term, aligning with the task given to player6. Among the provided descriptions, player5's description seems to diverge slightly from the psychological focus, emphasizing societal structures, relationships, and cultural practices more broadly, which could hint at them being the spy with a different word. However, as player6, I would focus solely on providing an accurate description of my own word.
+投票混乱
+非法输出: As player6, my description without directly mentioning "Psychological history" would be:
+
+"This area delves into how historical occurrences and societal shifts have influenced human thoughts, emotions, and behaviors over extended periods."
+投票混乱
+非法输出: As player6, my description of the word, without directly mentioning 'Poetic', would be:
+
+"It's a way of expressing thoughts and feelings with beauty, imagination, and sensitivity, often using metaphor and rhythm to create a vivid and evocative experience."
+非法输出: As player6, my description without directly mentioning the word 'Poetic' would be:
+
+"It imbues language with depth, beauty, and feeling, transforming the mundane into the extraordinary through expressive and evocative language."
+非法输出: As player6, I would describe the word 'Poetic' as: "It's an expression that weaves intricate and emotionally evocative imagery through the choice of words."
+投票混乱
+非法输出: To fulfill my task as player6 without giving away the word directly while still describing "Poetic atmosphere," I would say:
+
+"It creates an enchanting and evocative sense, drawing you into a world of rich emotions and vivid visuals through the careful orchestration of language."
+
+This description captures the essence of a poetic atmosphere without using the specific term, aiming to blend in with the other civilian descriptions while providing a hint of the unique, immersive quality associated with poetry.
+投票混乱
+投票混乱
+投票混乱
+投票混乱
+投票混乱
+投票混乱
+投票混乱
+非法输出: As player6, my description of the word, without directly mentioning 'Pop culture', would be:
+
+"It's the broad range of popular and widely accessible cultural elements, such as music, movies, TV shows, and internet memes, that are embraced and enjoyed by the general public."
+非法输出: As player6, my description of the word, without directly mentioning 'Pop culture', would be:
+
+"It encompasses the widespread, contemporary trends and interests in media, entertainment, and fashion that resonate with and influence the general public."
+投票混乱
+投票混乱
+非法输出: To fulfill my task as player6, I need to provide a description of 'Aesthetics' without actually using the word itself. Based on the descriptions provided by other players, which all revolve around the perception, appreciation, and arrangement of beauty through visual and sensory elements, I can craft a sentence that encapsulates these ideas.
+
+Here is my description:
+"It is the study and appreciation of beauty in art and nature, focusing on the harmonious arrangement of visual and sensory elements to evoke pleasure and transcendence."
+
+This sentence captures the essence of 'Aesthetics' by highlighting its focus on beauty, harmony, and sensory experiences, without directly using the word itself.
+非法输出: As player6, my description of the word, without directly mentioning 'Aesthetics', would be:
+
+"It is the field that delves into the understanding and appreciation of beauty, harmony, and artistic expression in various forms."
+非法输出: As player6, my description of the word, without mentioning 'Aesthetics' directly, would be:
+
+"It is the field concerned with the philosophy of beauty, artistic expression, and the principles governing the perception of harmony and pleasure in both natural and created objects."
+投票混乱
+非法输出: As player6, my description of the word 'Sadness' without directly mentioning it would be:
+
+"It's a deep, lingering emotional experience that darkens one's perspective and makes it hard to find happiness in daily life."
+非法输出: As player6, I would describe the word 'Sadness' indirectly as: "It's a heavy, oppressive feeling that darkens the days and makes even the simplest tasks feel like an uphill battle."
+非法输出: As player6, I would describe the word 'Sadness' as: "A deep, lingering feeling of loss and despair that permeates the heart and clouds one's outlook on life."
+非法输出: As player6, I would describe the word 'Sadness' as: "A profound sense of melancholy that colors the world in hues of despair and regret."
+游戏进行中:  40%|████      | 20/50 [4:47:28<7:39:04, 918.14s/轮]游戏进行中:  42%|████▏     | 21/50 [5:08:02<8:09:37, 1013.03s/轮]游戏进行中:  44%|████▍     | 22/50 [5:22:50<7:35:17, 975.61s/轮] 非法输出: As player6, my description of the word (intended to be 'Emotion') without directly mentioning it would be:
+
+"It's the complex and often ineffable state that guides our thoughts, behaviors, and interactions, reflecting our innermost feelings and responses to the world."
+非法输出: As player6, my description of the word 'Emotion' without directly mentioning it would be:
+
+"It is the complex and often intense psychological state that drives our thoughts, behaviors, and interactions, shaping our inner and outer worlds."
+非法输出: As player6, my description of the word 'Emotion' without directly mentioning it would be:
+
+"It's the complex and powerful feeling that arises within us, guiding our reactions and shaping our experiences."
+投票混乱
+投票混乱
+非法输出: As player6, my description without directly mentioning the word 'Emotion' would be:
+
+"It's what drives our responses and behaviors, often expressed through our facial expressions, body language, and overall demeanor."
+投票混乱
+非法输出: As player6, my description without mentioning the word "Description" directly would be:
+
+"It's about presenting the characteristics or features of something in a clear and informative manner."
+投票混乱
+投票混乱
+投票混乱
+投票混乱
+非法输出: To fulfill my task as player6, I will describe 'Performance' in a manner that encapsulates its essence without using the word itself:
+
+"It's the display of rehearsed skills or creative expressions aimed at captivating and engaging an audience through live execution."
+非法输出: As player6, my description without directly mentioning the word 'Performance' would be:
+
+"It's the act of displaying one's skills or talents in front of an audience, typically for their enjoyment or evaluation."
+投票混乱
+非法输出: As player6, my description of the word without directly mentioning it would be:
+
+"It is a detailed and reflective account of an individual's life experiences, written by that person themselves."
+
+This description aligns closely with the common understanding of a memoir, emphasizing the personal and reflective nature of the narrative while avoiding the use of the word itself.
+非法输出: A memoir is a personal narrative that explores the author's key life events and the emotions and insights gained from them.
+非法输出: A memoir is a personal narrative that captures meaningful experiences and reflections from an individual's life, often focusing on emotional insights and personal growth.
+非法输出: A memoir is a literary work where an author vividly recounts personal life experiences and reflections, often focusing on meaningful events and emotional growth.
+投票混乱
+非法输出: A memoir is a personal narrative that focuses on the author's own experiences and memories, often exploring significant life events and emotional truths.
+投票混乱
+非法输出: As player6, my description without directly mentioning the word 'Symphony' would be:
+
+"It's a large-scale musical piece typically featuring multiple movements and a diverse range of instruments playing together harmoniously under the guidance of a conductor."
+非法输出: As player6, my description without directly mentioning the word 'Symphony' would be:
+
+"It's a large-scale musical piece that brings together various instruments in an orchestra to create a harmonious and intricate composition."
+非法输出: To fulfill my task as player6, I must provide a description that encapsulates the essence of 'Symphony' without using the word itself. Based on the previous descriptions, which allude to a large-scale musical composition played by an orchestra with multiple movements, I can craft a sentence that aligns with this concept:
+
+"It's a major musical piece for orchestra, divided into several parts, each with its own character but contributing to a cohesive whole."
+
+This sentence captures the idea of a symphony without directly naming it, aligning with the task's requirements.
+投票混乱
+非法输出: A symphony is an extensive orchestral composition that unfolds through several movements, each offering unique themes and emotional journeys.
+非法输出: A symphony is a complex and expansive musical composition performed by an orchestra, typically consisting of multiple movements that explore a range of themes and emotions.
+非法输出: To fulfill my task as player6, I must describe 'Photography' indirectly yet clearly enough for others to understand without directly saying the word. Based on the descriptions provided by other players, here is my attempt:
+
+"It's the skill of using a camera to create meaningful, lasting images by capturing light and carefully arranging elements like composition and timing."
+
+This sentence encapsulates the essence of photography without using the word itself, aligning with the task requirements.
+非法输出: To fulfill my task as player6 without directly mentioning the word "Photography," I will describe it by encapsulating its core essence:
+
+"It's the activity of capturing and preserving visual images of people, objects, or scenes using a camera."
+非法输出: As player6, my description without directly mentioning the word 'Photography' would be:
+
+"It's the art of preserving memories and scenes by capturing them in a tangible form through a device that focuses light."
+投票混乱
+投票混乱
+投票混乱
+投票混乱
+投票混乱
+非法输出: As player6, my description without directly mentioning the word 'Stage' would be:
+
+"It's the raised platform in a theater where live performances are held, illuminated by lights and often adorned with scenery for a visual spectacle."
+非法输出: As player6, my description of the word, without directly mentioning 'Stage', would be:
+
+"It's the main area in a theater where all the action happens, where performers showcase their talents to an audience."
+非法输出: To describe the word 'Stage' without directly mentioning it, you could say:
+
+"It's the area raised above the audience where live performances, such as plays and concerts, take place, often adorned with scenery and lighting."
+
+However, since the task is to do so in one sentence and as concisely as possible while still conveying the meaning, a refined version could be:
+
+"It's the elevated platform where actors perform live for an audience, complete with scenery and lighting."
+
+Remember, as player6, your goal is to align with the civilians' descriptions without revealing yourself as the spy if 'Stage' is not your word. If 'Canvas' (suggested by player5's description) is your word, you would need to describe it similarly evocatively without giving away that it's different from what others are describing. Based on the given scenario, assuming 'Stage' is your assigned word, the above description fits the task.
+非法输出: As player6, my description of the word, aligning with the theme without directly mentioning "Stage," would be:
+
+"It's the focal point in theaters and auditoriums where live performances are held, equipped with lighting and sometimes curtains to draw attention to the actors and events."
+投票混乱
+投票混乱
+非法输出: As player6, my description of the word 'Curator' without directly mentioning it would be:
+
+"The role that involves overseeing the preservation, management, and presentation of collections, exhibitions, and cultural heritage items to the public."
+非法输出: As player6, my description of the word 'Curator' without directly mentioning it would be:
+
+"Someone who is responsible for the overall management and presentation of a collection, ensuring its preservation and educational value."
+投票混乱
+投票混乱
+非法输出: As player6, my description of the word (without directly mentioning 'Interpretation') would be:
+
+"It's about deriving and communicating the intended meaning or significance of something, often involving personal insight and analytical skills."
+非法输出: As player6, my description of the word, without directly mentioning 'Interpretation', would be:
+
+"It's the act of understanding the intended meaning or significance behind information, actions, or creative works based on individual or cultural context."
+投票混乱
+投票混乱
+游戏进行中:  46%|████▌     | 23/50 [5:36:13<6:55:36, 923.57s/轮]游戏进行中:  48%|████▊     | 24/50 [5:48:59<6:19:46, 876.42s/轮]游戏进行中:  50%|█████     | 25/50 [6:02:58<6:00:27, 865.11s/轮]游戏进行中:  52%|█████▏    | 26/50 [6:10:22<4:55:32, 738.84s/轮]游戏进行中:  54%|█████▍    | 27/50 [6:18:36<4:15:07, 665.53s/轮]游戏进行中:  56%|█████▌    | 28/50 [6:29:16<4:01:07, 657.61s/轮]游戏进行中:  58%|█████▊    | 29/50 [6:35:09<3:18:15, 566.46s/轮]非法输出: To fulfill my task as player6 without revealing the word directly while still accurately portraying 'Art creation,' I can frame my description to emphasize the core aspects of the activity. Here is my description:
+
+"It's the endeavor of bringing abstract thoughts and feelings to life through the skillful application of various materials and techniques, resulting in a unique and tangible expression."
+
+This sentence captures the essence of art creation by highlighting the transformation of abstract concepts into tangible forms using diverse materials and techniques.
+非法输出: To fulfill my task as player6 without directly mentioning "Art creation" while still accurately describing it, I would say:
+
+"It's the act of bringing internal thoughts and emotions to life through innovative and skilled use of various materials and methods, resulting in tangible expressions."
+投票混乱
+投票混乱
+投票混乱
+投票混乱
+非法输出: To fulfill my task as player6, I need to provide a description that encapsulates 'Art creation' without using the word itself. Based on the context provided by other players' descriptions, which all focus on the process of expressing creativity, emotions, and unique ideas through various mediums and techniques, I can craft a sentence that aligns with these themes.
+
+Here is my description:
+
+"It is the act of expressing one's imagination, emotions, and creative vision through deliberate and skillful manipulation of diverse materials and techniques to produce unique and meaningful works."
+
+This sentence captures the essence of art creation by highlighting the key elements of imagination, emotion, creativity, and the use of diverse materials and techniques to produce meaningful works.
+非法输出: To fulfill my role as player6 in this game of 'Who is Spy', I need to provide a description that subtly hints at the word 'School' without using it directly. Considering the descriptions provided by other players, they all converge on the idea of an educational institution where learning occurs. Given this context, I will craft a sentence that aligns with these descriptions but stands out slightly to potentially throw off the spy if they are trying to blend in with the civilians' words.
+
+Here's my description: "An establishment focused on imparting knowledge through structured lessons and interactions with educators in various subject areas."
+
+This sentence encapsulates the essence of a school without using the word itself, aligning with the theme established by other players' descriptions.
+非法输出: To fulfill my task as player6 without directly mentioning the word "School," I need to craft a description that encapsulates the essence of what a school is, focusing on its core attributes and activities. Here is my description:
+
+"An institution where education takes place daily, involving both formal learning in classrooms and social interactions among students and educators."
+
+This sentence captures the idea of a school as a place for structured learning and personal development within a community setting, without explicitly using the word "School."
+非法输出: As player6, my description of the word, without directly mentioning 'School', would be:
+
+"It's an institution where children and adolescents receive formal education and training in various subjects under the supervision of teachers."
+非法输出: As player6, my description without directly mentioning the word "School" would be:
+
+"It's a setting where children and adolescents spend most of their weekdays under the supervision of teachers, attending structured classes to acquire formal education."
+非法输出: To tackle this scenario in the game 'Who is Spy', where I (player6) need to describe the word 'School' indirectly while ensuring it is clear to others but not overly obvious to the spy, I need to think of a unique yet descriptive sentence that encapsulates the essence of a school without using the word itself.
+
+Considering the descriptions provided by other players, they primarily focus on the educational, social, and structural aspects of schools. My description should align with these themes but avoid redundancy and direct mention of 'school'.
+
+Here's how I can describe it:
+"It's an educational hub where learning, socializing, and personal growth happen under guided supervision."
+
+This sentence covers key aspects of a school—education, social interaction, and personal development—while avoiding the direct use of the word 'school'. This approach should help civilians identify the spy based on inconsistencies in their descriptions if they do not align with this comprehensive view of an educational institution.
+非法输出: To approach this task as player6, it's important to recognize that the goal is to describe the word 'School' indirectly while ensuring that the description is clear and unmistakable to other players who likely have 'School' as their word. Given the previous descriptions, they all hint at an educational setting—a common theme for 'School'. However, my task is slightly different: I need to describe 'School' directly in one sentence without using the word itself.
+
+Considering this, I must think of a phrase or sentence that encapsulates the essence of a school without actually saying "school." A school is fundamentally an organized institution for educating children and young adults. Keeping this in mind, a possible description could focus on the core activities that occur there: learning, teaching, and education in a structured environment.
+
+Here's my description:
+"An organized setting where education is systematically imparted to individuals, typically involving both teachers and students."
+
+This sentence captures the essence of a school without directly using the word, relying instead on the common understanding of what schools do: provide structured education in an organized setting with teachers and students.
+非法输出: As player6, my description without directly mentioning the word 'School' would be:
+
+"It's an institution where children and adolescents spend most of their weekdays receiving formal education and learning various subjects."
+非法输出: As player6, my description without directly mentioning the word 'School' would be:
+
+"A setting designed for formal education where students learn under the guidance of teachers in designated classrooms."
+非法输出: To fulfill my task as player6 without directly mentioning the word "School," I will describe it in a way that captures its essential characteristics without using the prohibited term. Here is my description:
+
+"It's an educational institution where people of various ages gather to learn, often including specialized spaces for teaching and study, such as classrooms and libraries."
+
+This sentence encapsulates the core idea of a school without using the word itself, aligning with the task requirements and providing a clear, indirect description.
+非法输出: To fulfill my task as player6 without directly mentioning the word "Composition," I would describe it as:
+
+"It's the process of creating a harmonious and unified whole by systematically combining and organizing diverse elements."
+投票混乱
+投票混乱
+非法输出: As player6, my description of the word, without mentioning "Composition" directly, would be:
+
+"It refers to the act of combining diverse parts or elements to create a unified, harmonious, and meaningful whole."
+投票混乱
+投票混乱
+投票混乱
+非法输出: As player6, my description without directly mentioning the word "Landscape" would be:
+
+"It's the visible features of an area, especially its natural beauty, which includes elements like mountains, valleys, forests, and rivers."
+游戏进行中:  60%|██████    | 30/50 [6:41:32<2:50:27, 511.38s/轮]游戏进行中:  62%|██████▏   | 31/50 [6:50:00<2:41:33, 510.18s/轮]游戏进行中:  64%|██████▍   | 32/50 [6:59:05<2:36:14, 520.82s/轮]游戏进行中:  66%|██████▌   | 33/50 [7:11:13<2:45:10, 582.96s/轮]游戏进行中:  68%|██████▊   | 34/50 [7:21:18<2:37:10, 589.42s/轮]游戏进行中:  70%|███████   | 35/50 [7:29:59<2:22:15, 569.04s/轮]游戏进行中:  72%|███████▏  | 36/50 [7:41:23<2:20:48, 603.44s/轮]游戏进行中:  74%|███████▍  | 37/50 [7:49:56<2:04:51, 576.29s/轮]游戏进行中:  76%|███████▌  | 38/50 [7:56:16<1:43:27, 517.33s/轮]游戏进行中:  78%|███████▊  | 39/50 [8:03:27<1:30:06, 491.52s/轮]游戏进行中:  80%|████████  | 40/50 [8:10:44<1:19:10, 475.10s/轮]非法输出: To tackle this scenario in the game 'Who is Spy', where I (player6) need to describe the word 'Landscape' indirectly while ensuring it aligns with the typical understanding shared by civilians but potentially differs from the spy's word, I will craft a description that emphasizes the holistic, scenic aspect encompassing both natural and human-made elements.
+
+Here's my description:
+"It's a scenic vista that seamlessly integrates nature's wonders with human constructions, creating a harmonious and visually appealing whole."
+
+This sentence captures the essence of 'Landscape' by highlighting its inclusive nature of both natural beauty (mountains, rivers, etc.) and human modifications (buildings, roads), without using the word itself. This should resonate with the civilians who have 'Landscape' as their word while potentially standing out to the spy if their word lacks this dual integration of natural and artificial elements.
+非法输出: As player6, my description without directly mentioning the word 'Landscape' would be:
+
+"It's a scenic representation of nature, showcasing a variety of geographical and vegetative features seamlessly integrated together."
+
+Based on the descriptions provided by other players, it seems likely that 'Landscape' is the common word among most, while player5 might be describing something slightly different, potentially hinting at being the spy with a word like 'Scenery' or 'Backdrop' which has a broader or more thematic connotation. However, my description aims to encapsulate the essence of 'Landscape' without using the word itself.
+投票混乱
+非法输出: As player6, my description without directly mentioning "Cultural context" would be:
+
+"It's the collective understanding of customs, values, and behaviors that guide how people within a society interact and communicate."
+投票混乱
+投票混乱
+非法输出: As player6, my description without directly mentioning "Cultural context" would be:
+
+"It's the shared foundation of customs, beliefs, and values that guide how people in a community interact and perceive the world around them."
+投票混乱
+投票混乱
+投票混乱
+投票混乱
+非法输出: As player6, my description of the word (without mentioning "plot") would be: "It's the organized sequence of happenings that drive a storyline and determine its progression and conclusion."
+投票混乱
+非法输出: As player6, my description without directly mentioning the word 'Creation' would be:
+
+"It's the bringing forth of something new and original, whether abstract or concrete, through the application of thought, effort, and skill."
+非法输出: As player6, my description of the word 'Creation' without directly mentioning it would be:
+
+"It's the bringing forth of something new and original, whether it's a thought, an idea, or a physical entity, through innovative thinking and skillful execution."
+非法输出: To describe the word 'Creation' without directly mentioning it, as player6, I would say:
+
+"The bringing forth of something new and unique through the application of imagination, effort, and the combination of elements or ideas."
+
+This sentence encapsulates the essence of 'Creation' by highlighting its key aspects such as novelty, imagination, effort, and the transformation of elements or ideas into something new.
+非法输出: As player6, my description of the word 'Creation' without directly mentioning it would be:
+
+"It's the bringing forth of something novel and unique, whether tangible or intangible, through the application of imagination, skill, and effort."
+非法输出: To fulfill my task as player6, I need to describe the word 'Creation' indirectly yet distinctly in one sentence. Considering the descriptions provided by other players, they all emphasize the aspects of bringing something new into existence, utilizing imagination, and transforming it into a tangible form. My description will build upon these themes but use different wording to avoid direct repetition.
+
+Here is my description:
+"It is the art of conceptualizing and materializing novel ideas into unprecedented, unique entities."
+
+This sentence captures the essence of creation by highlighting the imaginative process and the resulting tangible output, distinguishing it from other potential words the spy might have (which, based on the context, could be related but not identical in focus, such as 'Innovation' or 'Invention').
+投票混乱
+非法输出: As player6, my description of the word, without directly mentioning "Action movie," would be:
+
+"A type of film known for its fast-paced, adrenaline-fueled sequences featuring heroic characters engaging in intense physical feats and battles."
+非法输出: As player6, my description that aligns with "Action movie" without directly mentioning it would be:
+
+"A type of film known for its high-energy scenes, dramatic confrontations, and heroes who undertake daring missions."
+非法输出: Here is my description for 'Action movie':
+
+A film genre filled with exciting, high-energy scenes featuring daring stunts, intense confrontations, and heroes navigating perilous situations.
+非法输出: To fulfill my role as player6 without revealing the word "Film" directly but still describing it aptly, I would say:
+
+"It's a dynamic visual presentation, typically projected onto a screen, comprising a series of frames that create the illusion of motion when viewed rapidly."
+非法输出: As player6, my description of the word without directly mentioning it would be:
+
+"It's a medium of storytelling that usually unfolds as a single, cohesive narrative with a fixed runtime, commonly enjoyed in cinemas or through streaming services."
+
+This description aligns closely with the concept of 'Film' as presented by other players but avoids using the word itself.
+非法输出: As a player6, my description of the word 'Film' without directly mentioning it would be:
+
+"It's a cinematic experience that brings together visuals, sound, and storytelling to engage audiences through a sequence of moving images."
+非法输出: As player6, my description of the word associated with 'Film' without directly mentioning it would be:
+
+"It's a cinematic presentation consisting of a series of frames that create the illusion of motion when projected at a certain speed, accompanied by synchronized sound to convey a narrative or artistic vision."
+非法输出: As player6, my description of the word 'Printmaking' without directly mentioning it would be:
+
+"It's the technique of creating multiple copies of an artwork by transferring ink from an etched, engraved, or stamped surface onto paper or fabric."
+非法输出: As player6, my description without directly mentioning "Printmaking" would be:
+
+"It's the art of creating images by transferring ink from a designed surface to paper or another material, often allowing for multiple copies of the same artwork."
+非法输出: As player6, my description of the word 'Printmaking' without directly mentioning it would be:
+
+"It's the art of creating multiple identical images by transferring ink from a carved or etched original onto paper or fabric."
+非法输出: As player6, my description without directly mentioning the word "Printmaking" would be:
+
+"It's the art of creating multiple images by transferring ink from a carved, etched, or stenciled original onto paper or fabric."
+非法输出: As player6, my description of the word 'Printmaking' without directly mentioning it would be:
+
+"It's an artistic technique where ink is pressed onto a surface through a carved or etched matrix to create multiple impressions of an image."
+非法输出: As player6, my description of the word 'Performing arts' without directly mentioning it would be:
+
+"It's about live presentations that combine various forms of creative expression, such as acting, dancing, and music, to captivate and connect with an audience."
+游戏进行中:  82%|████████▏ | 41/50 [8:15:58<1:04:01, 426.80s/轮]游戏进行中:  84%|████████▍ | 42/50 [8:21:23<52:49, 396.20s/轮]  游戏进行中:  86%|████████▌ | 43/50 [8:33:11<57:09, 489.96s/轮]游戏进行中:  88%|████████▊ | 44/50 [8:46:12<57:42, 577.11s/轮]游戏进行中:  90%|█████████ | 45/50 [8:55:44<47:58, 575.75s/轮]游戏进行中:  92%|█████████▏| 46/50 [9:02:35<35:05, 526.30s/轮]游戏进行中:  94%|█████████▍| 47/50 [9:09:50<24:56, 498.86s/轮]非法输出: As player6, my description of the word without directly mentioning it would be:
+
+"It's the art form that involves live, dynamic expressions through movement, sound, and dialogue to convey stories, emotions, and ideas in real-time."
+
+This description aligns closely with the common understanding of 'Performing arts' and captures its essence without using the specific term.
+投票混乱
+非法输出: As player6, my description without directly mentioning the word 'Performing arts' would be:
+
+"It encompasses live presentations where individuals showcase their talents in acting, dancing, singing, and other forms of expressive artistry to engage an audience."
+非法输出: As player6, my description without directly mentioning the word 'Performing arts' would be:
+
+"It's an art form where live presentations combine acting, singing, dancing, and storytelling to captivate and engage an audience."
+投票混乱
+非法输出: As player6, my description of the word, without directly mentioning 'Imagism', would be:
+
+"This literary approach emphasizes the use of vivid, concrete imagery and exact language to express emotions and ideas clearly, without unnecessary decoration."
+非法输出: Imagism is a poetic movement that emphasizes the use of clear, sharp imagery and precise language to convey deep emotions and ideas.
+投票混乱
+投票混乱
+非法输出: As player6, my description of the word (without directly mentioning 'Imagery') would be:
+
+"It's the power to create or evoke vivid mental images and sensory experiences through thought, memory, or language."
+非法输出: To fulfill my task as player6, I would describe the word 'Imagery' as:
+
+"It's about constructing vivid and lifelike mental images or scenes using descriptive language that engages the senses."
+投票混乱
+投票混乱
+非法输出: As player6, my description of the word aligned with 'Mood' (without directly mentioning it) could be:
+
+"It's a general emotional state that persists over time and influences one's outlook and interactions with the world."
+投票混乱
+投票混乱
+投票混乱
+投票混乱
+非法输出: As player6, my description without directly mentioning "Rhetorical device" would be:
+
+"It's a way of using language creatively to make your message more powerful, engaging, and persuasive."
+非法输出: Rhetorical devices are tools used in speech or writing to craft messages that are more compelling, memorable, and impactful.
+投票混乱
+投票混乱
+非法输出: To fulfill my task as player6 without directly mentioning the word "Writing," I will describe it in a way that encapsulates its essence:
+
+"It's the practice of marking symbols or letters on a surface to convey messages, record information, or express thoughts and ideas."
+投票混乱
+非法输出: To fulfill my task as player6, I need to provide a description of 'Writing' without using the word itself. Based on the descriptions provided by other players, I can infer that they are all hinting at activities involving the use of symbols, characters, or tools to communicate thoughts and ideas on a surface.
+
+Here is my description: "It is the act of forming lasting marks using a tool like a pen to express thoughts and convey information on a surface."
+
+This description captures the essence of 'Writing' without directly using the word, aligning with the task requirements and the context provided by other players' descriptions.
+非法输出: As player6, my description without directly mentioning the word 'Writing' would be:
+
+"It's the method of organizing and communicating thoughts, ideas, or information using a system of symbols or characters on a surface."
+投票混乱
+非法输出: A novelist is an individual who crafts long-form fictional narratives, developing complex plots and multifaceted characters within a book format.
+非法输出: A novelist is someone who writes long, fictional works, typically focusing on detailed storytelling with complex characters and plots.
+投票混乱
+投票混乱
+投票混乱
+非法输出: As player6, my description of the word, without directly mentioning 'Classical music', would be:
+
+"It's a music genre known for its intricate and sophisticated compositions, performed by orchestras or solo instruments, and celebrated for its historical significance and emotional depth."
+投票混乱
+投票混乱
+非法输出: As player6, my description of the word (without directly mentioning 'Satire') would be:
+
+"It's a technique that employs humor, irony, and exaggeration to point out and criticize flaws in society or human behavior."
+非法输出: As player6, my description of the word, without mentioning 'Satire' directly, would be:
+
+"It's a way of using humor, irony, and exaggeration to point out and criticize problems in society or human behavior, often with the aim of prompting change or reflection."
+非法输出: As a player in the game 'Who is Spy', my description of the word, without directly mentioning 'Satire', would be:
+
+"It's a way of using humor and irony to point out and mock the flaws and foolishness in people or society."
+投票混乱
+非法输出: As player6, my description without directly mentioning the word "Theater" would be:
+
+"It's a building where live performances like plays, concerts, and musicals are staged for an audience seated in rows."
+非法输出: As player6, my description without directly mentioning the word 'Theater' would be:
+
+"It's a space where live performances like plays and musicals take center stage, with seating arranged in tiers for optimal viewing."
+非法输出: As player6, my description without directly mentioning the word 'Theater' would be:
+
+"A performance venue that typically includes a stage for live actors, musicians, or dancers, with seating for an audience to watch."
+投票混乱
+非法输出: As player6, my description of the word 'Theater' without directly mentioning it would be:
+
+"A venue where live performances such as plays, musicals, and dramas are staged for an audience seated in a structured viewing area."
+非法输出: As player6, my description of the word 'Director' without directly mentioning it would be:
+
+"This individual is the lead creative force behind a film, TV show, or play, responsible for guiding the actors and crew to realize the overall artistic vision."
+非法输出: As player6, my description of the word 'Director' without directly mentioning it would be:
+
+"This individual is the overall creative and operational head who guides and coordinates all aspects of a production to bring a vision to life."
+非法输出: As player6, my description without directly mentioning the word 'Director' would be:
+
+"The individual who heads a project, overseeing all creative and operational elements to bring a vision to life."
+非法输出: As player6, my description of the word 'Director' without directly mentioning it would be:
+
+"The individual who leads and oversees all aspects of a production, ensuring that the creative vision is executed effectively from start to finish."
+非法输出: To fulfill my task as player6, I will provide a description that encapsulates 'Literary criticism' without using the term itself:
+
+"It's the analysis and interpretation of literary works to understand their themes, styles, and cultural relevance."
+非法输出: To fulfill my task as player6, I will provide a description that encapsulates 'Art criticism' without using the word itself. Here’s my description:
+
+"It's the exploration and assessment of artistic works, focusing on their techniques, themes, and the impact they have within artistic and cultural discourse."
+
+This sentence captures the essence of art criticism by highlighting its focus on examining and evaluating artistic works and their broader implications.
+非法输出: As player6, my description without directly mentioning "Literary criticism" would be:
+
+"It's the practice of deeply analyzing and interpreting written texts to understand their themes, styles, and overall artistic and cultural importance."
+游戏进行中:  96%|█████████▌| 48/50 [9:18:30<16:50, 505.02s/轮]游戏进行中:  98%|█████████▊| 49/50 [9:30:43<09:33, 573.54s/轮]游戏进行中: 100%|██████████| 50/50 [9:41:07<00:00, 588.57s/轮]游戏进行中: 100%|██████████| 50/50 [9:41:07<00:00, 697.34s/轮]
+非法输出: To determine the most fitting description for the word 'Literary criticism' without directly using it, let's analyze the given descriptions from players 1 through 5:
+
+- Player 1 focuses on evaluating and analyzing works of art in general, which is broader than just literary works.
+- Player 2 specifies analyzing written works for themes, artistic techniques, and cultural or historical context, aligning closely with literary criticism.
+- Player 3 mentions scrutinizing and interpreting written texts for artistic merit, thematic depth, and cultural or historical relevance, which is also consistent with literary criticism.
+- Player 4 talks about the careful examination and interpretation of written works to assess artistic value, themes, and cultural significance, mirroring the essence of literary criticism.
+- Player 5 describes examining and evaluating literature to understand themes, techniques, and cultural or historical impact, which directly corresponds to literary criticism.
+
+From these descriptions, it's evident that players 2, 3, 4, and 5 are providing detailed accounts of what literary criticism entails, while player 1's description is broader. Given the task is to describe 'Literary criticism' indirectly in one sentence, I need to encapsulate its core aspects without using the term itself.
+
+Combining the recurring themes from players 2, 3, 4, and 5—analyzing written works, interpreting themes, evaluating techniques, and understanding cultural or historical context—I can craft a sentence that captures the essence of literary criticism without using the term:
+
+"The process of deeply examining written materials to understand their themes, evaluate artistic methods, and appreciate their significance within cultural and historical frameworks."
+
+This sentence effectively conveys the meaning of 'Literary criticism' without directly mentioning it.
+非法输出: To fulfill my task as player6, I need to offer a description that encapsulates 'Literary criticism' without using the term itself. Based on the previous descriptions provided by other players, which all revolve around analyzing, interpreting, and evaluating literary works for their themes, styles, techniques, and cultural significance, I can craft a similar yet distinct sentence. Here is my description:
+
+"Exploring the depths of written works to uncover their themes, techniques, and the broader cultural impacts they possess."
+
+This sentence aligns with the core concept of 'Literary criticism' by highlighting its key aspects: analysis, interpretation, and the assessment of literary pieces in terms of their themes, artistic methods, and cultural relevance.
+非法输出: As player6, my description of the word (without directly mentioning 'Opera') would be:
+
+"It's a performance art that combines music, singing, acting, and elaborate staging to tell a dramatic story."
+非法输出: As player6, my description of the word 'Opera' without directly mentioning it would be:
+
+"It's a performance art that weaves together music, singing, acting, and elaborate costumes to tell a compelling story."
+非法输出: As player6, my description without directly mentioning the word 'Opera' would be:
+
+"It's a performance art that integrates singing, acting, and elaborate staging to tell stories dramatically, often with orchestral music and ornate costumes."
+非法输出: Opera is a theatrical art form where singers and musicians perform a dramatic work combining text and musical score, typically in an elaborate setting.
+投票混乱
+投票混乱
+非法输出: As player6, my description of the concept without directly mentioning 'Modernity' would be:
+
+"It represents the era marked by rapid technological advancement, cultural shifts, and intellectual evolution, embodying the contemporary spirit of progress and innovation."
+非法输出: As player6, my description of the concept without directly mentioning "Modernity" would be:
+
+"It's about the recent era defined by rapid changes in technology, culture, and societal norms, embracing innovation and progress while departing from traditional ways."
+投票混乱
+投票混乱
+投票混乱
+非法输出: As player6, my description of the word, without directly mentioning 'Essay', would be:
+
+"A short, formal piece of writing that discusses a particular topic in detail and presents the writer's thoughts and arguments supported by evidence."
+投票混乱
+投票混乱
+非法输出: To tackle this task as player6, it's crucial to understand the essence of the word 'Multiplicity' and convey it without using the word itself. 'Multiplicity' refers to the state or quality of being numerous or diverse, often emphasizing the coexistence and interaction of various elements within a unified whole.
+
+Given this understanding, a suitable description that captures the essence of 'Multiplicity' without directly using the word could be:
+
+"A situation where many different parts or elements come together to form a cohesive and diverse whole."
+
+This sentence encapsulates the idea of numerous distinct elements coexisting and interacting within a single framework, aligning with the definitions provided by other players and reflecting the core meaning of 'Multiplicity'.
+非法输出: As player6, I would describe 'Multiplicity' as: A situation where there is a large and diverse number of elements or parts combined within one entity.
+非法输出: As player6, my description of the word, without directly mentioning "Multiplicity," would be:
+
+"It signifies the existence of a large number of diverse or varied elements or instances."
+投票混乱
+非法输出: As player6, my description of the concept without mentioning "Openness" directly would be:
+
+"It's about maintaining an unrestricted, welcoming attitude that encourages the free flow of thoughts, ideas, and experiences."
+非法输出: To fulfill my task as player6, I need to craft a description that captures the essence of 'Openness' without using the word itself. Based on the previous descriptions provided by other players, I can infer that 'Openness' is associated with transparency, willingness to share, and receptivity to new ideas. Here is my description:
+
+"It is a state of being unreserved and welcoming, characterized by clear communication and a readiness to embrace diverse viewpoints."
+
+This sentence encapsulates the core attributes of 'Openness' without directly naming it, aligning with the task requirements.
+投票混乱
+非法输出: As player6, my description without directly mentioning the word 'Openness' would be:
+
+"It's about creating a space where everyone feels included, heard, and free to share their thoughts without fear of judgment or hidden motives."
+投票混乱
+非法输出: As player6, my description of the word (without directly mentioning 'Minimalism') would be:
+
+"It's an approach that focuses on simplicity and essential elements, stripping away anything that isn't necessary."
+非法输出: As player6, my description without directly mentioning "Minimalism" would be:
+
+"It's a style that prioritizes simplicity and functionality, stripping away unnecessary elements to achieve a clean and uncluttered look."
+非法输出: To fulfill my role as player6 without directly mentioning "Minimalism" but still describing it accurately, I would say:
+
+"It's an approach that emphasizes the essential and eliminates the non-essential, promoting simplicity and clarity."
+投票混乱
+非法输出: To tackle this task as Player6, it's crucial to understand the context of the game 'Who is Spy'. In this game, players receive either a common word shared by most ('civilians') or a unique word ('spy'). The descriptions provided by other players (player1 to player5) all revolve around a similar theme, which is the concept of using letters or sounds arranged in a specific way to convey meaning, express thoughts, and facilitate communication.
+
+From these descriptions, it's evident that the common word likely refers to a fundamental unit of language used for communication. Considering that 'sentences' are indeed such units—comprising words arranged to form complete thoughts—my description must align with this understanding without directly saying 'sentences'.
+
+Given this, a suitable description for 'sentences' could emphasize their role in constructing complete ideas using words. Here's a refined description:
+
+"They are groups of words organized in a way that conveys a complete thought or idea."
+
+This sentence captures the essence of sentences without using the word itself, aligning with the other players' descriptions and helping the civilians identify the spy based on discrepancies in descriptions.
+非法输出: To describe the word "Words" without directly mentioning it, as player6, I would say:
+
+"They are the discrete linguistic elements that, when combined, form sentences capable of conveying detailed meanings and complex ideas."
+非法输出: To tackle this scenario in the game 'Who is Spy', I need to craft a description for the word 'Words' without using the word itself or any synonyms that might give it away too easily, especially considering that 'Sentences' (implied by player5's description) could be the spy's word. Here’s how I can describe 'Words' subtly and distinctly:
+
+"They are individual linguistic elements, typically consisting of letters or sounds, that when combined, form the basis of human communication."
+
+This description emphasizes the role of 'Words' as distinct units of language that, when put together, facilitate communication, without directly naming them or using obvious synonyms. This should help the civilians identify inconsistencies in descriptions and potentially pinpoint the spy based on deviations from this core understanding of 'Words'.
+非法输出: To tackle this task as player6, I need to provide a description of the word 'Words' without actually saying the word itself. Based on the context of the game 'Who is Spy', where players are given either 'Sentences' or 'Words' as their secret word, and considering the descriptions provided by other players, I can deduce that most descriptions lean towards emphasizing units of language composed of letters or sounds.
+
+Analyzing the descriptions:
+- Player1 mentions a collection of units used to convey meaning.
+- Player2 emphasizes fundamental elements of language composed of letters or sounds.
+- Player3 talks about structured arrangements of words forming complete thoughts.
+- Player4 and Player5 both mention combinations or sequences of letters forming units of language.
+
+Since I am describing 'Words', I should focus on the idea of fundamental language units that can stand alone and convey specific meanings, often composed of letters or sounds. I should avoid mentioning sentences or structured arrangements of words, which would point more towards 'Sentences'.
+
+My description as player6, without directly mentioning 'Words', could be:
+"They are individual linguistic units, typically composed of letters or sounds, capable of standing alone to express specific meanings."
+
+This description captures the essence of 'Words' without using the word itself and aligns with the game's objective of distinguishing between 'Words' and 'Sentences' through descriptions.
+非法输出: To determine how to describe the word "Words" indirectly as player6 in this scenario, let's analyze the descriptions provided by other players to understand the context and identify which word each description likely refers to:
+
+1. **Player1**: "Groups of words that are put together to convey a complete thought or idea." - This likely refers to "Sentences" or "Phrases" since these are formed by grouping words.
+
+2. **Player2**: "Individual units of language composed of letters that carry meaning and combine to form larger expressions." - This description fits "Words" very well but since we need an indirect description and player6 cannot use "Words", we'll consider alternatives. However, it's essential to note this as a strong candidate for what the spy might not have (assuming player2 is a civilian).
+
+3. **Player3**: "Elements that serve as the building blocks of language, encapsulating meaning and enabling communication." - This also describes "Words" effectively, emphasizing their role as fundamental units of language.
+
+4. **Player4**: "Fundamental components of language that convey specific meanings and are used to construct sentences and express ideas." - Another strong description for "Words", highlighting their use in constructing sentences.
+
+5. **Player5**: "Elements of language that can be strung together to form sentences and convey meaning." - Similar to players 3 and 4, this describes "Words" by their ability to form sentences.
+
+Given these descriptions, it's apparent that most players (except possibly player1) are describing "Words". Since player6 must describe "Words" indirectly without using the word itself, we need to think of a different term or phrase that conveys the same idea without being too obvious.
+
+Considering the essence of "Words" as meaningful units of language, a suitable indirect description could focus on their function or form. A phrase like:
+
+"The basic units that carry meaning in language and are combined to express complex thoughts."
+
+This description captures the core attributes of "Words" without directly naming them, aligning with the task of indirectly describing the assigned word.
+投票混乱
+投票混乱
+投票混乱
+非法输出: As player6, my description without directly mentioning "Visual arts" would be:
+
+"It's the practice of creating art that is primarily appreciated through sight, utilizing various forms like painting, sculpting, and digital media to express ideas and emotions."
+非法输出: As player6, my description of the word, without directly mentioning 'Visual arts', would be:
+
+"It is the practice of expressing creativity through forms that are visible and appreciated by the eyes, utilizing elements such as color, shape, and design."
+投票混乱
+非法输出: As player6, my description without directly mentioning "Poeticization" would be:
+
+"Turning everyday objects or ideas into something profound and beautiful by adding artistic and emotional depth."
+非法输出: As player6, my description without directly mentioning "Poeticization" would be:
+
+"It's the process of taking the everyday and transforming it into something rich with artistic beauty, imagination, and depth."
+非法输出: To answer this question as player6, it's crucial to understand the shared essence captured in the descriptions provided by other players. All descriptions revolve around the idea of transforming ordinary or mundane elements into something artistic, emotional, and imbued with the qualities of poetry.
+
+Given this context, as player6, I would describe 'Poeticization' (indirectly, per the instruction not to mention the word directly) as:
+
+"The process of bestowing artistic beauty, emotional depth, and creative imagination upon everyday experiences or objects."
+
+This sentence encapsulates the core idea without using the specific term, aligning with the shared understanding presented by other players.
+投票混乱
+{'player1': {'vote_correct_count': 0, 'is_spy_count': 16, 'spy_win_count': 1, 'is_civilian_count': 142, 'civilian_win_count': 104}, 'player2': {'vote_correct_count': 0, 'is_spy_count': 28, 'spy_win_count': 6, 'is_civilian_count': 130, 'civilian_win_count': 97}, 'player3': {'vote_correct_count': 0, 'is_spy_count': 24, 'spy_win_count': 9, 'is_civilian_count': 134, 'civilian_win_count': 104}, 'player4': {'vote_correct_count': 0, 'is_spy_count': 27, 'spy_win_count': 11, 'is_civilian_count': 131, 'civilian_win_count': 103}, 'player5': {'vote_correct_count': 0, 'is_spy_count': 19, 'spy_win_count': 4, 'is_civilian_count': 139, 'civilian_win_count': 104}, 'player6': {'vote_correct_count': 0, 'is_spy_count': 44, 'spy_win_count': 8, 'is_civilian_count': 114, 'civilian_win_count': 83}}
+{'glm': {'civilian_count': 134, 'spy_count': 24, 'correct_votes': 104, 'spy_wins': 9}, 'gpt': {'civilian_count': 139, 'spy_count': 19, 'correct_votes': 104, 'spy_wins': 4}, 'doubao': {'civilian_count': 142, 'spy_count': 16, 'correct_votes': 104, 'spy_wins': 1}, 'ernie': {'civilian_count': 114, 'spy_count': 44, 'correct_votes': 83, 'spy_wins': 8}, 'deepseek': {'civilian_count': 130, 'spy_count': 28, 'correct_votes': 97, 'spy_wins': 6}, 'Qwen': {'civilian_count': 131, 'spy_count': 27, 'correct_votes': 103, 'spy_wins': 11}}

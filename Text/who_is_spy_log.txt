@@ -1,0 +1,29 @@
+[2026-01-15 17:13:47] ------ Game Start ------
+[2026-01-15 17:13:47] Word Pair: Civilian=菜刀 / Spy=水果刀
+[2026-01-15 17:13:47] Player assignments:
+[2026-01-15 17:13:47] player1(model=deepseek, word=水果刀)
+[2026-01-15 17:13:47] player2(model=glm, word=菜刀)
+[2026-01-15 17:13:47] player3(model=Qwen, word=菜刀)
+[2026-01-15 17:13:47] player4(model=gpt, word=菜刀)
+[2026-01-15 17:13:47] player5(model=ernie, word=菜刀)
+[2026-01-15 17:13:47] player6(model=user, word=菜刀)
+[2026-01-15 17:22:42] ------ Game Start ------
+[2026-01-15 17:22:42] Word Pair: Civilian=菜刀 / Spy=水果刀
+[2026-01-15 17:22:42] Player assignments:
+[2026-01-15 17:22:42] player1(model=deepseek, word=水果刀)
+[2026-01-15 17:22:42] player2(model=glm, word=菜刀)
+[2026-01-15 17:22:42] player3(model=Qwen, word=菜刀)
+[2026-01-15 17:22:42] player4(model=gpt, word=菜刀)
+[2026-01-15 17:22:42] player5(model=ernie, word=菜刀)
+[2026-01-15 17:22:42] player6(model=user, word=菜刀)
+[2026-01-15 17:22:46] player6 generated valid output: 123
+[2026-01-15 17:24:51] ------ Game Start ------
+[2026-01-15 17:24:51] Word Pair: Civilian=菜刀 / Spy=水果刀
+[2026-01-15 17:24:51] Player assignments:
+[2026-01-15 17:24:51] player1(model=deepseek, word=菜刀)
+[2026-01-15 17:24:51] player2(model=glm, word=菜刀)
+[2026-01-15 17:24:51] player3(model=Qwen, word=菜刀)
+[2026-01-15 17:24:51] player4(model=gpt, word=菜刀)
+[2026-01-15 17:24:51] player5(model=ernie, word=菜刀)
+[2026-01-15 17:24:51] player6(model=user, word=水果刀)
+[2026-01-15 17:24:56] player6 generated valid output: 水果

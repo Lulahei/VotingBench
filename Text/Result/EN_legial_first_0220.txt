@@ -1,0 +1,554 @@
+游戏进行中:   0%|          | 0/50 [00:00<?, ?轮/s][WARNING][2025-02-20 00:31:35.563] redis_rate_limiter.py:21 [t:298360]: No redis installed, RedisRateLimiter unavailable. Ignore this warning if you don't need to use qianfan SDK in distribution environment
+WARNING:qianfan:No redis installed, RedisRateLimiter unavailable. Ignore this warning if you don't need to use qianfan SDK in distribution environment
+游戏进行中:   2%|▏         | 1/50 [07:54<6:27:49, 474.89s/轮]游戏进行中:   4%|▍         | 2/50 [19:15<7:56:49, 596.02s/轮]游戏进行中:   6%|▌         | 3/50 [29:20<7:50:01, 600.04s/轮]游戏进行中:   8%|▊         | 4/50 [43:09<8:49:11, 690.24s/轮]游戏进行中:  10%|█         | 5/50 [49:34<7:15:09, 580.20s/轮]游戏进行中:  12%|█▏        | 6/50 [56:43<6:27:50, 528.87s/轮]游戏进行中:  14%|█▍        | 7/50 [1:03:15<5:47:05, 484.31s/轮]游戏进行中:  16%|█▌        | 8/50 [1:09:35<5:15:38, 450.93s/轮]游戏进行中:  18%|█▊        | 9/50 [1:20:06<5:46:43, 507.40s/轮]游戏进行中:  20%|██        | 10/50 [1:30:41<6:04:25, 546.63s/轮]游戏进行中:  22%|██▏       | 11/50 [1:39:09<5:47:41, 534.92s/轮]游戏进行中:  24%|██▍       | 12/50 [1:50:24<6:05:46, 577.54s/轮]游戏进行中:  26%|██▌       | 13/50 [1:58:51<5:42:53, 556.05s/轮]游戏进行中:  28%|██▊       | 14/50 [2:12:06<6:16:53, 628.15s/轮]游戏进行中:  30%|███       | 15/50 [2:22:46<6:08:38, 631.97s/轮]游戏进行中:  32%|███▏      | 16/50 [2:33:21<5:58:37, 632.88s/轮]游戏进行中:  34%|███▍      | 17/50 [2:42:53<5:38:00, 614.55s/轮]游戏进行中:  36%|███▌      | 18/50 [2:53:35<5:32:03, 622.60s/轮]游戏进行中:  38%|███▊      | 19/50 [3:00:03<4:45:14, 552.07s/轮]游戏进行中:  40%|████      | 20/50 [3:07:53<4:23:43, 527.47s/轮]游戏进行中:  42%|████▏     | 21/50 [3:20:56<4:52:03, 604.26s/轮]游戏进行中:  44%|████▍     | 22/50 [3:28:11<4:18:19, 553.56s/轮]游戏进行中:  46%|████▌     | 23/50 [3:34:37<3:46:30, 503.34s/轮]投票混乱
+非法输出: As a player6, my description of the word, without directly mentioning 'Trademark', would be:
+
+"It's a recognizable and legally protected sign or emblem that uniquely identifies a business's products or services."
+非法输出: A trademark is a recognizable sign, symbol, or expression used by a company to uniquely identify its goods or services and differentiate them from those offered by others in the marketplace.
+投票混乱
+投票混乱
+非法输出: As player6, my description of the word (assuming it's 'Litigation request' based on the context provided where I am likely the spy) would be:
+
+"It's a formal document presented to a court or legal authority to initiate a legal process for resolving a dispute or seeking justice."
+非法输出: As player6, my description of the word, without directly mentioning "Litigation request," would be:
+
+"It is a formal document presented to a court to commence legal action for resolving disputes or securing justice."
+投票混乱
+非法输出: As player6, I would describe the word 'Judgment' as: "The act of thoughtfully evaluating all pertinent data to arrive at a logical and well-founded conclusion."
+投票混乱
+投票混乱
+非法输出: As player6, my description of the word, without directly mentioning "Judgment," would be:
+
+"It's the definitive decision or assessment reached after thoroughly examining the pertinent information and considering all viewpoints."
+非法输出: To fulfill my task as player6, I will describe the word 'Judgment' indirectly yet comprehensively:
+
+"It's the thoughtful assessment leading to a well-founded opinion or decision."
+投票混乱
+投票混乱
+投票混乱
+投票混乱
+投票混乱
+投票混乱
+非法输出: To fulfill my task as player6, I will describe 'Asset preservation' indirectly yet comprehensively in one sentence:
+
+"It's about maintaining and safeguarding valuable items or resources to keep them in good condition and useful for the future."
+非法输出: As player6, my description of the word, without directly mentioning 'Asset preservation', would be:
+
+"Sustaining the worth and safety of key possessions through strategic measures and vigilant management."
+投票混乱
+非法输出: To describe "Asset preservation" without directly mentioning the word, you could say:
+
+"It's about maintaining and safeguarding the value of one's possessions or investments over time."
+非法输出: To fulfill my role as player6, I will provide a description that aligns with 'Asset preservation' without using the word itself:
+
+"Ensuring that valuable resources are carefully managed to maintain their condition and long-term value."
+非法输出: "Debt repayment is the process of gradually reducing a borrowed amount by making regular payments until the obligation is fully satisfied."
+非法输出: To fulfill the requirement as player6 while maintaining the intrigue of the game 'Who is Spy', I will offer a description that subtly hints at the concept of 'Debt repayment' without explicitly using the term:
+
+"It's about making sure an outstanding financial obligation is taken care of by providing the required sum back to the lender."
+
+This sentence captures the essence of debt repayment without directly naming it, aligning with the game's objective where subtlety and inference are key.
+投票混乱
+非法输出: As player6, my description of the word, without directly mentioning 'Debt repayment', would be:
+
+"The consistent, structured method of fulfilling a financial obligation by making regular, scheduled payments until the entire amount is paid off."
+非法输出: As player6, my description without directly mentioning "Judicial review" would be:
+
+"It's the system where courts have the power to check if laws or actions by the government follow the country's constitution."
+非法输出: As player6, my description without directly mentioning "Judicial review" would be:
+
+"It's the system where courts check if laws or government actions follow the basic rules and principles set out in a country's main legal document."
+投票混乱
+投票混乱
+非法输出: As player6, my description without directly mentioning "Judicial review" would be:
+
+"It's the process by which a legal authority examines and can strike down laws or actions by the government if they're found to be unconstitutional."
+投票混乱
+非法输出: As player6, my description without directly mentioning the word 'Bankruptcy liquidation' would be:
+
+"A formal procedure where a company's assets are liquidated to repay its debts, resulting in the cessation of its business operations."
+非法输出: As player6, my description of the word related to the process (without directly mentioning 'Bankruptcy liquidation') would be:
+
+"The formal legal process where a company's assets are sold to repay its debts after it ceases operations due to financial insolvency."
+非法输出: As player6, my description without directly mentioning the word "Bankruptcy liquidation" would be:
+
+"A situation where a company, due to financial distress, is compelled to shut down, sell its assets, and use the proceeds to repay its creditors."
+
+This description captures the essence of "Bankruptcy liquidation" without using the specific term, aligning with the task requirements and providing a clear picture for other players to reason through.
+非法输出: As player6, my description for the word associated with 'Bankruptcy liquidation' (without directly mentioning it) would be:
+
+"The systematic disposal of a company's assets to repay debts, ultimately leading to the company's closure due to insolvency."
+投票混乱
+非法输出: As player6, I would describe the word 'Victim' as:
+
+"Someone who has undergone negative consequences due to the actions of another person or unforeseen events."
+
+This description encapsulates the essence of the word 'Victim' without directly using it, aligning with the task of describing it in one sentence.
+非法输出: To fulfill my role as player6 in this game of 'Who is Spy', I need to craft a description that aligns with the word 'Defendant' without using the word itself. A defendant, in legal terms, is an individual who is accused or charged with a crime and is required to stand trial to defend themselves against these charges.
+
+Here's my description:
+"An individual who is accused of a crime and must appear in court to respond to the allegations made against them."
+
+This sentence encapsulates the essence of the word 'Defendant' without revealing it directly, thus adhering to the game's rules while providing a clear and relevant description.
+投票混乱
+非法输出: To fulfill my task as player6 without directly mentioning the word "Innocent," I will describe it in a way that captures its core meaning:
+
+"A person who has not committed any wrong and is devoid of any guilt or harmful intentions."
+投票混乱
+非法输出: As player6, my description of the concept without directly mentioning the word 'Innocent' would be:
+
+"A state of being free from any wrongdoing or moral impurity."
+非法输出: As player6, my description without directly mentioning "Contract law" would be:
+
+"It's the body of law that deals with the making, performance, and enforcement of promises or agreements between individuals or entities."
+投票混乱
+投票混乱
+非法输出: As player6, my description of the word, without directly mentioning "Contract law," would be:
+
+"It's the body of rules and principles that regulate how promises made between parties are legally binding and can be enforced."
+投票混乱
+非法输出: As player6, my description without directly mentioning "Contract law" would be:
+
+"It's the body of law concerned with the principles and rules that govern how promises are made and enforced between parties."
+投票混乱
+投票混乱
+非法输出: As player6, I would describe my word (assuming it's 'Administrative penalty') as:
+
+"It's a consequence imposed by authorities for breaking administrative rules and regulations."
+非法输出: An administrative penalty is a financial or corrective measure imposed by a governing authority to enforce compliance with regulations for non-criminal infractions.
+投票混乱
+投票混乱
+游戏进行中:  48%|████▊     | 24/50 [3:44:13<3:47:33, 525.14s/轮]游戏进行中:  50%|█████     | 25/50 [3:51:27<3:27:19, 497.60s/轮]游戏进行中:  52%|█████▏    | 26/50 [4:02:09<3:36:20, 540.85s/轮]游戏进行中:  54%|█████▍    | 27/50 [4:07:54<3:04:49, 482.17s/轮]游戏进行中:  56%|█████▌    | 28/50 [4:15:01<2:50:46, 465.77s/轮]非法输出: As a player6, I would describe the word 'Mediator' as: Someone who aids conflicting parties in communicating and reaching a consensus through impartial guidance.
+投票混乱
+非法输出: To fulfill my role as player6, I will describe the word 'Mediator' indirectly yet accurately in one sentence:
+
+"I am someone who specializes in facilitating dialogue and understanding between parties in dispute to help them find a satisfactory resolution."
+投票混乱
+非法输出: As player6, my description of the word 'Mediator' without directly mentioning it would be:
+
+"I am someone who helps people in conflict communicate better and find a solution that everyone can agree on."
+非法输出: As player6, I would describe the word 'False statement' as: "An assertion that does not align with known or verifiable facts."
+非法输出: A misleading statement is an expression designed to create a false impression or lead someone to a wrong conclusion.
+非法输出: As player6, I would describe the word 'False statement' as:
+
+A claim that intentionally distorts the truth or presents facts inaccurately.
+投票混乱
+非法输出: As player6, my description, without directly mentioning "Unfair competition," would be:
+
+"Using deceptive or unethical strategies to outperform competitors in the market, often to the detriment of fair practices."
+
+This description encapsulates the essence of unfair competition without using the specific term, aligning with the context provided by the other players' descriptions.
+非法输出: As player6, my description without directly mentioning the word "Unfair competition" would be:
+
+"Using deceptive or rule-breaking tactics to gain an unfair edge over competitors in a market or competitive setting."
+非法输出: As player6, my description without directly mentioning the word "Unfair competition" would be:
+
+"Engaging in practices that violate fairness principles to secure an advantage in a competitive environment."
+投票混乱
+非法输出: As player6, my description of the concept, without directly mentioning "Civil rights," would be:
+
+"They are the foundational guarantees enshrined in law to ensure fair treatment, equal opportunities, and protection of individual liberties across different societal spheres."
+非法输出: To craft a description for 'Civil rights' as player6 without directly mentioning the word, it's crucial to encapsulate the essence of what civil rights represent. Civil rights essentially pertain to the fundamental freedoms and protections afforded to individuals within a society, guaranteeing their equal participation in various aspects of life without discrimination.
+
+Given this understanding, my description for 'Civil rights' could be:
+
+"The foundational freedoms and safeguards that empower individuals to engage equally in social, political, and economic activities, free from prejudice and unfair treatment."
+
+This sentence captures the core idea of civil rights without using the term itself, aligning with the task's requirements and providing a clear, concise description suitable for the game's context.
+非法输出: As player6, my description of the concept without directly mentioning "Civil rights" would be:
+
+"The foundational protections that ensure everyone has equal access and fair treatment in all areas of society, from politics to daily life."
+投票混乱
+投票混乱
+非法输出: To fulfill my task as player6, I will describe the word 'Award' indirectly yet accurately in one sentence:
+
+"It is a high distinction granted to recognize and commend exceptional performance or achievements."
+非法输出: As player6, my description of the word 'Award' without directly mentioning it would be:
+
+"It is a commendation bestowed upon someone in recognition of their exceptional performance or significant contributions."
+非法输出: As player6, my description of the word, aligning with the theme of 'Public prosecution' without directly mentioning it, would be:
+
+"It's the legal process where the government actively pursues criminal cases against individuals on behalf of the public to uphold justice and enforce the law."
+非法输出: As player6, my description of the word aligned with 'Public prosecution' (without directly mentioning it) would be:
+
+"It involves government officials formally charging and pursuing justice on behalf of the public against those accused of breaking criminal laws."
+非法输出: As player6, my description of the word, without directly mentioning "Public prosecution," would be:
+
+"It's the official legal means by which the state brings charges against individuals or entities accused of breaking the law, on behalf of the general public."
+非法输出: To fulfill my task as player6, I need to provide a description of "Judicial adjudication" that aligns with the nature of the process described by the other players without using the word itself. Based on the descriptions given:
+
+"It is the method by which a neutral judicial authority reviews evidence and applies legal principles to resolve legal disputes or conflicts."
+投票混乱
+投票混乱
+非法输出: To fulfill my task as player6 without directly mentioning "Judicial adjudication," I would describe it as:
+
+"The process by which a neutral authority resolves legal disputes based on evidence and established laws."
+投票混乱
+投票混乱
+非法输出: As player6, my description without directly mentioning the word "Labor contract" would be:
+
+"It's the legal document that establishes the rights and duties of an employee and employer in a work setting."
+非法输出: As player6, my task is to describe the word 'Labor contract' indirectly, yet effectively convey its meaning without using the word itself. Here is my description:
+
+"It's a formal document outlining the rights, responsibilities, and compensation agreed upon between an employer and an employee for the performance of work."
+
+This sentence captures the essence of a labor contract without directly naming it, aligning with the goal of not revealing the spy's word prematurely.
+投票混乱
+投票混乱
+投票混乱
+投票混乱
+非法输出: As player6, my description without directly mentioning the word "Labor contract" would be:
+
+"It's the official paperwork that sets out the rules, responsibilities, and pay for a job between an employer and an employee."
+非法输出: As player6, my description of the word, without directly mentioning 'Non-litigation', would be:
+
+"It's a means of settling disputes through alternative methods like negotiation and mediation, without involving the court system."
+非法输出: As player6, my description of the word without directly mentioning 'Non-litigation' would be:
+
+"It's a method of dispute resolution that focuses on negotiation, mediation, and mutual agreement, rather than legal proceedings."
+非法输出: As player6, my description of the word without mentioning "Non-litigation" directly would be:
+
+"It's a method of resolving disputes that doesn't involve going to court, focusing instead on negotiation, mediation, and other collaborative approaches."
+投票混乱
+投票混乱
+非法输出: As player6, my description without directly mentioning "Property ownership" would be:
+
+"It refers to having complete legal control over an asset, allowing one to use, manage, and dispose of it as they wish."
+非法输出: As player6, my description of the word (without directly mentioning 'Property ownership') would be:
+
+"It encompasses the full power and authority to decide how, when, and by whom assets or resources are utilized, controlled, and ultimately disposed of."
+非法输出: As player6, my description without directly mentioning "Property ownership" would be:
+
+"The full and exclusive authority to control, utilize, manage, and dispose of one's assets as one sees fit."
+投票混乱
+非法输出: As player6, my description without directly mentioning 'Property ownership' would be:
+
+"The ability to exercise full legal control over assets, deciding how they are used, managed, and transferred."
+游戏进行中:  58%|█████▊    | 29/50 [4:27:04<3:09:59, 542.84s/轮]游戏进行中:  60%|██████    | 30/50 [4:37:14<3:07:37, 562.88s/轮]游戏进行中:  62%|██████▏   | 31/50 [4:49:26<3:14:22, 613.83s/轮]游戏进行中:  64%|██████▍   | 32/50 [4:56:59<2:49:38, 565.49s/轮]游戏进行中:  66%|██████▌   | 33/50 [5:08:46<2:52:16, 608.05s/轮]游戏进行中:  68%|██████▊   | 34/50 [5:14:38<2:21:38, 531.18s/轮]游戏进行中:  70%|███████   | 35/50 [5:20:37<1:59:53, 479.60s/轮]游戏进行中:  72%|███████▏  | 36/50 [5:29:06<1:53:57, 488.40s/轮]游戏进行中:  74%|███████▍  | 37/50 [5:35:06<1:37:28, 449.90s/轮]游戏进行中:  76%|███████▌  | 38/50 [5:41:08<1:24:41, 423.43s/轮]非法输出: As player6, my description of the word, aligning with the theme but avoiding direct mention, would be:
+
+"It's about enforcing rules and regulations through mandatory, authoritative means to ensure everyone complies."
+
+This description captures the essence of 'Compulsory enforcement' without using the word itself, fitting into the context of the game where players are trying to infer the spy's word based on descriptions. Player5's description, which mentions court judgments and resolving civil disputes, deviates from the general theme shared by the other players and could potentially indicate a different word if it were not for the game context, suggesting it might be the spy. However, within the framework of providing a description without revealing the word directly, my sentence aims to align closely with the shared understanding of 'Compulsory enforcement' among the civilian players.
+投票混乱
+非法输出: Compulsory enforcement involves the legal implementation of actions to ensure compliance with a court's orders or regulations, often using authoritative measures to address non-compliance.
+投票混乱
+非法输出: Compulsory enforcement is a legal procedure where authorities ensure compliance with court orders by using measures like asset seizure or penalties.
+非法输出: To fulfill my task as Player6 in this round of 'Who is Spy', I need to provide a description of the word 'Lawyer' indirectly yet unmistakably, without using the word itself. Based on the descriptions given by other players, all of which seem to point towards a legal professional who represents clients, I will craft a sentence that encapsulates this essence without revealing the specific term. Here’s my description:
+
+"An expert in legal matters who represents individuals or entities in court proceedings and offers professional guidance on legal issues."
+
+This sentence should align with the general understanding of a lawyer's role without directly naming the profession, aiding the civilians in identifying the spy based on discrepancies in descriptions.
+非法输出: To tackle this scenario in the game 'Who is Spy', where you (player6) must describe the word 'Lawyer' indirectly while other players might have received a different word, it's crucial to craft a description that hints at the profession without explicitly using the term. The challenge lies in being subtle yet precise enough to align with the common understanding of a lawyer's role.
+
+Analyzing the descriptions provided by other players:
+- Player1 mentions someone versed in legal knowledge and representing clients.
+- Player2 specifies a licensed advocate who defends rights and navigates courtroom battles.
+- Player3 focuses on interpreting laws and advocating in judicial proceedings.
+- Player4 describes a figure presiding over legal proceedings, which sounds more like a judge.
+- Player5 talks about providing legal advice and representation, aligning closely with a lawyer's duties.
+
+Given these descriptions, you need to craft a sentence that encapsulates the essence of what a lawyer does without using the word itself. The core aspects of a lawyer's job involve interpreting laws, providing legal advice, and advocating for clients in legal matters.
+
+Here is a suitable description:
+"An expert who helps clients understand and navigate legal issues, providing advice and representation in court cases."
+
+This sentence avoids the direct use of 'lawyer' while still clearly pointing to the profession based on its key functions. This should help fellow civilians identify who might be the spy if their description does not match this broad professional profile.
+投票混乱
+非法输出: As player6, my description of the word 'Lawyer' without directly mentioning it would be:
+
+"A professional who specializes in legal matters, offering advice, representation, and advocacy for clients in various legal contexts."
+非法输出: To fulfill my task as player6, I need to craft a description that subtly points to the word 'Lawyer' without using it directly. Analyzing the descriptions provided by other players, a common theme emerges: representing clients in legal matters, offering legal advice, and navigating the judicial system. Integrating these elements, I can formulate a description that aligns with the role of a lawyer but avoids the direct use of the word.
+
+Here is my description:
+"An expert in legal affairs who assists clients in legal disputes and provides guidance through the judicial process."
+
+This sentence encapsulates the essential functions of a lawyer—representing clients, offering legal advice, and navigating legal disputes—without explicitly stating the word 'Lawyer'.
+投票混乱
+非法输出: As player6, my description of the word (without directly mentioning 'Official document') would be:
+
+"It's a verified and authenticated writing issued by an authority, typically used for legal or administrative purposes and often bearing official seals or signatures."
+非法输出: As player6, my description without directly mentioning "Criminal litigation" would be:
+
+"It's the legal framework where the state brings charges against an individual accused of breaking the law, with a court hearing to determine guilt or innocence based on presented evidence."
+
+This description encapsulates the essence of criminal litigation without using the specific term, aligning with the task of confusing others as a potential spy (though in this context, I'm simply providing a description as instructed). Based on the given descriptions, players with descriptions matching this context (like players 1, 2, 3, and 5) would likely have the word related to criminal proceedings, while player 4's description seems different, possibly indicating they are the spy with a different word related to civil litigation.
+非法输出: As player6, my description of the word (without directly mentioning 'Criminal litigation') would be:
+
+"It's the legal process where the state initiates court proceedings against an individual accused of violating criminal law to determine their guilt and impose penalties if convicted."
+非法输出: As player6, my description without directly mentioning the word "Criminal litigation" would be:
+
+"It's the legal process where the state brings formal charges against someone accused of breaking the law, aiming to prove their guilt and impose penalties."
+
+This description aligns with the core concept of criminal litigation without using the specific term, and it should help the civilians identify the spy based on the discrepancies in descriptions.
+投票混乱
+非法输出: As player6, my description without directly mentioning "Criminal litigation" would be:
+
+"It's the legal system's method of addressing allegations of criminal behavior, involving the state's prosecution of individuals and the determination of guilt or innocence in court."
+非法输出: As player6, my description of the word, without mentioning 'Creditor' directly, would be:
+
+"The one to whom money is owed, expecting repayment according to mutually agreed terms."
+非法输出: As player6, I would describe the word 'Creditor' as:
+
+"The one who is owed money or resources by another party, with the expectation of repayment according to previously agreed terms."
+非法输出: As player6, I would describe the word 'Creditor' as:
+
+"Someone who has lent money or provided services and is expecting to be paid back."
+非法输出: As player6, I would describe the word 'Creditor' as:
+
+"The party that has given money or extended credit to someone else and has the right to be repaid."
+非法输出: To fulfill my task as player6, I will describe "Contract terms" indirectly yet comprehensively: "The fundamental elements outlined in a formal document, detailing the obligations, entitlements, and repercussions agreed upon by all participating parties." This description encapsulates the essence of contract terms without using the specific phrase, aligning with the objective of the game to avoid direct revelation while still providing a clear understanding.
+投票混乱
+游戏进行中:  78%|███████▊  | 39/50 [5:47:58<1:16:51, 419.26s/轮]游戏进行中:  80%|████████  | 40/50 [5:57:07<1:16:24, 458.40s/轮]游戏进行中:  82%|████████▏ | 41/50 [6:04:53<1:09:04, 460.46s/轮]游戏进行中:  84%|████████▍ | 42/50 [6:11:39<59:14, 444.34s/轮]  游戏进行中:  86%|████████▌ | 43/50 [6:18:44<51:09, 438.49s/轮]游戏进行中:  88%|████████▊ | 44/50 [6:26:44<45:04, 450.74s/轮]非法输出: To fulfill my role as Player 6 and provide a description that aligns with the shared understanding of "Contract terms" without directly using the word, I would say:
+
+"The detailed obligations, rights, and conditions outlined in a formal and legally enforceable agreement between parties."
+投票混乱
+投票混乱
+非法输出: As player6, my description of the word (without directly mentioning 'First-instance') would be:
+
+"It's the earliest level in a formal proceeding where a case is first heard and considered before any potential appeals or further legal actions."
+非法输出: As player6, my description of the word related to your scenario, without directly mentioning "First-instance," would be:
+
+"It's the initial level of a legal proceeding where a case is first heard and a judgment is initially passed."
+非法输出: As the player6, my description without directly mentioning the word "Divorce agreement" would be:
+
+"A comprehensive written arrangement that settles asset distribution, liabilities, and other post-marital matters between two divorced individuals."
+投票混乱
+投票混乱
+投票混乱
+投票混乱
+非法输出: As player6, my description without directly mentioning "Patent rights" would be:
+
+"It's the exclusive privilege granted to an inventor to exploit their invention commercially for a fixed number of years."
+投票混乱
+投票混乱
+非法输出: As player6, my description without directly mentioning "Patent rights" would be:
+
+"It's the exclusive legal authority granted to an inventor to capitalize on their new innovations for a set duration."
+投票混乱
+投票混乱
+投票混乱
+非法输出: As player6, my description of the concept without directly mentioning "Abuse of rights" would be:
+
+"Taking advantage of legal privileges in a way that deliberately causes harm or undermines justice, going beyond their intended use."
+
+This sentence captures the essence of abusing rights without using the specific term, aligning with the descriptions provided by other players which emphasize the intentional misuse of legal entitlements for harmful or unjust purposes.
+非法输出: As player6, my description without directly mentioning the word 'Abuse of rights' would be:
+
+"Taking unfair advantage by misusing one's authorized position or privileges, often causing harm to others or securing personal benefits improperly."
+非法输出: As player6, my description of the concept without directly mentioning "Abuse of rights" would be:
+
+"Exploiting legal privileges or entitlements for personal gain or to harm others, contrary to their intended purpose."
+非法输出: As player6, my description of the concept without directly mentioning "Abuse of rights" would be:
+
+"Utilizing one's rights or freedoms in a manner that violates the spirit of those rights, often to the detriment of others or for personal gain."
+非法输出: As player6, I would describe 'Abuse of rights' as:
+
+Exploiting one's legal rights or authorities in an unfair and harmful manner, often by exceeding reasonable limits or misusing legitimate powers.
+非法输出: As player6, my description without directly mentioning "Commercial litigation" would be:
+
+"It's the legal means of resolving disputes arising from business transactions and agreements."
+非法输出: As player6, my description without directly mentioning "Commercial litigation" would be:
+
+"It's the legal process businesses use to resolve disputes over contracts, transactions, or financial matters."
+非法输出: Commercial litigation involves resolving business-related disputes in a legal setting, often requiring the expertise of attorneys to navigate complex contractual and financial issues.
+非法输出: As player6, my description of the word (without directly mentioning 'Commercial litigation') would be:
+
+"It's a formal legal process used by businesses and individuals to resolve disputes related to commerce, such as breaches of contract or financial disagreements, in court."
+投票混乱
+非法输出: To fulfill my task as player6, I would describe the word 'Plaintiff' as:
+
+"The party who initiates a lawsuit in court, seeking justice or compensation for an alleged wrong or harm done to them."
+非法输出: To fulfill my task as Player6, I need to describe the word 'Defendant' indirectly in one sentence. The defendant in a legal context is typically the person against whom a legal action or lawsuit is brought. Considering this, my description would be:
+
+"The party in a court case who is accused or sued by another party."
+非法输出: As player6, my description of the word without directly mentioning 'Plaintiff' would be:
+
+"The person who starts a legal proceeding in court by accusing another party of harm or wrongdoing."
+非法输出: To fulfill my task as player6, I need to provide a description of the word 'Plaintiff' that is both indirect and clear enough for others to understand its meaning within the context of the game. Here is my description:
+
+"This person initiates a legal proceeding by filing a lawsuit in court to seek justice or compensation for an alleged wrong or harm done to them."
+
+This sentence captures the essence of what a plaintiff does without directly using the word, aligning with the goal of the game where indirect descriptions are used to identify the spy.
+非法输出: To fulfill my role as player6 without directly mentioning "Burden of proof," I would describe it as:
+
+"The necessity to present adequate supporting information to validate a made assertion or claim."
+投票混乱
+投票混乱
+非法输出: As player6, my description without directly mentioning "Burden of proof" would be:
+
+"It's the requirement for the person making an assertion to provide the necessary evidence to support their claim in a legal or argumentative context."
+非法输出: To fulfill my task as player6, I would describe the word 'Burden of proof' as:
+
+The requirement to present sufficient evidence or reasoning to establish the validity of one's claim in a dispute or discussion.
+投票混乱
+非法输出: As player6, my description without directly mentioning "Breach of contract" would be:
+
+"A situation where an individual or entity fails to fulfill their committed obligations as stated in a formal, legally enforceable agreement."
+非法输出: To fulfill my role as player6 without revealing my potential status as the spy, I need to provide a description that aligns closely with the concept of 'Contract termination' but avoids using the word itself. Here's my description:
+
+"The formal action of ending an agreement between parties due to non-compliance or mutual consent."
+
+This sentence captures the essence of contract termination without directly stating the word, aligning with the task given to me while potentially aiding the civilians in identifying discrepancies in descriptions that might reveal the spy.
+非法输出: As player6, my description without directly mentioning "Breach of contract" would be:
+
+"A situation where one party fails to adhere to the terms and conditions outlined in a formal, binding agreement."
+非法输出: As player6, my description without directly mentioning "Breach of contract" would be:
+
+"Failing to uphold one's end of a formal, legally enforceable agreement."
+非法输出: **Player2's Description:**  
+"Failing to adhere to the obligations outlined in a binding agreement."  
+
+This avoids directly naming "breach of contract" while emphasizing the violation of agreed terms within a formal arrangement, distinguishing it from Player1's focus on the "end" of an agreement.
+非法输出: To fulfill my role as player6 without revealing my potential status as the spy (if I were to have a different word), I would describe "Contract termination" indirectly yet accurately by focusing on its core consequences:
+
+"The point at which an established agreement between parties loses its legal force, freeing all involved from previous commitments."
+游戏进行中:  90%|█████████ | 45/50 [6:35:25<39:19, 471.99s/轮]游戏进行中:  92%|█████████▏| 46/50 [6:36:22<23:09, 347.40s/轮]游戏进行中:  94%|█████████▍| 47/50 [6:46:04<20:53, 417.71s/轮]游戏进行中:  96%|█████████▌| 48/50 [6:52:42<13:43, 411.96s/轮]游戏进行中:  98%|█████████▊| 49/50 [7:04:51<08:27, 507.13s/轮]游戏进行中: 100%|██████████| 50/50 [7:16:45<00:00, 568.97s/轮]游戏进行中: 100%|██████████| 50/50 [7:16:45<00:00, 524.10s/轮]
+非法输出: To fulfill my role as player6 without revealing the word directly but still providing a clear description that aligns with 'Contract termination,' I would say:
+
+"It's the action of officially dissolving a legally binding document, releasing all signatories from their previous commitments."
+
+This sentence captures the essence of contract termination without using the specific term, aiding the civilians in identifying discrepancies in descriptions that might point to the spy.
+非法输出: To fulfill my role as player6 without directly mentioning "Contract termination," I would describe it as:
+
+"The action of formally dissolving an agreement, thereby relieving all parties involved of their stipulated obligations."
+非法输出: As player6, my description without directly mentioning "Contract termination" would be:
+
+"The official action of nullifying a previously binding commitment or agreement."
+非法输出: As player6, my description without directly mentioning "Contract termination" would be:
+
+"The action of officially ending a legally enforceable understanding between parties, often involving specific procedures or consequences."
+非法输出: As player6, my description of the word (which is 'Infringement') without directly mentioning it would be:
+
+"An action that goes against established rules, rights, or laws, typically resulting in some form of penalty or consequence."
+非法输出: As player6, my description of the word (without directly mentioning 'Infringement') would be:
+
+"It's an unauthorized action that transgresses established norms, laws, or rights, often leading to consequences."
+非法输出: As player6, my description of the word (which is 'Infringement') would be:
+
+"It's an act of breaking or going against established rules, rights, or boundaries, often with potential legal consequences."
+
+This description encapsulates the essence of 'Infringement' without directly using the word, aligning with the task of confusing others while still providing enough information for the civilians to potentially identify the spy based on the similarities with their own words.
+非法输出: An infringement is an act where someone impinges upon the rights or boundaries set by law or agreement.
+非法输出: As player6, my description without directly mentioning "Litigation request" would be:
+
+"It's a formal document presented to a court to start a process for resolving a legal dispute or seeking justice."
+非法输出: As player6, my description of the word, without directly mentioning "Litigation request," would be:
+
+"It is a formal document submitted to a court or legal authority to commence a legal process for resolving a dispute or seeking justice."
+投票混乱
+非法输出: As player6, my description of the word (assuming it's one of the options you didn't explicitly state but implied through context as 'litigation request') would be:
+
+"A formal submission to a court seeking legal resolution or remedy for a disputed matter."
+
+This description aligns with the common understanding of what a litigation request entails without directly using the term, thus fitting the task requirements.
+非法输出: As player6, my description of the word I have (assuming it's 'Litigation request') would be:
+
+"A formal legal action initiated to resolve a dispute or seek justice through the court system."
+非法输出: To fulfill my role as player6 and provide a description that aligns with the word "Asset division" without directly mentioning it, I would say:
+
+"It's about the organized way of apportioning valuable assets or property among involved parties, typically guided by legal or mutually agreed-upon principles."
+
+This description captures the essence of asset division by emphasizing the organized nature of the process and the involvement of legal or agreed-upon guidelines in allocating assets.
+非法输出: To fulfill my task as player6 without directly mentioning "asset division," I would describe it as:
+
+"The systematic approach to allocating and determining the rightful portions of economic resources or properties among different entities."
+非法输出: To fulfill my task as player6, I will describe 'Asset division' indirectly yet clearly within one sentence:
+
+"It entails the organized distribution of assets or valuables among various parties, commonly during significant events or based on predetermined rules."
+非法输出: To fulfill my task as player6, I will describe 'Asset division' in a way that captures its essence without using the word itself. Here is my description:
+
+"The organized method of assigning ownership of various properties and financial resources among different parties based on established rules or agreements."
+
+This sentence encapsulates the core meaning of 'Asset division' by highlighting the structured and rule-based nature of distributing assets among various entities.
+非法输出: To fulfill my task as player6, I would describe 'Asset division' as:
+
+"The method of allocating or partitioning valuable assets or property among individuals or entities, typically in a fair and systematic manner."
+非法输出: As player6, my description of the word, without directly mentioning 'Exclusivity', would be:
+
+"It's a state where something is restricted to a particular group or individual, not shared with others."
+非法输出: As player6, my description of the word, without directly mentioning 'Exclusivity', would be:
+
+"It's a state where certain benefits, rights, or privileges are limited to a particular individual or group, excluding others from enjoying the same."
+非法输出: As player6, my description of the word, without directly mentioning 'Exclusivity', would be:
+
+"It's the concept where certain things are kept for a select few, not meant for everyone to have or experience."
+非法输出: A partnership is a business relationship where two or more individuals combine their resources and expertise to manage and operate a venture, sharing both the responsibilities and the profits.
+投票混乱
+非法输出: To fulfill my task as player6 without revealing the word "Partnership" directly while still providing a clear description that aligns with the theme, I would say:
+
+"It's a cooperative venture where parties unite to achieve shared objectives, pooling resources and dividing responsibilities."
+
+This description captures the essence of a partnership without using the word itself, aligning with the descriptions provided by other players which emphasize collaboration, shared goals, and mutual benefit.
+投票混乱
+非法输出: To describe the word 'Partnership' indirectly in one sentence without using the word itself, you could say:
+
+"It's a form of collaboration where parties combine their resources and efforts to achieve shared objectives."
+投票混乱
+非法输出: As player6, my description without directly mentioning "Filing a lawsuit" would be:
+
+Initiating a formal legal action through a court to seek justice or compensation for a wrong or dispute.
+非法输出: To fulfill my task as player6 without directly mentioning the word "Appealing," I will describe it in a way that aligns with the legal context presented by the other players' descriptions, while ensuring it doesn't explicitly give away my word if it's different. Here’s my description:
+
+"Initiating a process to request a higher court to review and potentially overturn a previous legal decision."
+
+This sentence captures the essence of appealing a legal decision without using the word "Appealing" and fits within the legal theme of the game.
+非法输出: As player6, my description of the word, without directly mentioning 'Filing a lawsuit', would be:
+
+"Initiating a formal legal action by presenting a case to a court for resolution."
+非法输出: To fulfill my task as player6, I must describe 'Filing a lawsuit' indirectly yet accurately within one sentence. Analyzing the descriptions provided by other players:
+
+- Player1 emphasizes legal action through proper procedures in a court or tribunal.
+- Player2 mentions initiating a formal legal process in a court to resolve disputes.
+- Player3 discusses commencing a formal legal proceeding in a judicial setting.
+- Player4 shifts focus to appealing a decision to a higher court, which is a specific legal action but different from initiating a lawsuit.
+- Player5 talks about starting a formal process by submitting documents to a court.
+
+From these descriptions, it's clear that players 1, 2, 3, and 5 are describing actions that align closely with 'Filing a lawsuit', as they involve initiating or starting a formal legal process in a court setting. Player4's description diverges by focusing on appellate action rather than the initiation of a lawsuit.
+
+Given this analysis, I will craft my sentence to align with the common themes in players' descriptions while avoiding repetition:
+
+"Starting a formal legal journey by presenting your case and evidence to a court for adjudication."
+
+This sentence captures the essence of 'Filing a lawsuit' without directly using the term, focusing on the initiation of a legal process in a court setting.
+投票混乱
+非法输出: Unjust enrichment refers to obtaining benefits through improper or unfair means without a legal basis. However, it should be noted that in China, unjust enrichment is a legal concept, and relevant laws are in place to regulate and deal with such situations.
+非法输出: Unjust enrichment refers to obtaining benefits through improper or unfair means without a legal basis or just cause. However, it should be noted that this is a legal concept mainly used in the field of law to regulate certain improper economic gain situations.
+非法输出: Unjust enrichment refers to a situation where one party obtains benefits at the expense of others without a proper legal basis or justification.
+非法输出: As player6, my description of the concept without directly mentioning "Unjust enrichment" would be:
+
+"Benefiting financially or materially from an action or situation where one has not provided fair or adequate compensation to the other party involved."
+非法输出: Unjust enrichment refers to obtaining benefits in an improper or unfair way without a legitimate basis.
+非法输出: Unjust enrichment refers to obtaining benefits in an improper or unfair way without a legal basis. However, it should be noted that this is a legal concept, and in the context of this game, we are just using it for description purposes.
+非法输出: As player6, my description of the word (without directly mentioning 'Preliminary review') would be:
+
+"It's an initial look or examination to gauge if further, more detailed steps are required."
+投票混乱
+非法输出: As player6, my description without directly mentioning the word "Legal inheritance" could be:
+
+"It's the official way assets and debts are passed on from a deceased person to their heirs or beneficiaries, as specified by law or a will."
+
+This description encapsulates the essence of legal inheritance without using the term itself, aligning with the task requirements.
+投票混乱
+非法输出: As player6, my description of the word (without directly mentioning 'Legal inheritance') would be:
+
+"It's the system that allows assets and property to be passed on to the next generation or specified beneficiaries after someone has passed away, in line with legal requirements and any written instructions."
+投票混乱
+非法输出: As player6, my description without directly mentioning "Legal inheritance" would be:
+
+"It's the system through which assets and property are passed on to the next generation according to legal and testamentary provisions."
+非法输出: As player6, my description of the word I represent (assuming it's 'Dispute', based on the context) would be:
+
+"It's a situation involving differing viewpoints or claims that leads to contention or debate among the parties involved."
+非法输出: To fulfill my task as player6, I would describe the word 'Dispute' as:
+
+A situation involving conflicting claims or opinions that necessitates resolution through discussion or negotiation.
+投票混乱
+非法输出: As player6, my description of the word 'Fraud' without directly mentioning it would be:
+
+"It's the act of dishonestly misrepresenting facts or concealing truth to induce someone to part with something of value, typically money or property."
+非法输出: As player6, my description of the word 'Fraud' without directly mentioning it would be:
+
+"A dishonest act committed with the intent to deceive for personal gain or to cause harm to another, typically involving the manipulation or concealment of facts."
+非法输出: As player6, I would describe the word 'Fraud' as: A dishonest act carried out with the intention of deceiving others for personal gain or advantage.
+{'player1': {'vote_correct_count': 0, 'is_spy_count': 18, 'spy_win_count': 1, 'is_civilian_count': 136, 'civilian_win_count': 94}, 'player2': {'vote_correct_count': 0, 'is_spy_count': 25, 'spy_win_count': 7, 'is_civilian_count': 129, 'civilian_win_count': 93}, 'player3': {'vote_correct_count': 0, 'is_spy_count': 20, 'spy_win_count': 8, 'is_civilian_count': 134, 'civilian_win_count': 99}, 'player4': {'vote_correct_count': 0, 'is_spy_count': 24, 'spy_win_count': 10, 'is_civilian_count': 130, 'civilian_win_count': 97}, 'player5': {'vote_correct_count': 0, 'is_spy_count': 22, 'spy_win_count': 6, 'is_civilian_count': 132, 'civilian_win_count': 95}, 'player6': {'vote_correct_count': 0, 'is_spy_count': 45, 'spy_win_count': 11, 'is_civilian_count': 109, 'civilian_win_count': 77}}
+{'deepseek': {'civilian_count': 129, 'spy_count': 25, 'correct_votes': 93, 'spy_wins': 7}, 'Qwen': {'civilian_count': 130, 'spy_count': 24, 'correct_votes': 97, 'spy_wins': 10}, 'ernie': {'civilian_count': 109, 'spy_count': 45, 'correct_votes': 77, 'spy_wins': 11}, 'glm': {'civilian_count': 134, 'spy_count': 20, 'correct_votes': 99, 'spy_wins': 8}, 'doubao': {'civilian_count': 136, 'spy_count': 18, 'correct_votes': 94, 'spy_wins': 1}, 'gpt': {'civilian_count': 132, 'spy_count': 22, 'correct_votes': 95, 'spy_wins': 6}}

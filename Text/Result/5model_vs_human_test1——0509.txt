@@ -1,0 +1,441 @@
+[2025-05-09 15:16:29] ------ 游戏开始 ------
+[2025-05-09 15:16:29] 玩家分配如下：
+[2025-05-09 15:16:29] 玩家信息：(player_id=player1,word=Chef Knife,分到的模型是deepseek)
+[2025-05-09 15:16:29] 玩家信息：(player_id=player2,word=Chef Knife,分到的模型是glm)
+[2025-05-09 15:16:29] 玩家信息：(player_id=player3,word=Chef Knife,分到的模型是Qwen)
+[2025-05-09 15:16:29] 玩家信息：(player_id=player4,word=Chef Knife,分到的模型是gpt)
+[2025-05-09 15:16:29] 玩家信息：(player_id=player5,word=Chef Knife,分到的模型是ernie)
+[2025-05-09 15:16:29] 玩家信息：(player_id=player6,word=Paring Knife,分到的模型是user)
+[2025-05-09 15:16:29] ------ 游戏开始 ------
+[2025-05-09 15:16:29] 玩家分配如下：
+[2025-05-09 15:16:29] 玩家信息：(player_id=player1,word=Chef Knife,分到的模型是deepseek)
+[2025-05-09 15:16:29] 玩家信息：(player_id=player2,word=Chef Knife,分到的模型是glm)
+[2025-05-09 15:16:29] 玩家信息：(player_id=player3,word=Chef Knife,分到的模型是Qwen)
+[2025-05-09 15:16:29] 玩家信息：(player_id=player4,word=Chef Knife,分到的模型是gpt)
+[2025-05-09 15:16:29] 玩家信息：(player_id=player5,word=Chef Knife,分到的模型是ernie)
+[2025-05-09 15:16:29] 玩家信息：(player_id=player6,word=Paring Knife,分到的模型是user)
+[2025-05-09 15:16:35] player4 生成合法输出: "It's a versatile kitchen tool with a sharp blade used for chopping, slicing, and dicing ingredients."
+[2025-05-09 15:16:39] player5 生成合法输出: It's a type of knife commonly found in kitchens, designed for precisely cutting, chopping, and slicing various ingredients.
+[2025-05-09 15:16:40] player6 生成合法输出: Metal material, with handle and sharp parts, usually not large in size.
+[2025-05-09 15:16:43] player2 生成合法输出: A multi-purpose kitchen utensil with a broad, sharp blade and a sturdy handle, essential for a variety of cutting tasks.
+[2025-05-09 15:16:46] player3 生成合法输出: A fundamental kitchen implement with a sharp blade and handle, indispensable for cutting, slicing, and preparing ingredients efficiently.
+[2025-05-09 15:18:07] player1 生成合法输出: A sharp-bladed kitchen essential with a comfortable handle, designed to tackle everything from delicate herbs to hearty vegetables with ease.
+[2025-05-09 15:18:11] player4 投票给 player6,投票详情：I suspect player6 is the spy,  
+Reasoning: Their description is overly vague compared to the others, focusing on the material and general physical attributes rather than its purpose or specific uses in the kitchen.
+[2025-05-09 15:18:18] player5 投票给 player4, 投票详情：I suspect player4 is the spy,
+Reasoning: Player4's description of the kitchen tool, while accurate, seems to be slightly more generic and lacks the specific details provided by other players. The spy might be trying to avoid being too specific in their description to not reveal too much about their identity or the actual nature of the tool they are describing. Additionally, all other players provided descriptions that could be seen as slightly more detailed or nuanced, possibly indicating they have more direct knowledge or experience with the tool in question.
+[2025-05-09 15:18:26] player6 投票给 player4
+[2025-05-09 15:18:34] player2 投票给 player6,投票详情：I suspect player6 is the spy,
+Reasoning: While all players describe a kitchen tool with a sharp blade used for cutting, slicing, and dicing, player6's description is the least specific and lacks the detailed context provided by the others. Player6 mentions "metal material, with handle and sharp parts," which is quite generic and could apply to various kitchen tools, not just a knife. The other players provide more detailed descriptions that clearly indicate they are talking about a knife, such as "versatile kitchen tool," "designed for precisely cutting," "fundamental kitchen implement," and "designed to tackle everything from delicate herbs to hearty vegetables." Player6's vagueness stands out in comparison.
+[2025-05-09 15:18:39] player3 投票给 player6,投票详情：I suspect player6 is the spy,  
+Reasoning: Player6's description is notably vague compared to the others. While players 1, 2, 4, and 5 provided detailed information about the object being a kitchen knife, including its uses and features like the sharp blade and handle, player6 only mentioned "metal material, with handle and sharp parts," which lacks specificity and doesn't fully align with the expected level of detail for this round. This vagueness suggests they may not know the actual object.
+[2025-05-09 15:19:47] player1 投票给 player6,投票详情：I suspect player6 is the spy,
+Reasoning: The majority of players (player4, player5, player2, player3) explicitly or implicitly described a **knife**, emphasizing its purpose (chopping, slicing, multi-use) and structure (sharp blade, handle). Player6’s response, however, is overly generic: "Metal material, with handle and sharp parts, usually not large in size." This avoids specifying the item as a knife and could apply to other tools (e.g., scissors, box cutter). The spy, unaware of the specific item, would likely resort to vague physical descriptors rather than functional ones tied to a knife.
+[2025-05-09 15:19:47] 玩家 player6 被淘汰
+[2025-05-09 15:19:47] 卧底失败，平民胜利！
+[2025-05-09 15:19:47] 玩家 player6 被淘汰
+[2025-05-09 15:19:47] 卧底失败，平民胜利！
+[2025-05-09 15:19:47] ------ 游戏结束 ------
+[2025-05-09 15:19:47] ------ 游戏开始 ------
+[2025-05-09 15:19:47] 玩家分配如下：
+[2025-05-09 15:19:47] 玩家信息：(player_id=player4,word=Slippers,分到的模型是gpt)
+[2025-05-09 15:19:47] 玩家信息：(player_id=player5,word=Slippers,分到的模型是ernie)
+[2025-05-09 15:19:47] 玩家信息：(player_id=player6,word=Slippers,分到的模型是user)
+[2025-05-09 15:19:47] 玩家信息：(player_id=player2,word=Slippers,分到的模型是glm)
+[2025-05-09 15:19:47] 玩家信息：(player_id=player3,word=Slippers,分到的模型是Qwen)
+[2025-05-09 15:19:47] 玩家信息：(player_id=player1,word=Sandals,分到的模型是deepseek)
+[2025-05-09 15:19:47] ------ 游戏开始 ------
+[2025-05-09 15:19:47] 玩家分配如下：
+[2025-05-09 15:19:47] 玩家信息：(player_id=player4,word=Slippers,分到的模型是gpt)
+[2025-05-09 15:19:47] 玩家信息：(player_id=player5,word=Slippers,分到的模型是ernie)
+[2025-05-09 15:19:47] 玩家信息：(player_id=player6,word=Slippers,分到的模型是user)
+[2025-05-09 15:19:47] 玩家信息：(player_id=player2,word=Slippers,分到的模型是glm)
+[2025-05-09 15:19:47] 玩家信息：(player_id=player3,word=Slippers,分到的模型是Qwen)
+[2025-05-09 15:19:47] 玩家信息：(player_id=player1,word=Sandals,分到的模型是deepseek)
+[2025-05-09 15:19:48] player5 生成合法输出: Comfortable, lightweight footwear typically worn indoors.
+[2025-05-09 15:19:49] player6 生成合法输出: Something that everyone changes when they get home.
+[2025-05-09 15:20:22] player1 生成合法输出: Breathable footwear with open toes and straps, commonly used in warm climates for casual outings.
+[2025-05-09 15:20:25] player4 生成合法输出: Soft indoor footwear designed for ease and relaxation at home.
+[2025-05-09 15:20:28] player2 生成合法输出: Flexible, cozy footwear often slipped on for quick comfort around the house.
+[2025-05-09 15:20:30] player3 生成合法输出: Cozy, easy-to-slip-on footwear perfect for lounging at home.
+[2025-05-09 15:20:39] player5 投票给 player1, 投票详情：I suspect player1 is the spy,
+Reasoning: Player1's answer ("Breathable footwear with open toes and straps, commonly used in warm climates for casual outings") does not align well with the prompt, which was about something people change when they get home. The other players mentioned types of indoor footwear, which fit the context better. Player1's answer seems like a deliberate attempt to divert the conversation, which could be a spy's tactic.
+Note: Do NOT vote for yourself(player5)
+[2025-05-09 15:21:23] player6 投票给 player1
+[2025-05-09 15:21:48] player1 投票给 player6,投票详情：I suspect player6 is the spy,  
+Reasoning: All other players (2, 3, 4, 5) explicitly describe attributes of *slippers* (e.g., "soft indoor footwear," "easy-to-slip-on," "cozy"). Player6's answer ("something everyone changes when they get home") is overly vague and could apply to multiple items (e.g., clothes, shoes), avoiding specific terminology. This ambiguity aligns with the spy’s lack of knowledge about the exact prompt.
+[2025-05-09 15:21:51] player4 投票给 player1,投票详情：I suspect player1 is the spy,  
+Reasoning: Player1 described footwear with open toes and straps, which seems more suited for outdoor use in warm climates, whereas the majority of players focused on indoor and cozy footwear. This suggests a possible mismatch in understanding the word.
+[2025-05-09 15:21:57] player2 投票给 player6,投票详情：I suspect player6 is the spy,
+Reasoning: While all other players describe specific types of footwear (player5 mentions "comfortable, lightweight footwear typically worn indoors," player1 describes "breathable footwear with open toes and straps," player4 talks about "soft indoor footwear designed for ease and relaxation," and player3 mentions "cozy, easy-to-slip-on footwear"), player6's description is more general and does not specify a type of footwear, only stating "something that everyone changes when they get home." This lack of specificity could indicate that player6 is the spy, as they might not be familiar with the specific details of the given word.
+[2025-05-09 15:22:02] player3 投票给 player1,投票详情：I suspect player1 is the spy,  
+Reasoning: Player1 mentioned "breathable footwear with open toes and straps," which seems to deviate from the theme of indoor or cozy footwear that other players focused on. Their description aligns more closely with outdoor sandals rather than something typically worn indoors or associated with comfort at home. This suggests they might not be aligned with the group's shared knowledge of the topic.
+[2025-05-09 15:22:02] 玩家 player1 被淘汰
+[2025-05-09 15:22:02] 卧底失败，平民胜利！
+[2025-05-09 15:22:02] 玩家 player1 被淘汰
+[2025-05-09 15:22:02] 卧底失败，平民胜利！
+[2025-05-09 15:22:02] ------ 游戏结束 ------
+[2025-05-09 15:22:02] ------ 游戏开始 ------
+[2025-05-09 15:22:02] 玩家分配如下：
+[2025-05-09 15:22:02] 玩家信息：(player_id=player5,word=Shampoo,分到的模型是ernie)
+[2025-05-09 15:22:02] 玩家信息：(player_id=player6,word=Shower Gel,分到的模型是user)
+[2025-05-09 15:22:02] 玩家信息：(player_id=player1,word=Shampoo,分到的模型是deepseek)
+[2025-05-09 15:22:02] 玩家信息：(player_id=player4,word=Shampoo,分到的模型是gpt)
+[2025-05-09 15:22:02] 玩家信息：(player_id=player2,word=Shampoo,分到的模型是glm)
+[2025-05-09 15:22:02] 玩家信息：(player_id=player3,word=Shampoo,分到的模型是Qwen)
+[2025-05-09 15:22:02] ------ 游戏开始 ------
+[2025-05-09 15:22:02] 玩家分配如下：
+[2025-05-09 15:22:02] 玩家信息：(player_id=player5,word=Shampoo,分到的模型是ernie)
+[2025-05-09 15:22:02] 玩家信息：(player_id=player6,word=Shower Gel,分到的模型是user)
+[2025-05-09 15:22:02] 玩家信息：(player_id=player1,word=Shampoo,分到的模型是deepseek)
+[2025-05-09 15:22:02] 玩家信息：(player_id=player4,word=Shampoo,分到的模型是gpt)
+[2025-05-09 15:22:02] 玩家信息：(player_id=player2,word=Shampoo,分到的模型是glm)
+[2025-05-09 15:22:02] 玩家信息：(player_id=player3,word=Shampoo,分到的模型是Qwen)
+[2025-05-09 15:22:12] player1 生成合法输出: This liquid is used to cleanse and lather hair during showers, often found in bottles with various fragrances.
+[2025-05-09 15:22:15] player3 生成合法输出: A product that helps clean and condition hair, often with pleasant scents, that people use regularly in their daily hygiene routine.
+[2025-05-09 15:22:18] player5 生成合法输出: A substance commonly used in the shower to clean and freshen hair, often available in scented varieties.
+[2025-05-09 15:22:21] player4 生成合法输出: A fragrant solution designed to cleanse and refresh hair, typically used during showers as part of a regular hygiene routine.
+[2025-05-09 15:22:22] player6 生成合法输出: It is used when taking a shower.
+[2025-05-09 15:22:24] player2 生成合法输出: A scented liquid used in the shower to cleanse and maintain the hygiene of hair.
+[2025-05-09 15:22:51] player1 投票给 player6,投票详情：I suspect player6 is the spy,  
+Reasoning: All other players explicitly mention the product's association with **hair** (e.g., "clean and condition hair," "clean and freshen hair," "refresh hair," "hygiene of hair"), while player6 only states, "It is used when taking a shower." This omission of the keyword "hair" is suspicious, as the spy might not know the specific target word (likely *shampoo*) and instead gives a generic shower-related answer.
+[2025-05-09 15:22:55] player3 投票给 player6,投票详情：I suspect player6 is the spy,  
+Reasoning: Player6 provided the vaguest description among all participants, simply stating "It is used when taking a shower." This lacks the specific details about cleansing, lathering, or hair care that other players mentioned. The lack of detail could indicate they are not familiar with the item being discussed, which aligns with the spy's role.
+[2025-05-09 15:23:03] player5 投票给 player6, 投票详情：I suspect player6 is the spy,
+Reasoning: While all players have described a product used in showers for cleaning and refreshing hair, typically with fragrances, player6's description is the most vague and lacks specific details compared to the others. The other players provided more elaborate descriptions that align closely with the common understanding of shampoo, whereas player6's statement is overly simplistic and could potentially be a deliberate attempt to avoid giving too much information, which might be a tactic used by the spy to avoid detection.
+Note: Do NOT vote for yourself(player5)
+[2025-05-09 15:23:06] player4 投票给 player6,投票详情：I suspect player6 is the spy,  
+Reasoning: While everyone else provided specific details about the product such as its use for cleaning and freshening hair, its pleasant scents, and its role in hygiene, player6 gave a vague response ("It is used when taking a shower") that could apply to many shower products, not just shampoo.
+[2025-05-09 15:25:25] player6 投票给 player1
+[2025-05-09 15:25:30] player2 投票给 player6,投票详情：I suspect player6 is the spy,
+Reasoning: While all other players provide detailed descriptions that specifically mention the product's use for cleansing and conditioning hair, often with fragrances, player6's statement is overly vague and does not directly reference hair or the specific purpose of the product. The phrase "used when taking a shower" could apply to many different products, indicating a lack of specific knowledge about the item in question.
+[2025-05-09 15:25:30] 玩家 player6 被淘汰
+[2025-05-09 15:25:30] 卧底失败，平民胜利！
+[2025-05-09 15:25:30] 玩家 player6 被淘汰
+[2025-05-09 15:25:30] 卧底失败，平民胜利！
+[2025-05-09 15:25:30] ------ 游戏结束 ------
+[2025-05-09 15:25:30] ------ 游戏开始 ------
+[2025-05-09 15:25:30] 玩家分配如下：
+[2025-05-09 15:25:30] 玩家信息：(player_id=player1,word=Fabric Softener,分到的模型是deepseek)
+[2025-05-09 15:25:30] 玩家信息：(player_id=player3,word=Laundry Detergent,分到的模型是Qwen)
+[2025-05-09 15:25:30] 玩家信息：(player_id=player5,word=Laundry Detergent,分到的模型是ernie)
+[2025-05-09 15:25:30] 玩家信息：(player_id=player4,word=Laundry Detergent,分到的模型是gpt)
+[2025-05-09 15:25:30] 玩家信息：(player_id=player6,word=Laundry Detergent,分到的模型是user)
+[2025-05-09 15:25:30] 玩家信息：(player_id=player2,word=Laundry Detergent,分到的模型是glm)
+[2025-05-09 15:25:30] ------ 游戏开始 ------
+[2025-05-09 15:25:30] 玩家分配如下：
+[2025-05-09 15:25:30] 玩家信息：(player_id=player1,word=Fabric Softener,分到的模型是deepseek)
+[2025-05-09 15:25:30] 玩家信息：(player_id=player3,word=Laundry Detergent,分到的模型是Qwen)
+[2025-05-09 15:25:30] 玩家信息：(player_id=player5,word=Laundry Detergent,分到的模型是ernie)
+[2025-05-09 15:25:30] 玩家信息：(player_id=player4,word=Laundry Detergent,分到的模型是gpt)
+[2025-05-09 15:25:30] 玩家信息：(player_id=player6,word=Laundry Detergent,分到的模型是user)
+[2025-05-09 15:25:30] 玩家信息：(player_id=player2,word=Laundry Detergent,分到的模型是glm)
+[2025-05-09 15:25:30] player6 生成合法输出: Blue Moon
+[2025-05-09 15:25:48] player1 生成合法输出: It leaves clothes feeling softer and reduces static cling after a wash.
+[2025-05-09 15:25:51] player3 生成合法输出: A product that helps clean garments and keeps them fresh, often used during the washing process.
+[2025-05-09 15:25:55] player5 生成合法输出: It's an essential household item used in washing clothes to remove stains and odors.
+[2025-05-09 15:25:58] player4 生成合法输出: It’s a cleaning agent that dissolves in water to remove dirt and stains from fabrics during the washing process.
+[2025-05-09 15:26:02] player2 生成合法输出: It's a liquid or powder used in washing machines to cleanse and freshen clothes, effectively tackling dirt and odors.
+[2025-05-09 15:32:34] player6 投票给 player1
+[2025-05-09 15:33:34] player1 投票给 player6,投票详情：'I suspect player6 is the spy,  
+Reasoning: All other players (player3, player5, player4, player2) provided detailed descriptions of a laundry detergent without explicitly naming the topic. Player6, however, only stated "Blue Moon," which is the topic itself. In Spyfall-like games, non-spies typically avoid directly revealing the topic name to avoid helping the spy. Player6’s response is overly simplistic and lacks a descriptive element, aligning with the spy’s behavior of guessing or repeating the topic without contextual knowledge.'
+[2025-05-09 15:33:40] player3 投票给 player5,投票详情：I suspect player5 is the spy,  
+Reasoning: Player5 described the item as something that "removes stains and odors," which could apply to either a fabric softener or detergent but wasn't specific enough. The other players provided more detailed descriptions focusing on the cleaning aspect or explicitly mentioned its role in washing clothes. Player5's description seems slightly off-target compared to the others, suggesting they might not fully understand the object being discussed.
+[2025-05-09 15:33:49] player5 投票给 player6, 投票详情：I suspect player6 is the spy,
+Reasoning: Player6's statement "Blue Moon" does not provide any useful information related to the topic of washing or cleaning agents, which is the apparent focus of the conversation. This lack of coherence with the ongoing discussion could indicate that player6 is attempting to divert attention or is not fully aware of the context, as one might expect a spy to behave. The other players' responses align more closely with describing a detergent or cleaning product, which is consistent with the theme of the conversation.
+Note: Do NOT vote for yourself(player5)
+[2025-05-09 15:33:54] player4 投票给 player6,投票详情：'I suspect player6 is the spy,  
+Reasoning: Player6's response, "Blue Moon," does not align with the context of discussing a household washing product. It stands out as unrelated or vague compared to the other players who provided detailed descriptions of detergent or fabric softener.'
+[2025-05-09 15:33:59] player2 投票给 player6,投票详情：I suspect player6 is the spy,
+Reasoning: Player6's statement "Blue Moon" does not directly relate to the context of a product used for washing clothes, unlike the other players who provided clear descriptions of a laundry-related product. The other players (player1, player3, player5, and player4) all give detailed explanations that align with the characteristics of a laundry detergent or fabric softener, indicating they are on the same page. Player6's vague and off-topic response suggests they might not be aware of the common objective, hinting they could be the spy.
+[2025-05-09 15:33:59] 玩家 player6 被淘汰
+[2025-05-09 15:33:59] 平民失败，卧底胜利！
+[2025-05-09 15:33:59] 玩家 player6 被淘汰
+[2025-05-09 15:33:59] 平民失败，卧底胜利！
+[2025-05-09 15:33:59] ------ 游戏结束 ------
+[2025-05-09 15:33:59] ------ 游戏开始 ------
+[2025-05-09 15:33:59] 玩家分配如下：
+[2025-05-09 15:33:59] 玩家信息：(player_id=player6,word=Hand Towel,分到的模型是user)
+[2025-05-09 15:33:59] 玩家信息：(player_id=player1,word=Hand Towel,分到的模型是deepseek)
+[2025-05-09 15:33:59] 玩家信息：(player_id=player3,word=Bath Towel,分到的模型是Qwen)
+[2025-05-09 15:33:59] 玩家信息：(player_id=player5,word=Hand Towel,分到的模型是ernie)
+[2025-05-09 15:33:59] 玩家信息：(player_id=player4,word=Hand Towel,分到的模型是gpt)
+[2025-05-09 15:33:59] 玩家信息：(player_id=player2,word=Hand Towel,分到的模型是glm)
+[2025-05-09 15:33:59] ------ 游戏开始 ------
+[2025-05-09 15:33:59] 玩家分配如下：
+[2025-05-09 15:33:59] 玩家信息：(player_id=player6,word=Hand Towel,分到的模型是user)
+[2025-05-09 15:33:59] 玩家信息：(player_id=player1,word=Hand Towel,分到的模型是deepseek)
+[2025-05-09 15:33:59] 玩家信息：(player_id=player3,word=Bath Towel,分到的模型是Qwen)
+[2025-05-09 15:33:59] 玩家信息：(player_id=player5,word=Hand Towel,分到的模型是ernie)
+[2025-05-09 15:33:59] 玩家信息：(player_id=player4,word=Hand Towel,分到的模型是gpt)
+[2025-05-09 15:33:59] 玩家信息：(player_id=player2,word=Hand Towel,分到的模型是glm)
+[2025-05-09 15:34:01] player4 生成合法输出: It's a small, absorbent item used to dry your hands after washing them.
+[2025-05-09 15:34:04] player3 生成合法输出: It's a soft, large fabric used to dry your body after bathing or swimming.
+[2025-05-09 15:35:05] player1 生成合法输出: An absorbent textile typically found near sinks, designed for drying hands and handling minor spills.
+[2025-05-09 15:35:08] player2 生成合法输出: It's a compact fabric often placed beside sinks, used for wiping hands clean and absorbing small amounts of liquid.
+[2025-05-09 15:35:11] player5 生成合法输出: It's a small, absorbent fabric commonly placed near sinks for drying hands.
+[2025-05-09 15:35:12] player6 生成合法输出: It can be divided into many types based on size or quality.
+[2025-05-09 15:35:15] player4 投票给 player3,投票详情：I suspect player3 is the spy,  
+Reasoning: Player3's description stands out significantly compared to the others. While the majority of players describe a smaller fabric typically used near sinks for drying hands, player3 describes a larger fabric used after bathing or swimming, which deviates from the more compact and sink-related context mentioned by others.
+[2025-05-09 15:35:19] player3 投票给 player6,投票详情：I suspect player6 is the spy,  
+Reasoning: Player6's description introduces an unrelated detail about the item being divided into many types based on size or quality, which doesn't align with the focus of the conversation about a small, absorbent item used for drying hands. This deviation suggests they might not be fully aligned with the group's understanding of the topic.
+[2025-05-09 15:36:04] player1 投票给 player6,投票详情：I suspect player6 is the spy,  
+**Reasoning**: All other players provided specific details about a small, absorbent fabric item placed near sinks for drying hands (consistent with a *hand towel*). Player3’s reference to a "large fabric for drying the body" aligns with a *bath towel*, which is contextually related. Player6, however, gave a vague, generic statement about "types based on size or quality," avoiding direct association with the likely location (e.g., bathroom) or specific item (towel). This ambiguity suggests uncertainty about the true answer, typical of a spy.
+[2025-05-09 15:36:11] player2 投票给 player6,投票详情：I suspect player6 is the spy,
+Reasoning: While all other players provide clear, specific descriptions of an item that is likely a "towel" or "hand towel," player6's statement is more vague and generalized, mentioning "many types based on size or quality" without directly describing the item's common use or appearance. This lack of specificity suggests they might not be familiar with the exact item being discussed, which is a typical trait of a spy in such games.
+[2025-05-09 15:36:18] player5 投票给 player6, 投票详情：I suspect player6 is the spy,
+Reasoning: Player6's statement is vague and does not specifically describe the item being referred to by the other players, which all seem to be describing a towel or a similar absorbent item. Player6's comment could apply to almost any item, making it less likely to be aligned with the specific context provided by the other players. This lack of specificity could indicate an attempt to avoid giving away their role as the spy by not providing a clear answer.
+[2025-05-09 15:37:02] player6 投票给 player3
+[2025-05-09 15:37:02] 玩家 player6 被淘汰
+[2025-05-09 15:37:02] 平民失败，卧底胜利！
+[2025-05-09 15:37:02] 玩家 player6 被淘汰
+[2025-05-09 15:37:02] 平民失败，卧底胜利！
+[2025-05-09 15:37:02] ------ 游戏结束 ------
+[2025-05-09 15:37:02] ------ 游戏开始 ------
+[2025-05-09 15:37:02] 玩家分配如下：
+[2025-05-09 15:37:02] 玩家信息：(player_id=player4,word=Cushion,分到的模型是gpt)
+[2025-05-09 15:37:02] 玩家信息：(player_id=player3,word=Pillow,分到的模型是Qwen)
+[2025-05-09 15:37:02] 玩家信息：(player_id=player1,word=Pillow,分到的模型是deepseek)
+[2025-05-09 15:37:02] 玩家信息：(player_id=player2,word=Pillow,分到的模型是glm)
+[2025-05-09 15:37:02] 玩家信息：(player_id=player5,word=Pillow,分到的模型是ernie)
+[2025-05-09 15:37:02] 玩家信息：(player_id=player6,word=Pillow,分到的模型是user)
+[2025-05-09 15:37:02] ------ 游戏开始 ------
+[2025-05-09 15:37:02] 玩家分配如下：
+[2025-05-09 15:37:02] 玩家信息：(player_id=player4,word=Cushion,分到的模型是gpt)
+[2025-05-09 15:37:02] 玩家信息：(player_id=player3,word=Pillow,分到的模型是Qwen)
+[2025-05-09 15:37:02] 玩家信息：(player_id=player1,word=Pillow,分到的模型是deepseek)
+[2025-05-09 15:37:02] 玩家信息：(player_id=player2,word=Pillow,分到的模型是glm)
+[2025-05-09 15:37:02] 玩家信息：(player_id=player5,word=Pillow,分到的模型是ernie)
+[2025-05-09 15:37:02] 玩家信息：(player_id=player6,word=Pillow,分到的模型是user)
+[2025-05-09 15:37:18] player1 生成合法输出: A soft cushion used to support the head or neck while resting or sleeping, often filled with materials like feathers, foam, or polyester.
+[2025-05-09 15:37:22] player3 生成合法输出: A soft object that provides comfort and support for your head when you lie down.
+[2025-05-09 15:37:23] player6 生成合法输出: I can't fall asleep without it.
+[2025-05-09 15:37:26] player2 生成合法输出: A plush item essential for a comfortable night's rest, cradling the head and neck in softness.
+[2025-05-09 15:37:30] player4 生成合法输出: A soft, padded item often used for support or comfort, typically placed on furniture like chairs or sofas.
+[2025-05-09 15:37:33] player5 生成合法输出: A squishy item commonly found in beds and couches, designed to support and cushion the head.
+[2025-05-09 15:37:58] player1 投票给 player4,投票详情：'I suspect player4 is the spy,  
+Reasoning: The conversation heavily implies the word is *pillow*, as most players mention beds, sleep, and head/neck support. Player4’s answer shifts focus to furniture like chairs or sofas, which aligns more with *cushion*—a related but distinct term. This subtle deviation suggests player4 might be the spy unfamiliar with the exact keyword.
+[2025-05-09 15:38:06] player3 投票给 player4,投票详情：I suspect player4 is the spy,  
+Reasoning: Player4 described a "soft, padded item often used for support or comfort, typically placed on furniture like chairs or sofas." This description seems to deviate slightly from the central theme of a pillow used specifically for sleeping or resting the head. Instead, their definition aligns more broadly with cushions or decorative pillows found on sofas and chairs, which may not always serve the primary purpose of supporting the head while sleeping. The other players' descriptions are more closely tied to the function of a pillow for rest or sleep. Therefore, player4’s description feels less focused on the specific role of a pillow, raising suspicion.
+[2025-05-09 15:41:34] player6 投票给 player4
+[2025-05-09 15:41:40] player2 投票给 player4,投票详情：I suspect player4 is the spy,
+Reasoning: While all players describe a pillow in some form, player4's description is the most generic and less specific to a pillow's primary function of supporting the head or neck. They mention it being used for support or comfort on furniture like chairs or sofas, which could apply to many different items, not just a pillow. This vagueness stands out compared to the more direct and specific descriptions provided by the other players.
+[2025-05-09 15:41:48] player4 投票给 player6,投票详情：I suspect player6 is the spy,  
+Reasoning: Their description is vague and doesn't provide any specific details about the item, unlike others who mentioned its purpose, materials, or where it's commonly found. It seems like they are avoiding giving away too much information.
+[2025-05-09 15:41:57] player5 投票给 player6, 投票详情：I suspect player6 is the spy,
+Reasoning: While all players have described a soft, padded item used for comfort and support while resting or sleeping, player6's response ("I can't fall asleep without it.") suggests a personal dependency on this item, which could imply they are trying to steer the conversation towards a more personal and less objective description, potentially to obscure their spy identity. Additionally, player6's statement does not directly describe the item like the other players, which could be a strategic attempt to avoid giving away too much information.
+Note: Do NOT vote for yourself(player5)
+[2025-05-09 15:41:57] 玩家 player4 被淘汰
+[2025-05-09 15:41:57] 卧底失败，平民胜利！
+[2025-05-09 15:41:57] 玩家 player4 被淘汰
+[2025-05-09 15:41:57] 卧底失败，平民胜利！
+[2025-05-09 15:41:57] ------ 游戏结束 ------
+[2025-05-09 15:41:57] ------ 游戏开始 ------
+[2025-05-09 15:41:57] 玩家分配如下：
+[2025-05-09 15:41:57] 玩家信息：(player_id=player1,word=Curtain,分到的模型是deepseek)
+[2025-05-09 15:41:57] 玩家信息：(player_id=player3,word=Curtain,分到的模型是Qwen)
+[2025-05-09 15:41:57] 玩家信息：(player_id=player6,word=Curtain,分到的模型是user)
+[2025-05-09 15:41:57] 玩家信息：(player_id=player2,word=Curtain,分到的模型是glm)
+[2025-05-09 15:41:57] 玩家信息：(player_id=player4,word=Blinds,分到的模型是gpt)
+[2025-05-09 15:41:57] 玩家信息：(player_id=player5,word=Curtain,分到的模型是ernie)
+[2025-05-09 15:41:57] ------ 游戏开始 ------
+[2025-05-09 15:41:57] 玩家分配如下：
+[2025-05-09 15:41:57] 玩家信息：(player_id=player1,word=Curtain,分到的模型是deepseek)
+[2025-05-09 15:41:57] 玩家信息：(player_id=player3,word=Curtain,分到的模型是Qwen)
+[2025-05-09 15:41:57] 玩家信息：(player_id=player6,word=Curtain,分到的模型是user)
+[2025-05-09 15:41:57] 玩家信息：(player_id=player2,word=Curtain,分到的模型是glm)
+[2025-05-09 15:41:57] 玩家信息：(player_id=player4,word=Blinds,分到的模型是gpt)
+[2025-05-09 15:41:57] 玩家信息：(player_id=player5,word=Curtain,分到的模型是ernie)
+[2025-05-09 15:41:58] player3 生成合法输出: A piece of fabric that hangs down and can be opened or closed to control visibility or provide privacy.
+[2025-05-09 15:42:01] player2 生成合法输出: A household item often used to shield windows, allowing light control and maintaining personal space.
+[2025-05-09 15:42:02] player6 生成合法输出: I will pull it down when I turn on the light at night.
+[2025-05-09 15:42:04] player4 生成合法输出: A slatted covering that adjusts to control light and privacy in a room.
+[2025-05-09 15:42:56] player1 生成合法输出: A decorative window treatment made of cloth that can be drawn aside or closed to balance natural light and seclusion.
+[2025-05-09 15:42:59] player5 生成合法输出: A flexible window covering made of fabric, used to regulate light and offer privacy.
+[2025-05-09 15:43:05] player3 投票给 player6,投票详情：I suspect player6 is the spy,
+Reasoning:player6's statement "I will pull it down when I turn on the light at night" seems less detailed and precise compared to the others. Most players provided specific descriptions related to window coverings, such as slats, fabric, privacy, and light control. However, player6's contribution doesn't explicitly mention any type of window covering or its characteristics, making their input stand out as potentially unrelated or vague.
+[2025-05-09 15:43:10] player2 投票给 player4,投票详情：I suspect player4 is the spy,
+Reasoning: While all other players describe a window covering made of fabric (curtains or drapes), player4 describes a "slatted covering," which sounds more like blinds rather than a fabric-based window treatment. This discrepancy suggests player4 might not be on the same page as the others, indicating they could be the spy.
+[2025-05-09 15:45:15] player6 投票给 player4
+[2025-05-09 15:45:19] player4 投票给 player6,投票详情：'I suspect player6 is the spy,  
+Reasoning: Player6's description is vague and focuses solely on the action of pulling it down at night, which doesn't fully align with the detailed descriptions of fabric, visibility control, and privacy mentioned by the others.'
+[2025-05-09 15:47:21] player1 投票给 player6,投票详情：I suspect player6 is the spy,  
+Reasoning: The majority of players (3, 2, 5) describe a fabric-based window covering (curtains), emphasizing features like hanging fabric, light control, and flexibility. Player4 explicitly mentions "slatted covering," aligning with blinds. Player6, however, states, "I will pull it down when I turn on the light at night," which strongly aligns with blinds (pulled down via cords) rather than curtains (typically drawn sideways). Since curtains and blinds are distinct categories, and the majority lean toward curtains, player6’s specific action contradicts the fabric-based descriptions, suggesting they are the spy.
+[2025-05-09 15:47:32] player5 投票给 player6, 投票详情：I suspect player6 is the spy,
+Reasoning: Player6's response directly correlates with the descriptions given by the other players, implying familiarity with the item in question, which in this context seems to be a curtain or blind. Player6 mentions pulling it down when turning on the light at night, a common use for such an item. While all players' descriptions fit the general concept, player6's specific action suggests a deeper understanding or personal experience, aligning with spy behavior where subtle personal connections or insights could hint at their knowledge beyond general discussion.
+Note: Do NOT vote for yourself(player5)
+[2025-05-09 15:47:32] 玩家 player6 被淘汰
+[2025-05-09 15:47:32] 平民失败，卧底胜利！
+[2025-05-09 15:47:32] 玩家 player6 被淘汰
+[2025-05-09 15:47:32] 平民失败，卧底胜利！
+[2025-05-09 15:47:32] ------ 游戏结束 ------
+[2025-05-09 15:47:32] ------ 游戏开始 ------
+[2025-05-09 15:47:32] 玩家分配如下：
+[2025-05-09 15:47:32] 玩家信息：(player_id=player3,word=Mop,分到的模型是Qwen)
+[2025-05-09 15:47:32] 玩家信息：(player_id=player2,word=Broom,分到的模型是glm)
+[2025-05-09 15:47:32] 玩家信息：(player_id=player6,word=Broom,分到的模型是user)
+[2025-05-09 15:47:32] 玩家信息：(player_id=player4,word=Broom,分到的模型是gpt)
+[2025-05-09 15:47:32] 玩家信息：(player_id=player1,word=Broom,分到的模型是deepseek)
+[2025-05-09 15:47:32] 玩家信息：(player_id=player5,word=Broom,分到的模型是ernie)
+[2025-05-09 15:47:32] ------ 游戏开始 ------
+[2025-05-09 15:47:32] 玩家分配如下：
+[2025-05-09 15:47:32] 玩家信息：(player_id=player3,word=Mop,分到的模型是Qwen)
+[2025-05-09 15:47:32] 玩家信息：(player_id=player2,word=Broom,分到的模型是glm)
+[2025-05-09 15:47:32] 玩家信息：(player_id=player6,word=Broom,分到的模型是user)
+[2025-05-09 15:47:32] 玩家信息：(player_id=player4,word=Broom,分到的模型是gpt)
+[2025-05-09 15:47:32] 玩家信息：(player_id=player1,word=Broom,分到的模型是deepseek)
+[2025-05-09 15:47:32] 玩家信息：(player_id=player5,word=Broom,分到的模型是ernie)
+[2025-05-09 15:47:33] player5 生成合法输出: It's a cleaning tool with bristles attached to a long handle.
+[2025-05-09 15:48:15] player1 生成合法输出: It's often paired with a dustpan to efficiently collect debris from floors.
+[2025-05-09 15:48:18] player2 生成合法输出: It's a household item used for sweeping dirt and small particles into a pile.
+[2025-05-09 15:48:19] player6 生成合法输出: In fairy tales, witches ride on it to fly around.
+[2025-05-09 15:48:21] player4 生成合法输出: It's a household item used to gather dust and debris, often associated with tidying floors.
+[2025-05-09 15:48:24] player3 生成合法输出: It's a tool used for cleaning floors, often absorbing liquid and dirt to keep surfaces clean.
+[2025-05-09 15:48:37] player5 投票给 player6, 投票详情：I suspect player6 is the spy,
+Reasoning: Player6 mentioned "In fairy tales, witches ride on it to fly around," which is a clear reference to a broomstick, which is not typically associated with the cleaning tools being discussed by the other players. The other players are describing a broom, which is used for sweeping floors, while player6's description does not align with this common use. This suggests that player6 may be trying to divert attention or confuse the group, which is a common tactic used by the spy.
+[2025-05-09 15:48:57] player1 投票给 player3,投票详情：I suspect player3 is the spy,  
+**Reasoning**: All other players (2, 4, 5, 6) described features of a **broom** (bristles, sweeping dirt, witches flying, tidying floors). Player3, however, mentioned "absorbing liquid and dirt," which aligns with a **mop**, not a broom. This inconsistency suggests player3 is unaware of the correct item.
+[2025-05-09 15:49:02] player2 投票给 player3,投票详情：I suspect player3 is the spy,
+Reasoning: While all other players described a broom by focusing on its bristles, long handle, and association with sweeping and fairy tales, player3 mentioned that it "absorbs liquid and dirt," which is more characteristic of a mop rather than a broom. This discrepancy suggests player3 might not be familiar with the actual item being described, indicating they could be the spy.
+[2025-05-09 15:52:37] player6 投票给 player3
+[2025-05-09 15:52:42] player4 投票给 player3,投票详情：I suspect player3 is the spy,  
+Reasoning: While everyone else described a broom, player3 mentioned a tool that absorbs liquid and dirt, which sounds more like a mop rather than a broom. This deviation suggests they might not know the word.
+[2025-05-09 15:52:46] player3 投票给 player6,投票详情：I suspect player6 is the spy,
+Reasoning:Player6 introduced an unrelated concept about witches riding on it, which doesn't align with the focus on a common cleaning tool used for sweeping. The other players provided practical descriptions related to cleaning and household use, while player6's comment seems out of place and might indicate they are not fully aware of the item being discussed.
+[2025-05-09 15:52:46] 玩家 player3 被淘汰
+[2025-05-09 15:52:46] 卧底失败，平民胜利！
+[2025-05-09 15:52:46] 玩家 player3 被淘汰
+[2025-05-09 15:52:46] 卧底失败，平民胜利！
+[2025-05-09 15:52:46] ------ 游戏结束 ------
+[2025-05-09 15:52:46] ------ 游戏开始 ------
+[2025-05-09 15:52:46] 玩家分配如下：
+[2025-05-09 15:52:46] 玩家信息：(player_id=player5,word=Trash Bin,分到的模型是ernie)
+[2025-05-09 15:52:46] 玩家信息：(player_id=player1,word=Trash Bin,分到的模型是deepseek)
+[2025-05-09 15:52:46] 玩家信息：(player_id=player2,word=Garbage Bag,分到的模型是glm)
+[2025-05-09 15:52:46] 玩家信息：(player_id=player6,word=Trash Bin,分到的模型是user)
+[2025-05-09 15:52:46] 玩家信息：(player_id=player4,word=Trash Bin,分到的模型是gpt)
+[2025-05-09 15:52:46] 玩家信息：(player_id=player3,word=Trash Bin,分到的模型是Qwen)
+[2025-05-09 15:52:46] ------ 游戏开始 ------
+[2025-05-09 15:52:46] 玩家分配如下：
+[2025-05-09 15:52:46] 玩家信息：(player_id=player5,word=Trash Bin,分到的模型是ernie)
+[2025-05-09 15:52:46] 玩家信息：(player_id=player1,word=Trash Bin,分到的模型是deepseek)
+[2025-05-09 15:52:46] 玩家信息：(player_id=player2,word=Garbage Bag,分到的模型是glm)
+[2025-05-09 15:52:46] 玩家信息：(player_id=player6,word=Trash Bin,分到的模型是user)
+[2025-05-09 15:52:46] 玩家信息：(player_id=player4,word=Trash Bin,分到的模型是gpt)
+[2025-05-09 15:52:46] 玩家信息：(player_id=player3,word=Trash Bin,分到的模型是Qwen)
+[2025-05-09 15:52:47] player3 生成合法输出: It's where people usually throw away things they no longer need or consider useless.
+[2025-05-09 15:52:48] player6 生成合法输出: I like to crack sunflower seeds with it.
+[2025-05-09 15:52:51] player4 生成合法输出: It's a container commonly used to collect discarded items for disposal.
+[2025-05-09 15:52:53] player5 生成合法输出: It's a large receptacle often placed in various locations for people to deposit waste.
+[2025-05-09 15:52:56] player2 生成合法输出: It's a flexible, often plastic-lined pouch used to temporarily store and dispose of household or office waste.
+[2025-05-09 15:53:51] player1 生成合法输出: It’s a sturdy, lidded container designed for hygienic storage of discarded materials until collection, frequently found indoors or outdoors.
+[2025-05-09 15:53:54] player3 投票给 player6,投票详情：I suspect player6 is the spy,  
+Reasoning: Player6 mentioned something about cracking sunflower seeds, which doesn't align with the descriptions provided by the other players that point toward a trash bin or waste container. Their statement seems unrelated and doesn't fit the theme of the discussion, making them a likely candidate for the spy.
+[2025-05-09 16:04:53] player6 投票给 player2
+[2025-05-09 16:04:55] player4 投票给 player6,投票详情：I suspect player6 is the spy,  
+Reasoning: The mention of cracking sunflower seeds seems out of place compared to the other descriptions, which all relate specifically to waste disposal. It doesn't align with the typical use of a trash-related item.
+[2025-05-09 16:05:00] player5 投票给 player6, 投票详情：I suspect player6 is the spy,
+Reasoning: Player6's response seems unrelated to the context of the conversation, which is discussing a container for discarded items. Mentioning cracking sunflower seeds with it does not fit the description of such a container, unlike the other players who provided plausible descriptions of a trash bin or garbage container.
+[2025-05-09 16:05:05] player2 投票给 player6,投票详情：I suspect player6 is the spy,
+Reasoning: All other players (player3, player4, player5, and player1) describe an object typically associated with waste disposal, such as a trash can or dumpster. Their descriptions focus on its purpose and common placement. However, player6's statement about cracking sunflower seeds is unrelated to waste disposal and suggests a different object, likely a tool or a device not typically used for collecting discarded items. This discrepancy makes player6's response suspicious.
+[2025-05-09 16:05:53] player1 投票给 player6,投票详情：'I suspect player6 is the spy,  
+Reasoning: All other players (3, 4, 5, 2) describe a waste disposal container (e.g., trash can, bin, bag). Player6’s clue ("crack sunflower seeds with it") is unrelated to waste disposal and suggests a tool or object for cracking shells, which does not align with the common theme. This inconsistency strongly indicates player6 is the spy attempting to blend in with an irrelevant answer.'
+[2025-05-09 16:05:53] 玩家 player6 被淘汰
+[2025-05-09 16:05:53] 平民失败，卧底胜利！
+[2025-05-09 16:05:53] 玩家 player6 被淘汰
+[2025-05-09 16:05:53] 平民失败，卧底胜利！
+[2025-05-09 16:05:53] ------ 游戏结束 ------
+[2025-05-09 16:05:53] ------ 游戏开始 ------
+[2025-05-09 16:05:53] 玩家分配如下：
+[2025-05-09 16:05:53] 玩家信息：(player_id=player3,word=Refrigerator,分到的模型是Qwen)
+[2025-05-09 16:05:53] 玩家信息：(player_id=player6,word=Freezer,分到的模型是user)
+[2025-05-09 16:05:53] 玩家信息：(player_id=player4,word=Refrigerator,分到的模型是gpt)
+[2025-05-09 16:05:53] 玩家信息：(player_id=player5,word=Refrigerator,分到的模型是ernie)
+[2025-05-09 16:05:53] 玩家信息：(player_id=player2,word=Refrigerator,分到的模型是glm)
+[2025-05-09 16:05:53] 玩家信息：(player_id=player1,word=Refrigerator,分到的模型是deepseek)
+[2025-05-09 16:05:53] ------ 游戏开始 ------
+[2025-05-09 16:05:53] 玩家分配如下：
+[2025-05-09 16:05:53] 玩家信息：(player_id=player3,word=Refrigerator,分到的模型是Qwen)
+[2025-05-09 16:05:53] 玩家信息：(player_id=player6,word=Freezer,分到的模型是user)
+[2025-05-09 16:05:53] 玩家信息：(player_id=player4,word=Refrigerator,分到的模型是gpt)
+[2025-05-09 16:05:53] 玩家信息：(player_id=player5,word=Refrigerator,分到的模型是ernie)
+[2025-05-09 16:05:53] 玩家信息：(player_id=player2,word=Refrigerator,分到的模型是glm)
+[2025-05-09 16:05:53] 玩家信息：(player_id=player1,word=Refrigerator,分到的模型是deepseek)
+[2025-05-09 16:05:54] player3 生成合法输出: A common household appliance used to keep food and drinks cold and fresh.
+[2025-05-09 16:06:51] player1 生成合法输出: Essential for preserving perishables, often found in kitchens with a humming motor and adjustable shelves.
+[2025-05-09 16:06:54] player2 生成合法输出: A large, insulated cabinet with a motorized cooling system, typically found in kitchens to maintain low temperatures for storing food and beverages.
+[2025-05-09 16:06:55] player6 生成合法输出: It is commonly seen in stores during the summer.
+[2025-05-09 16:06:56] player4 生成合法输出: A kitchen fixture that uses electricity to keep food items cool and prolong their freshness.
+[2025-05-09 16:07:01] player5 生成合法输出: A cooling device typically placed in homes and commercial establishments to store food and drinks at a low temperature.
+[2025-05-09 16:07:08] player3 投票给 player6,投票详情：I suspect player6 is the spy,  
+Reasoning: Player6's contribution to the conversation ("It is commonly seen in stores during the summer") seems off-topic and doesn't directly relate to the description of a refrigerator, which is the item being discussed. The other players provided detailed descriptions focusing on the functionality and features of a refrigerator, while player6 introduced an unrelated detail about stores and summer, which does not align with the core characteristics of the object. This deviation suggests that player6 may not know the actual object being discussed.
+[2025-05-09 16:07:40] player1 投票给 player6,投票详情：I suspect player6 is the spy,
+Reasoning: All other players (2, 3, 4, 5) provided descriptions consistent with a **refrigerator**, focusing on household/kitchen use, insulation, and food preservation. Player6’s clue (“commonly seen in stores during the summer”) is vague and leans toward commercial/seasonal contexts (e.g., ice cream freezers, beverage coolers) rather than the core household appliance. This mismatch suggests uncertainty about the specific item, making player6 the likely spy.
+[2025-05-09 16:07:45] player2 投票给 player6,投票详情：I suspect player6 is the spy,
+Reasoning: While all other players describe the appliance in detail, focusing on its function and common location (kitchen), player6's description is less specific and mentions a seasonal context ("commonly seen in stores during the summer") which is less relevant to the primary function and typical location of the appliance, suggesting they might not be fully aware of the item being described.
+[2025-05-09 16:09:17] player6 投票给 player3
+[2025-05-09 16:09:20] player4 投票给 player6,投票详情：I suspect player6 is the spy,  
+Reasoning: While all other players described a refrigerator, which is commonly found in kitchens and used year-round, player6 mentioned seeing it in stores during the summer. This description is more aligned with a seasonal item like an air conditioner, rather than a refrigerator.
+[2025-05-09 16:09:30] player5 投票给 player6, 投票详情：I suspect player6 is the spy,
+Reasoning: Player6's contribution to the conversation is relatively vague and does not provide a detailed description of the appliance like the other players. While the others specifically mention features such as adjustable shelves, motorized cooling systems, and electricity use, player6 simply states that the item is "commonly seen in stores during the summer," which could apply to many different types of appliances or products. This lack of specificity and the general nature of the response make player6's statement less informative and more consistent with someone trying to avoid giving away too much information, which could be a spy's tactic.
+[2025-05-09 16:09:30] 玩家 player6 被淘汰
+[2025-05-09 16:09:30] 卧底失败，平民胜利！
+[2025-05-09 16:09:30] 玩家 player6 被淘汰
+[2025-05-09 16:09:30] 卧底失败，平民胜利！
+[2025-05-09 16:09:30] ------ 游戏结束 ------
+[2025-05-09 16:09:30] ------ 游戏统计结果 ------
+[2025-05-09 16:09:30] player4 详细统计:
+[2025-05-09 16:09:30]   - 被分配为卧底的次数: 2
+[2025-05-09 16:09:30]   - 卧底胜利的次数: 1
+[2025-05-09 16:09:30]   - 被分配为平民的次数: 8
+[2025-05-09 16:09:30]   - 平民胜利的次数: 5
+[2025-05-09 16:09:30] player5 详细统计:
+[2025-05-09 16:09:30]   - 被分配为卧底的次数: 0
+[2025-05-09 16:09:30]   - 卧底胜利的次数: 0
+[2025-05-09 16:09:30]   - 被分配为平民的次数: 10
+[2025-05-09 16:09:30]   - 平民胜利的次数: 6
+[2025-05-09 16:09:30] player6 详细统计:
+[2025-05-09 16:09:30]   - 被分配为卧底的次数: 3
+[2025-05-09 16:09:30]   - 卧底胜利的次数: 0
+[2025-05-09 16:09:30]   - 被分配为平民的次数: 7
+[2025-05-09 16:09:30]   - 平民胜利的次数: 3
+[2025-05-09 16:09:30] player2 详细统计:
+[2025-05-09 16:09:30]   - 被分配为卧底的次数: 1
+[2025-05-09 16:09:30]   - 卧底胜利的次数: 1
+[2025-05-09 16:09:30]   - 被分配为平民的次数: 9
+[2025-05-09 16:09:30]   - 平民胜利的次数: 6
+[2025-05-09 16:09:30] player3 详细统计:
+[2025-05-09 16:09:30]   - 被分配为卧底的次数: 2
+[2025-05-09 16:09:30]   - 卧底胜利的次数: 1
+[2025-05-09 16:09:30]   - 被分配为平民的次数: 8
+[2025-05-09 16:09:30]   - 平民胜利的次数: 5
+[2025-05-09 16:09:30] player1 详细统计:
+[2025-05-09 16:09:30]   - 被分配为卧底的次数: 2
+[2025-05-09 16:09:30]   - 卧底胜利的次数: 1
+[2025-05-09 16:09:30]   - 被分配为平民的次数: 8
+[2025-05-09 16:09:30]   - 平民胜利的次数: 5
+[2025-05-09 16:09:30] ------ 按模型统计的结果 ------
+[2025-05-09 16:09:30] 模型 deepseek:
+[2025-05-09 16:09:30]   - 平民投票命中率: 0.6250
+[2025-05-09 16:09:30]   - 卧底获胜率: 0.5000
+[2025-05-09 16:09:30]   - 非法输出次数: 0
+[2025-05-09 16:09:30] 模型 glm:
+[2025-05-09 16:09:30]   - 平民投票命中率: 0.6667
+[2025-05-09 16:09:30]   - 卧底获胜率: 1.0000
+[2025-05-09 16:09:30]   - 非法输出次数: 0
+[2025-05-09 16:09:30] 模型 Qwen:
+[2025-05-09 16:09:30]   - 平民投票命中率: 0.6250
+[2025-05-09 16:09:30]   - 卧底获胜率: 0.5000
+[2025-05-09 16:09:30]   - 非法输出次数: 0
+[2025-05-09 16:09:30] 模型 gpt:
+[2025-05-09 16:09:30]   - 平民投票命中率: 0.7500
+[2025-05-09 16:09:30]   - 卧底获胜率: 0.5000
+[2025-05-09 16:09:30]   - 非法输出次数: 0
+[2025-05-09 16:09:30] 模型 ernie:
+[2025-05-09 16:09:30]   - 平民投票命中率: 0.3000
+[2025-05-09 16:09:30]   - 卧底获胜率: 0.0000
+[2025-05-09 16:09:30]   - 非法输出次数: 0
+[2025-05-09 16:09:30] 模型 user:
+[2025-05-09 16:09:30]   - 平民投票命中率: 1.0000
+[2025-05-09 16:09:30]   - 卧底获胜率: 0.0000
+[2025-05-09 16:09:30]   - 非法输出次数: 0
